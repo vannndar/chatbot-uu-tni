@@ -1,0 +1,152 @@
+[
+  {
+    "Context": "Tentara Rakyat, yaitu tentara yang anggotanya berasal dari warga negara Indonesia;",
+    "Question": "Apa yang dimaksud dengan Tentara Rakyat menurut Pasal 2 huruf a?",
+    "Answer": "Tentara Rakyat adalah tentara yang anggotanya berasal dari warga negara Indonesia."
+  },
+  {
+    "Context": "Tentara Rakyat, yaitu tentara yang anggotanya berasal dari warga negara Indonesia;",
+    "Question": "Siapa yang dapat menjadi anggota Tentara Rakyat?",
+    "Answer": "Anggota Tentara Rakyat berasal dari warga negara Indonesia."
+  },
+  {
+    "Context": "Tentara Pejuang, yaitu tentara yang berjuang menegakkan Negara Kesatuan Republik Indonesia dan tidak mengenal menyerah dalam melaksanakan dan menyelesaikan tugasnya;",
+    "Question": "Apa yang dimaksud dengan Tentara Pejuang menurut Pasal 2 huruf b?",
+    "Answer": "Tentara Pejuang adalah tentara yang berjuang menegakkan NKRI dan tidak mengenal menyerah dalam melaksanakan tugasnya."
+  },
+  {
+    "Context": "Tentara Pejuang, yaitu tentara yang berjuang menegakkan Negara Kesatuan Republik Indonesia dan tidak mengenal menyerah dalam melaksanakan dan menyelesaikan tugasnya;",
+    "Question": "Mengapa Tentara Pejuang disebut tidak mengenal menyerah?",
+    "Answer": "Karena dalam Pasal 2 huruf b ditegaskan bahwa Tentara Pejuang tidak mengenal menyerah dalam melaksanakan dan menyelesaikan tugasnya."
+  },
+  {
+    "Context": "Tentara Nasional, yaitu tentara kebangsaan Indonesia yang bertugas demi kepentingan negara di atas kepentingan daerah, suku, ras, dan golongan agama;",
+    "Question": "Apa yang dimaksud dengan Tentara Nasional menurut Pasal 2 huruf c?",
+    "Answer": "Tentara Nasional adalah tentara kebangsaan Indonesia yang bertugas demi kepentingan negara di atas kepentingan daerah, suku, ras, dan golongan agama."
+  },
+  {
+    "Context": "Tentara Nasional, yaitu tentara kebangsaan Indonesia yang bertugas demi kepentingan negara di atas kepentingan daerah, suku, ras, dan golongan agama;",
+    "Question": "Kepentingan apa yang diutamakan Tentara Nasional?",
+    "Answer": "Tentara Nasional mengutamakan kepentingan negara di atas kepentingan daerah, suku, ras, dan golongan agama."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Apa yang dimaksud dengan Tentara Profesional menurut Pasal 2 huruf d?",
+    "Answer": "Tentara Profesional adalah tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dijamin kesejahteraannya, dan mengikuti kebijakan politik negara yang demokratis serta menghormati hukum dan HAM."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Apa arti 'terlatih dan terdidik' dalam definisi Tentara Profesional?",
+    "Answer": "Artinya Tentara Profesional telah melalui latihan dan pendidikan yang baik sehingga kompeten menjalankan tugasnya."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Mengapa Tentara Profesional tidak berpolitik praktis?",
+    "Answer": "Pasal 2 huruf d menyebutkan Tentara Profesional tidak berpolitik praktis agar tetap netral dan fokus pada tugas pertahanan negara."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Bagaimana kesejahteraan Tentara Profesional dijamin?",
+    "Answer": "Dalam Pasal 2 huruf d dinyatakan bahwa Tentara Profesional dijamin kesejahteraannya."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Sebutkan prinsip kebijakan politik negara yang diikuti Tentara Profesional!",
+    "Answer": "Tentara Profesional mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang diratifikasi."
+  },
+  {
+    "Context": "Tentara Rakyat, yaitu tentara yang anggotanya berasal dari warga negara Indonesia; Tentara Pejuang, yaitu tentara yang berjuang menegakkan Negara Kesatuan Republik Indonesia dan tidak mengenal menyerah dalam melaksanakan dan menyelesaikan tugasnya; Tentara Nasional, yaitu tentara kebangsaan Indonesia yang bertugas demi kepentingan negara di atas kepentingan daerah, suku, ras, dan golongan agama; Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Sebutkan keempat jati diri TNI menurut Pasal 2!",
+    "Answer": "Keempat jati diri TNI adalah Tentara Rakyat, Tentara Pejuang, Tentara Nasional, dan Tentara Profesional."
+  },
+  {
+    "Context": "Tentara Rakyat, yaitu tentara yang anggotanya berasal dari warga negara Indonesia; Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Apa perbedaan utama antara Tentara Rakyat dan Tentara Profesional?",
+    "Answer": "Tentara Rakyat anggotanya berasal dari warga negara Indonesia, sedangkan Tentara Profesional menekankan profesionalitas melalui pelatihan, pendidikan, dan tidak berpolitik praktis."
+  },
+  {
+    "Context": "Tentara Pejuang, yaitu tentara yang berjuang menegakkan Negara Kesatuan Republik Indonesia dan tidak mengenal menyerah dalam melaksanakan dan menyelesaikan tugasnya; Tentara Nasional, yaitu tentara kebangsaan Indonesia yang bertugas demi kepentingan negara di atas kepentingan daerah, suku, ras, dan golongan agama;",
+    "Question": "Bagaimana perbedaan fokus tugas Tentara Pejuang dan Tentara Nasional?",
+    "Answer": "Tentara Pejuang fokus menegakkan NKRI tanpa mengenal menyerah, sedangkan Tentara Nasional bertugas demi kepentingan negara di atas kepentingan kelompok apa pun."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Jati diri mana yang menegaskan supremasi sipil?",
+    "Answer": "Tentara Profesional, sebagaimana disebut dalam Pasal 2 huruf d, menegaskan prinsip supremasi sipil."
+  },
+  {
+    "Context": "Tentara Pejuang, yaitu tentara yang berjuang menegakkan Negara Kesatuan Republik Indonesia dan tidak mengenal menyerah dalam melaksanakan dan menyelesaikan tugasnya;",
+    "Question": "Jati diri mana yang menegaskan tidak mengenal menyerah?",
+    "Answer": "Tentara Pejuang menegaskan sikap tidak mengenal menyerah."
+  },
+  {
+    "Context": "Tentara Nasional, yaitu tentara kebangsaan Indonesia yang bertugas demi kepentingan negara di atas kepentingan daerah, suku, ras, dan golongan agama;",
+    "Question": "Mengapa Tentara Nasional harus mengesampingkan kepentingan suku, ras, dan agama?",
+    "Answer": "Karena Tentara Nasional bertugas demi kepentingan negara yang berada di atas kepentingan daerah, suku, ras, dan golongan agama."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Selain terlatih, apa lagi yang menandai Tentara Profesional?",
+    "Answer": "Selain terlatih, Tentara Profesional terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan kesejahteraannya dijamin."
+  },
+  {
+    "Context": "Tentara Nasional, yaitu tentara kebangsaan Indonesia yang bertugas demi kepentingan negara di atas kepentingan daerah, suku, ras, dan golongan agama;",
+    "Question": "Apa arti istilah 'tentara kebangsaan Indonesia' dalam Tentara Nasional?",
+    "Answer": "Istilah tersebut menekankan bahwa Tentara Nasional adalah representasi seluruh bangsa Indonesia, bukan kelompok tertentu."
+  },
+  {
+    "Context": "Tentara Pejuang, yaitu tentara yang berjuang menegakkan Negara Kesatuan Republik Indonesia dan tidak mengenal menyerah dalam melaksanakan dan menyelesaikan tugasnya;",
+    "Question": "Mengapa keberanian menjadi ciri Tentara Pejuang?",
+    "Answer": "Karena Tentara Pejuang berjuang menegakkan NKRI dan tidak mengenal menyerah dalam tugasnya."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Apa maksud 'hukum internasional yang telah diratifikasi' pada Tentara Profesional?",
+    "Answer": "Tentara Profesional wajib menaati hukum internasional yang secara resmi telah diratifikasi oleh Indonesia."
+  },
+  {
+    "Context": "Tentara Rakyat, yaitu tentara yang anggotanya berasal dari warga negara Indonesia;",
+    "Question": "Jati diri mana yang menekankan asal anggota dari warga negara?",
+    "Answer": "Jati diri tersebut adalah Tentara Rakyat."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Jati diri mana yang memuat larangan berbisnis bagi prajurit?",
+    "Answer": "Larangan berbisnis tercantum pada Tentara Profesional."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Jati diri mana yang mencakup kewajiban diperlengkapi secara baik?",
+    "Answer": "Kewajiban tersebut ada pada Tentara Profesional."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Jati diri mana yang mengikuti prinsip hak asasi manusia?",
+    "Answer": "Tentara Profesional mengikuti prinsip hak asasi manusia."
+  },
+  {
+    "Context": "Tentara Nasional, yaitu tentara kebangsaan Indonesia yang bertugas demi kepentingan negara di atas kepentingan daerah, suku, ras, dan golongan agama;",
+    "Question": "Jati diri mana yang mengatasi kepentingan daerah, suku, ras, dan agama?",
+    "Answer": "Tentara Nasional mengatasi kepentingan daerah, suku, ras, dan agama."
+  },
+  {
+    "Context": "Tentara Pejuang, yaitu tentara yang berjuang menegakkan Negara Kesatuan Republik Indonesia dan tidak mengenal menyerah dalam melaksanakan dan menyelesaikan tugasnya;",
+    "Question": "Apa maksud 'menegakkan Negara Kesatuan Republik Indonesia' dalam Tentara Pejuang?",
+    "Answer": "Artinya Tentara Pejuang berjuang mempertahankan kedaulatan dan kesatuan wilayah NKRI."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Mengapa netralitas politik penting bagi Tentara Profesional?",
+    "Answer": "Netralitas politik menjaga Tentara Profesional tetap fokus pada tugas pertahanan dan tidak terlibat politik praktis."
+  },
+  {
+    "Context": "Tentara Profesional, yaitu tentara yang terlatih, terdidik, diperlengkapi secara baik, tidak berpolitik praktis, tidak berbisnis, dan dijamin kesejahteraannya, serta mengikuti kebijakan politik negara yang menganut prinsip demokrasi, supremasi sipil, hak asasi manusia, ketentuan hukum nasional, dan hukum internasional yang telah diratifikasi.",
+    "Question": "Bagaimana hubungan profesionalitas dengan kesejahteraan prajurit?",
+    "Answer": "Kesejahteraan yang dijamin membantu prajurit fokus pada pelaksanaan tugas profesionalnya."
+  },
+  {
+    "Context": "Tentara Rakyat, yaitu tentara yang anggotanya berasal dari warga negara Indonesia; Tentara Pejuang, yaitu tentara yang berjuang menegakkan Negara Kesatuan Republik Indonesia dan tidak mengenal menyerah dalam melaksanakan dan menyelesaikan tugasnya;",
+    "Question": "Apa kesamaan Tentara Rakyat dan Tentara Pejuang?",
+    "Answer": "Keduanya berakar pada semangat warga negara yang memperjuangkan dan mempertahankan NKRI."
+  }
+]

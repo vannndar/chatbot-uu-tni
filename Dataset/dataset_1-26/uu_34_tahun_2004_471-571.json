@@ -1,0 +1,487 @@
+[
+  {
+    "Context": "TNI dipimpin oleh seorang Panglima.",
+    "Question": "Apa isi utama Pasal 13 ayat (1)?",
+    "Answer": "TNI dipimpin oleh seorang Panglima."
+  },
+  {
+    "Context": "Panglima sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Presiden setelah mendapat persetujuan Dewan Perwakilan Rakyat.",
+    "Question": "Apa isi utama Pasal 13 ayat (2)?",
+    "Answer": "Panglima sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Presiden setelah mendapat persetujuan Dewan Perwakilan Rakyat."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Apa isi utama Pasal 13 ayat (3)?",
+    "Answer": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI."
+  },
+  {
+    "Context": "Jabatan Panglima sebagaimana dimaksud pada ayat (3) dapat dijabat secara bergantian oleh Perwira Tinggi aktif dari tiap-tiap Angkatan yang sedang atau pernah menjabat sebagai Kepala Staf Angkatan.",
+    "Question": "Apa isi utama Pasal 13 ayat (4)?",
+    "Answer": "Jabatan Panglima sebagaimana dimaksud pada ayat (3) dapat dijabat secara bergantian oleh Perwira Tinggi aktif dari tiap-tiap Angkatan yang sedang atau pernah menjabat sebagai Kepala Staf Angkatan."
+  },
+  {
+    "Context": "Untuk mengangkat Panglima sebagaimana dimaksud pada ayat (3), Presiden mengusulkan satu orang calon Panglima untuk mendapat persetujuan Dewan Perwakilan Rakyat.",
+    "Question": "Apa isi utama Pasal 13 ayat (5)?",
+    "Answer": "Untuk mengangkat Panglima sebagaimana dimaksud pada ayat (3), Presiden mengusulkan satu orang calon Panglima untuk mendapat persetujuan Dewan Perwakilan Rakyat."
+  },
+  {
+    "Context": "Persetujuan Dewan Perwakilan Rakyat terhadap calon Panglima yang dipilih oleh Presiden, disampaikan paling lambat 20 hari tidak termasuk masa reses, terhitung sejak permohonan persetujuan calon Panglima diterima oleh Dewan Perwakilan Rakyat.",
+    "Question": "Apa isi utama Pasal 13 ayat (6)?",
+    "Answer": "Persetujuan Dewan Perwakilan Rakyat terhadap calon Panglima yang dipilih oleh Presiden, disampaikan paling lambat 20 hari tidak termasuk masa reses, terhitung sejak permohonan persetujuan calon Panglima diterima oleh Dewan Perwakilan Rakyat."
+  },
+  {
+    "Context": "Dalam hal Dewan Perwakilan Rakyat tidak menyetujui calon Panglima yang diusulkan oleh Presiden sebagaimana dimaksud pada ayat (5) dan ayat (6), Presiden mengusulkan satu orang calon lain sebagai pengganti.",
+    "Question": "Apa isi utama Pasal 13 ayat (7)?",
+    "Answer": "Dalam hal Dewan Perwakilan Rakyat tidak menyetujui calon Panglima yang diusulkan oleh Presiden sebagaimana dimaksud pada ayat (5) dan ayat (6), Presiden mengusulkan satu orang calon lain sebagai pengganti."
+  },
+  {
+    "Context": "Apabila Dewan Perwakilan Rakyat tidak menyetujui calon Panglima yang diusulkan oleh Presiden, Dewan Perwakilan Rakyat memberikan alasan tertulis yang menjelaskan ketidaksetujuannya.",
+    "Question": "Apa isi utama Pasal 13 ayat (8)?",
+    "Answer": "Apabila Dewan Perwakilan Rakyat tidak menyetujui calon Panglima yang diusulkan oleh Presiden, Dewan Perwakilan Rakyat memberikan alasan tertulis yang menjelaskan ketidaksetujuannya."
+  },
+  {
+    "Context": "Dalam hal Dewan Perwakilan Rakyat tidak memberikan jawaban sebagaimana dimaksud pada ayat (7), dianggap telah menyetujui, selanjutnya Presiden berwenang mengangkat Panglima baru dan memberhentikan Panglima lama.",
+    "Question": "Apa isi utama Pasal 13 ayat (9)?",
+    "Answer": "Dalam hal Dewan Perwakilan Rakyat tidak memberikan jawaban sebagaimana dimaksud pada ayat (7), dianggap telah menyetujui, selanjutnya Presiden berwenang mengangkat Panglima baru dan memberhentikan Panglima lama."
+  },
+  {
+    "Context": "Tata cara pengangkatan dan pemberhentian Panglima sebagaimana dimaksud pada ayat (2-9), diatur lebih lanjut dengan keputusan Presiden.",
+    "Question": "Apa isi utama Pasal 13 ayat (10)?",
+    "Answer": "Tata cara pengangkatan dan pemberhentian Panglima sebagaimana dimaksud pada ayat (2-9), diatur lebih lanjut dengan keputusan Presiden."
+  },
+  {
+    "Context": "TNI dipimpin oleh seorang Panglima.",
+    "Question": "Siapakah pimpinan tertinggi TNI menurut Pasal 13?",
+    "Answer": "Pimpinan tertinggi TNI adalah Panglima TNI."
+  },
+  {
+    "Context": "Panglima sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Presiden setelah mendapat persetujuan Dewan Perwakilan Rakyat.",
+    "Question": "Siapa yang memiliki kewenangan mengangkat dan memberhentikan Panglima TNI?",
+    "Answer": "Presiden, dengan persetujuan Dewan Perwakilan Rakyat (DPR)."
+  },
+  {
+    "Context": "Panglima sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Presiden setelah mendapat persetujuan Dewan Perwakilan Rakyat.",
+    "Question": "Mengapa persetujuan DPR diperlukan dalam pengangkatan Panglima TNI?",
+    "Answer": "Untuk memastikan mekanisme checks and balances serta legitimasi demokratis."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Berdasarkan apa pengangkatan dan pemberhentian Panglima harus dilakukan?",
+    "Answer": "Berdasarkan kepentingan organisasi TNI."
+  },
+  {
+    "Context": "Jabatan Panglima sebagaimana dimaksud pada ayat (3) dapat dijabat secara bergantian oleh Perwira Tinggi aktif dari tiap-tiap Angkatan yang sedang atau pernah menjabat sebagai Kepala Staf Angkatan.",
+    "Question": "Siapa saja yang dapat menjadi Panglima TNI menurut ayat (4)?",
+    "Answer": "Perwira Tinggi aktif dari tiap Angkatan yang sedang atau pernah menjabat sebagai Kepala Staf Angkatan."
+  },
+  {
+    "Context": "Untuk mengangkat Panglima sebagaimana dimaksud pada ayat (3), Presiden mengusulkan satu orang calon Panglima untuk mendapat persetujuan Dewan Perwakilan Rakyat.",
+    "Question": "Bagaimana prosedur Presiden mengusulkan calon Panglima?",
+    "Answer": "Presiden mengusulkan satu calon Panglima kepada DPR untuk mendapatkan persetujuan."
+  },
+  {
+    "Context": "Persetujuan Dewan Perwakilan Rakyat terhadap calon Panglima yang dipilih oleh Presiden, disampaikan paling lambat 20 hari tidak termasuk masa reses, terhitung sejak permohonan persetujuan calon Panglima diterima oleh Dewan Perwakilan Rakyat.",
+    "Question": "Berapa batas waktu DPR memberikan persetujuan atas calon Panglima?",
+    "Answer": "Paling lambat 20 hari (di luar masa reses) sejak permohonan diterima."
+  },
+  {
+    "Context": "Dalam hal Dewan Perwakilan Rakyat tidak menyetujui calon Panglima yang diusulkan oleh Presiden sebagaimana dimaksud pada ayat (5) dan ayat (6), Presiden mengusulkan satu orang calon lain sebagai pengganti.",
+    "Question": "Apa yang dilakukan Presiden jika DPR menolak calon Panglima?",
+    "Answer": "Presiden harus mengusulkan calon lain sebagai pengganti."
+  },
+  {
+    "Context": "Apabila Dewan Perwakilan Rakyat tidak menyetujui calon Panglima yang diusulkan oleh Presiden, Dewan Perwakilan Rakyat memberikan alasan tertulis yang menjelaskan ketidaksetujuannya.",
+    "Question": "Apa kewajiban DPR jika menolak calon Panglima?",
+    "Answer": "DPR harus memberikan alasan tertulis atas penolakannya."
+  },
+  {
+    "Context": "Dalam hal Dewan Perwakilan Rakyat tidak memberikan jawaban sebagaimana dimaksud pada ayat (7), dianggap telah menyetujui, selanjutnya Presiden berwenang mengangkat Panglima baru dan memberhentikan Panglima lama.",
+    "Question": "Apa yang terjadi jika DPR tidak memberi jawaban dalam batas waktu?",
+    "Answer": "Calon dianggap disetujui dan Presiden dapat melantik Panglima baru serta memberhentikan yang lama."
+  },
+  {
+    "Context": "Tata cara pengangkatan dan pemberhentian Panglima sebagaimana dimaksud pada ayat (2-9), diatur lebih lanjut dengan keputusan Presiden.",
+    "Question": "Melalui apa tata cara pengangkatan Panglima diatur lebih lanjut?",
+    "Answer": "Melalui Keputusan Presiden."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Bagaimana mekanisme jika Panglima TNI mengundurkan diri sebelum masa jabatan berakhir?",
+    "Answer": "Presiden mengusulkan calon pengganti kepada DPR; proses persetujuan mengikuti ayat (5) sampai (9)."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Mengapa pergantian Panglima dilakukan berdasarkan kepentingan organisasi TNI?",
+    "Answer": "Agar kontinuitas kepemimpinan dan efektivitas operasi TNI tetap terjaga."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Apa manfaat rotasi jabatan Panglima antar-angkatan?",
+    "Answer": "Memberikan perspektif lintas matra dan pemerataan kesempatan karier bagi perwira tinggi."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Bagaimana status Panglima setelah diberhentikan oleh Presiden?",
+    "Answer": "Panglima lama akan kembali menjadi perwira tinggi TNI hingga memasuki masa pensiun atau penugasan lain."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Apakah Pasal 13 mengatur masa jabatan tetap bagi Panglima?",
+    "Answer": "Tidak, pasal ini tidak menentukan batas waktu masa jabatan; masa jabatan bergantung pada kebijakan Presiden."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Bagaimana peran DPR dalam menjaga akuntabilitas proses pengangkatan Panglima?",
+    "Answer": "DPR menilai kelayakan calon melalui uji kelayakan dan kepatutan sebelum memberikan persetujuan."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Jika DPR berikan alasan tertulis penolakan, apa langkah Presiden selanjutnya?",
+    "Answer": "Presiden meninjau alasan tersebut dan mengajukan calon baru sesuai ayat (7)."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Kenapa ada batas waktu 20 hari untuk DPR?",
+    "Answer": "Agar proses pergantian Panglima tidak berlarut dan kepemimpinan TNI tetap berjalan lancar."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Apakah Keputusan Presiden tentang tata cara pengangkatan Panglima perlu persetujuan DPR?",
+    "Answer": "Tidak, Keputusan Presiden ditetapkan oleh Presiden sebagai peraturan pelaksanaan."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Dalam situasi darurat, bagaimana pengangkatan Panglima dipercepat?",
+    "Answer": "Presiden masih mengikuti prosedur, namun DPR dapat mempercepat jadwal rapat dan sidang untuk memberikan persetujuan."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana Pasal 13 mencerminkan prinsip supremasi sipil atas militer?",
+    "Answer": "Karena Panglima diangkat oleh Presiden (otoritas sipil) dengan persetujuan DPR, bukan ditunjuk internal militer semata."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa peran Kepala Staf Angkatan jika terpilih menjadi Panglima?",
+    "Answer": "Ia akan memimpin seluruh TNI, bukan hanya angkatan asalnya."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana keputusan Presiden dalam pengangkatan Panglima diimplementasikan?",
+    "Answer": "Melalui Keputusan Presiden yang memuat penetapan pengangkatan dan pemberhentian."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Mengapa diperlukan alasan tertulis dari DPR saat menolak calon?",
+    "Answer": "Sebagai bentuk transparansi dan akuntabilitas publik."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa dampak ketentuan ayat (9) terhadap keseimbangan kekuasaan?",
+    "Answer": "Menjamin proses tidak terhambat jika DPR tidak merespons, namun tetap memberi DPR kesempatan menilai calon."
+  },
+  {
+    "Context": "TNI dipimpin oleh seorang Panglima.",
+    "Question": "Apa tujuan ketentuan pada ayat (1) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan kepemimpinan tertinggi TNI jelas."
+  },
+  {
+    "Context": "Panglima sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Presiden setelah mendapat persetujuan Dewan Perwakilan Rakyat.",
+    "Question": "Apa tujuan ketentuan pada ayat (2) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan proses pengangkatan Panglima transparan dan mendapat legitimasi DPR."
+  },
+  {
+    "Context": "Pengangkatan dan pemberhentian Panglima dilakukan berdasarkan kepentingan organisasi TNI.",
+    "Question": "Apa tujuan ketentuan pada ayat (3) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan pergantian Panglima memperhatikan kebutuhan organisasi TNI."
+  },
+  {
+    "Context": "Jabatan Panglima sebagaimana dimaksud pada ayat (3) dapat dijabat secara bergantian oleh Perwira Tinggi aktif dari tiap-tiap Angkatan yang sedang atau pernah menjabat sebagai Kepala Staf Angkatan.",
+    "Question": "Apa tujuan ketentuan pada ayat (4) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan kesetaraan peluang antar-angkatan dan kesinambungan kepemimpinan."
+  },
+  {
+    "Context": "Untuk mengangkat Panglima sebagaimana dimaksud pada ayat (3), Presiden mengusulkan satu orang calon Panglima untuk mendapat persetujuan Dewan Perwakilan Rakyat.",
+    "Question": "Apa tujuan ketentuan pada ayat (5) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan Presiden hanya mengajukan satu calon untuk memudahkan proses persetujuan."
+  },
+  {
+    "Context": "Persetujuan Dewan Perwakilan Rakyat terhadap calon Panglima yang dipilih oleh Presiden, disampaikan paling lambat 20 hari tidak termasuk masa reses, terhitung sejak permohonan persetujuan calon Panglima diterima oleh Dewan Perwakilan Rakyat.",
+    "Question": "Apa tujuan ketentuan pada ayat (6) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan DPR memiliki batas waktu agar proses tidak berlarut."
+  },
+  {
+    "Context": "Dalam hal Dewan Perwakilan Rakyat tidak menyetujui calon Panglima yang diusulkan oleh Presiden sebagaimana dimaksud pada ayat (5) dan ayat (6), Presiden mengusulkan satu orang calon lain sebagai pengganti.",
+    "Question": "Apa tujuan ketentuan pada ayat (7) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan Presiden wajib mencari alternatif jika calon ditolak."
+  },
+  {
+    "Context": "Apabila Dewan Perwakilan Rakyat tidak menyetujui calon Panglima yang diusulkan oleh Presiden, Dewan Perwakilan Rakyat memberikan alasan tertulis yang menjelaskan ketidaksetujuannya.",
+    "Question": "Apa tujuan ketentuan pada ayat (8) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan Menjamin transparansi DPR dalam menolak calon."
+  },
+  {
+    "Context": "Dalam hal Dewan Perwakilan Rakyat tidak memberikan jawaban sebagaimana dimaksud pada ayat (7), dianggap telah menyetujui, selanjutnya Presiden berwenang mengangkat Panglima baru dan memberhentikan Panglima lama.",
+    "Question": "Apa tujuan ketentuan pada ayat (9) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan Menjaga kelancaran suksesi jika DPR tidak merespons."
+  },
+  {
+    "Context": "Tata cara pengangkatan dan pemberhentian Panglima sebagaimana dimaksud pada ayat (2-9), diatur lebih lanjut dengan keputusan Presiden.",
+    "Question": "Apa tujuan ketentuan pada ayat (10) Pasal 13?",
+    "Answer": "Ketentuan ini bertujuan memastikan Memberi dasar hukum teknis bagi prosedur detail pengangkatan."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana kaitan Pasal 13 dengan UU TNI lainnya?",
+    "Answer": "Pasal 13 memberikan kerangka suksesi Panglima, sedangkan detail lain diatur peraturan pelaksana."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah Panglima harus berasal dari matra yang sama secara berurutan?",
+    "Answer": "Tidak, bisa bergantian antar-angkatan sesuai ayat (4)."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa arti 'kepentingan organisasi TNI' saat menunjuk Panglima?",
+    "Answer": "Memilih pemimpin terbaik untuk meningkatkan profesionalitas dan kesiapan TNI."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana DPR melakukan uji kelayakan calon Panglima?",
+    "Answer": "Melalui rapat komisi, pendalaman visi-misi, dan klarifikasi rekam jejak."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa yang dimaksud 'masa reses' pada ayat (6)?",
+    "Answer": "Periode jeda sidang DPR; batas 20 hari tidak menghitung masa reses."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Dapatkah calon Panglima berasal dari purnawirawan?",
+    "Answer": "Tidak, menurut ayat (4) harus Perwira Tinggi aktif."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana jika calon Panglima wafat sebelum dilantik?",
+    "Answer": "Presiden mengusulkan calon baru dan proses persetujuan diulang."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah Pasal 13 mengatur masa jabatan minimal Panglima?",
+    "Answer": "Tidak; masa jabatan dapat bervariasi tergantung keputusan Presiden."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana penolakan calon Panglima memperkuat demokrasi?",
+    "Answer": "Memberi DPR peran kontrol terhadap pejabat militer tertinggi."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa saja pertimbangan Presiden memilih calon Panglima?",
+    "Answer": "Pengalaman, rekam jejak, kebutuhan organisasi, dan keseimbangan matra."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa konsekuensi jika Presiden mengangkat Panglima tanpa persetujuan DPR?",
+    "Answer": "Melanggar Pasal 13 dan dapat menimbulkan konstitusional dispute."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana Keputusan Presiden tentang tata cara diimplementasikan di lingkungan TNI?",
+    "Answer": "Melalui Peraturan Panglima TNI dan petunjuk teknis."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa pentingnya rotasi kepemimpinan bagi profesionalitas TNI?",
+    "Answer": "Mencegah dominasi satu matra dan memperluas pengalaman strategis."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana proses pergantian Panglima ketika masa jabatan berakhir?",
+    "Answer": "Presiden memulai proses pengusulan calon baru sesuai ayat (5)."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Jika DPR menyetujui calon Panglima lebih cepat dari 20 hari, apa yang terjadi?",
+    "Answer": "Presiden dapat segera melantik Panglima yang baru."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Berikan contoh alasan tertulis yang dapat diberikan DPR saat menolak calon Panglima.",
+    "Answer": "Misalnya keraguan atas rekam jejak kepemimpinan, dugaan pelanggaran etik, atau kebutuhan keseimbangan matra."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah Pasal 13 mengatur proses pergantian Panglima dalam kondisi darurat perang?",
+    "Answer": "Pasal ini tetap berlaku; prosedur dapat dipercepat namun persetujuan DPR tetap diusahakan."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana publik dapat memantau proses pemilihan Panglima?",
+    "Answer": "Melalui rapat terbuka DPR dan publikasi keputusan Presiden."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah ada batas usia bagi Panglima TNI?",
+    "Answer": "Batas usia pensiun Perwira Tinggi TNI mengacu peraturan lain, bukan Pasal 13 langsung."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana menjaga netralitas proses pemilihan Panglima dari kepentingan politik?",
+    "Answer": "Dengan transparansi, uji kelayakan objektif, dan alasan tertulis bila menolak."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Mengapa penting ada ketentuan dianggap setuju jika DPR tidak merespons?",
+    "Answer": "Untuk menghindari kekosongan kepemimpinan TNI karena kebuntuan politik."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana peran media saat DPR melakukan uji kelayakan calon Panglima?",
+    "Answer": "Media memberi informasi kepada publik sehingga proses lebih akuntabel."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah Panglima dapat diberhentikan sebelum masa jabatan usai?",
+    "Answer": "Ya, jika kepentingan organisasi TNI mengharuskan, melalui prosedur Pasal 13."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana transisi jabatan Panglima dilaksanakan?",
+    "Answer": "Dengan serah terima jabatan resmi dan penyerahan tongkat komando."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Siapa yang menjalankan tugas Panglima jika posisi kosong sementara?",
+    "Answer": "Wakil atau pejabat sementara yang ditunjuk Presiden hingga Panglima definitif dilantik."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa hubungan Pasal 13 dengan prinsip professionalism TNI?",
+    "Answer": "Menjamin pemilihan Panglima berbasis kebutuhan organisasi, bukan kepentingan sempit."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana DPR memastikan calon Panglima memahami strategi pertahanan?",
+    "Answer": "Dengan menanyakan visi, rencana modernisasi, dan kesiapan menghadapi ancaman."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah calon Panglima wajib menyampaikan LHKPN?",
+    "Answer": "Ya, sebagai pejabat negara, calon wajib lapor harta kekayaan untuk transparansi."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana proses komunikasi antara Presiden dan DPR saat calon ditolak?",
+    "Answer": "Presiden menerima alasan tertulis dan menyiapkan nama calon baru melalui surat resmi."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah UU 34/2004 pernah diubah terkait mekanisme Panglima?",
+    "Answer": "Perubahan dapat dilakukan DPR, tetapi ketentuan Pasal 13 berlaku sampai diubah."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana ketentuan ini mencegah kekosongan komando tertinggi?",
+    "Answer": "Dengan mekanisme otomatis persetujuan jika DPR tidak menjawab dalam 20 hari."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa peran Kemenhan dalam proses ini?",
+    "Answer": "Memberi masukan teknis dan administrasi kepada Presiden mengenai calon Panglima."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana jika DPR dan Presiden berbeda pendapat berulang‑ulang?",
+    "Answer": "Proses berlanjut hingga calon disetujui; mekanisme ayat (9) memastikan jalan keluar."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Adakah ketentuan gender bagi Panglima?",
+    "Answer": "Tidak disebutkan; syaratnya Perwira Tinggi aktif yang pernah atau sedang menjabat Kepala Staf Angkatan."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana Pasal 13 sejalan dengan konstitusi UUD 1945?",
+    "Answer": "UUD 1945 memberi Presiden wewenang memimpin pertahanan; Pasal 13 menambah mekanisme persetujuan DPR sebagai fungsi kontrol."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Mengapa perlu keputusan Presiden tambahan untuk tata cara detail?",
+    "Answer": "Agar prosedur dapat diatur fleksibel tanpa mengubah undang‑undang."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa saja dokumen yang disiapkan saat Presiden mengajukan calon?",
+    "Answer": "Curriculum vitae, rekam jejak, dan surat usulan resmi kepada DPR."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana proses pengambilan sumpah Panglima?",
+    "Answer": "Dilaksanakan dalam upacara di hadapan Presiden setelah pelantikan."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah rakyat dapat mengajukan keberatan terhadap calon Panglima?",
+    "Answer": "Tidak secara langsung, namun dapat disampaikan melalui anggota DPR."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana pemeriksaan kesehatan calon Panglima?",
+    "Answer": "Dilakukan tim medis TNI untuk memastikan kesiapan fisik memimpin."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah Pasal 13 mengatur pengganti sementara Panglima?",
+    "Answer": "Tidak spesifik, namun Keppres tata cara dapat menetapkan penunjukan pelaksana tugas."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana peran Panglima TNI setelah pensiun?",
+    "Answer": "Dapat menjadi penasihat, duta besar, atau peran lain sesuai penugasan negara."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa itu Fit and Proper Test?",
+    "Answer": "Proses uji kelayakan dan kepatutan di DPR untuk menilai calon pejabat tinggi."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana Keputusan Presiden diumumkan ke publik?",
+    "Answer": "Melalui lembaran negara atau konferensi pers istana."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah calon Panglima perlu mendapat persetujuan Dewan Pertimbangan Presiden?",
+    "Answer": "Tidak diatur, fokus pada persetujuan DPR."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana prinsip meritokrasi tercermin dalam Pasal 13?",
+    "Answer": "Calon dipilih berdasarkan kualifikasi dan kebutuhan organisasi."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa hubungan Pasal 13 dengan reformasi TNI pasca‑reformasi 1998?",
+    "Answer": "Menguatkan mekanisme sipil dan demokratis dalam suksesi pimpinan TNI."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana pencatatan sejarah Panglima terdahulu membantu DPR?",
+    "Answer": "Menjadi referensi standar kompetensi dan rekam jejak kepemimpinan."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apakah ada syarat pendidikan khusus untuk calon Panglima?",
+    "Answer": "Tidak disebutkan di pasal, namun biasanya adalah lulusan Sesko TNI dan Lemhannas."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana proses serah terima jabatan dokumentasi arsip?",
+    "Answer": "Dikelola biro organisasi Mabes TNI dan Sekretariat Militer Presiden."
+  },
+  {
+    "Context": "(1) Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara. (2) Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi. (3) Markas Besar Angkatan terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan. (4) Susunan organisasi TNI sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa konsekuensi hukum jika Panglima dilantik tanpa Keppres tata cara?",
+    "Answer": "Dapat digugat karena prosedur tidak lengkap sesuai Pasal 13 ayat (10)."
+  }
+]

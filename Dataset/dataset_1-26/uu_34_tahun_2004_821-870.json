@@ -1,0 +1,237 @@
+[
+  {
+    "Context": "(1) Tanggung jawab penggunaan kekuatan TNI berada pada Panglima TNI.",
+    "Question": "Apa isi utama Pasal 19 ayat (1)?",
+    "Answer": "Tanggung jawab penggunaan kekuatan TNI berada pada Panglima TNI."
+  },
+  {
+    "Context": "(1) Tanggung jawab penggunaan kekuatan TNI berada pada Panglima TNI.",
+    "Question": "Siapa yang bertanggung jawab atas penggunaan kekuatan TNI menurut ayat (1)?",
+    "Answer": "Panglima TNI."
+  },
+  {
+    "Context": "(2) Dalam hal penggunaan kekuatan sebagaimana dimaksud pada ayat (1), Panglima bertanggung jawab kepada Presiden.",
+    "Question": "Apa hubungan Panglima TNI dengan Presiden menurut ayat (2)?",
+    "Answer": "Panglima TNI bertanggung jawab kepada Presiden dalam penggunaan kekuatan TNI."
+  },
+  {
+    "Context": "(2) Dalam hal penggunaan kekuatan sebagaimana dimaksud pada ayat (1), Panglima bertanggung jawab kepada Presiden.",
+    "Question": "Kepada siapa Panglima bertanggung jawab dalam penggunaan kekuatan TNI?",
+    "Answer": "Kepada Presiden."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Berapa ayat yang terdapat dalam Pasal 19?",
+    "Answer": "Dua ayat."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Apa yang dimaksud dengan 'penggunaan kekuatan TNI'?",
+    "Answer": "Penerapan kekuatan militer TNI untuk menjalankan tugas dan operasi sesuai perintah atasan."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Mengapa tanggung jawab berada pada Panglima TNI?",
+    "Answer": "Agar ada satu komando tertinggi dalam pelaksanaan kekuatan militer sehingga jelas akuntabilitasnya."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Apa arti 'bertanggung jawab kepada Presiden'?",
+    "Answer": "Panglima harus melaporkan dan mempertanggungjawabkan penggunaan kekuatan TNI kepada Presiden sebagai pemegang kekuasaan tertinggi."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Bagaimana mekanisme pertanggungjawaban Panglima?",
+    "Answer": "Melalui laporan operasi dan evaluasi kinerja yang disampaikan kepada Presiden."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Apa perbedaan tanggung jawab antara Panglima dan Presiden?",
+    "Answer": "Panglima menjalankan dan bertanggung jawab operasional, sementara Presiden bertanggung jawab politik dan hukum atas keputusan tersebut."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Bagaimana proses pelaporan penggunaan kekuatan TNI oleh Panglima kepada Presiden?",
+    "Answer": "Panglima menyusun laporan tertulis dan lisan tentang tujuan, metode, dan hasil operasi TNI untuk disampaikan Presiden."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Apa yang terjadi jika Panglima tidak melaporkan penggunaan kekuatan TNI?",
+    "Answer": "Dapat menimbulkan konsekuensi hukum dan politik karena melanggar ketentuan pertanggungjawaban dalam undang-undang."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Mengapa penting ada pertanggungjawaban kepada Presiden?",
+    "Answer": "Untuk memastikan penggunaan kekuatan militer sesuai kebijakan politik negara dan etika hukum internasional."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Bagaimana publik dapat mengetahui pertanggungjawaban Panglima?",
+    "Answer": "Melalui dokumen resmi, konferensi pers, dan laporan DPR yang diteruskan Presiden."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Contoh situasi penggunaan kekuatan TNI yang harus dipertanggungjawabkan?",
+    "Answer": "Operasi penegakan wilayah perbatasan, misi perdamaian PBB, atau bantuan kemanusiaan saat bencana."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Apa hubungan Pasal 19 dengan Pasal 17 tentang pengerahan kekuatan?",
+    "Answer": "Pasal 17 mengatur otorisasi pengerahan kekuatan, sedangkan Pasal 19 mengatur siapa bertanggung jawab setelah kekuatan digunakan."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Bagaimana prinsip checks and balances tercermin di Pasal 19?",
+    "Answer": "Dengan menetapkan Panglima bertanggung jawab (operasional) dan merujuk pertanggungjawaban kepada Presiden (sipil)."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Mengapa akuntabilitas penting dalam penggunaan kekuatan TNI?",
+    "Answer": "Untuk mencegah penyalahgunaan kekuasaan militer dan menjaga kepercayaan publik."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Bagaimana Pasal 19 melengkapi mekanisme penggunaan kekuatan di Pasal 18?",
+    "Answer": "Setelah pengerahan darurat di Pasal 18, Pasal 19 menetapkan pertanggungjawaban operasional kepada Presiden."
+  },
+  {
+    "Context": "Pasal 19",
+    "Question": "Apa tujuan utama mengatur pertanggungjawaban di undang-undang?",
+    "Answer": "Menjamin transparansi, akuntabilitas, dan kesesuaian penggunaan kekuatan dengan hukum."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Siapa yang melakukan evaluasi kinerja Panglima terkait penggunaan kekuatan?",
+    "Answer": "Presiden bersama staf ahli militer dan badan pengawas sesuai kebijakan pemerintahan."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana DPR dapat memantau penggunaan kekuatan TNI?",
+    "Answer": "Melalui hak angket, pengawasan anggaran, dan permintaan laporan resmi kepada Presiden."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apakah tanggung jawab Panglima mencakup operasi non-konvensional?",
+    "Answer": "Ya, semua bentuk operasi militer termasuk non-konvensional harus dipertanggungjawabkan."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana peran Menhan dalam pertanggungjawaban ini?",
+    "Answer": "Menhan dapat membantu mereview laporan dan memberi rekomendasi kepada Presiden."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apa perbedaan pertanggungjawaban di dalam negeri dan misi internasional?",
+    "Answer": "Di dalam negeri laporan disampaikan langsung Presiden; di misi internasional juga harus sesuai mandat internasional dan pelaporannya kepada Presiden."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana pertanggungjawaban memengaruhi kepercayaan masyarakat?",
+    "Answer": "Transparansi dan akuntabilitas membangun kepercayaan publik terhadap TNI dan pemerintah."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apa indikator keberhasilan pertanggungjawaban penggunaan kekuatan?",
+    "Answer": "Ketepatan laporan, respons cepat dalam evaluasi, dan kepuasan publik atas akuntabilitas."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana tanggung jawab ini terkait dengan prinsip human rights?",
+    "Answer": "Memastikan setiap penggunaan kekuatan mematuhi hak asasi manusia dan hukum humaniter."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Siapa yang dapat memanggil Panglima untuk klarifikasi penggunaan kekuatan?",
+    "Answer": "Presiden dan DPR dapat mengundang Panglima untuk memberikan klarifikasi."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apa dokumen pendukung yang biasanya disertakan dalam laporan Panglima?",
+    "Answer": "Peta operasi, ringkasan misi, laporan situasi, dan daftar satuan terlibat."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana pasal ini berlaku saat teknologi militer baru digunakan?",
+    "Answer": "Prinsip pertanggungjawaban tetap sama; laporan disertai penjelasan penggunaan teknologi baru."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apakah ada batas waktu pelaporan khusus selain 2x24 jam?",
+    "Answer": "Undang-undang Pasal 19 tidak menyebut batas waktu tambahan; pelaporan pasal 18 berlaku untuk pengerahan kepaksaannya."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana peran Komando Utama Operasi dalam mendukung pertanggungjawaban?",
+    "Answer": "Menyediakan data operasional untuk laporan Panglima kepada Presiden."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apa konsekuensi jika laporan pertanggungjawaban tidak memadai?",
+    "Answer": "Dapat memicu audit, investigasi, atau sanksi administratif."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana pasal ini mendukung supremasi sipil atas militer?",
+    "Answer": "Dengan menempatkan pertanggungjawaban Panglima pada Presiden, memastikan kontrol sipil."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Dalam situasi krisis kesehatan, seperti pandemi, apakah pasal ini berlaku untuk penggunaan kekuatan TNI?",
+    "Answer": "Ya, setiap penggunaan kekuatan TNI, termasuk dalam tugas kemanusiaan, harus dipertanggungjawabkan."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana pasal ini dilaksanakan di tingkat satuan bawah?",
+    "Answer": "Data dikumpulkan dari lapangan dan diteruskan Panglima untuk laporan kepada Presiden."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apa hubungan laporan penggunaan kekuatan dengan anggaran pertahanan?",
+    "Answer": "Laporan membantu DPR menilai efektivitas penggunaan anggaran militer."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana pasal ini berinteraksi dengan hukum internasional tentang penggunaan kekuatan?",
+    "Answer": "Laporan harus mencakup kepatuhan terhadap hukum humaniter dan perjanjian internasional."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana proses revisi laporan jika terdapat ketidaksesuaian?",
+    "Answer": "Panglima dapat mengajukan revisi laporan yang diperiksa ulang sebelum disampaikan resmi."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Siapa yang menyimpan arsip laporan penggunaan kekuatan?",
+    "Answer": "Sekretariat Militer Presiden dan Arsip Nasional Republik Indonesia menyimpan dokumen."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apa manfaat pasal ini bagi studi pertanggungjawaban militer?",
+    "Answer": "Menjadi dasar akademis untuk analisis akuntabilitas dan kebijakan pertahanan."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana pasal ini membantu mencegah militerisasi berlebihan?",
+    "Answer": "Dengan mekanisme akuntabilitas yang ketat, penggunaan kekuatan dipantau dan dibatasi."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apa peran Hak Asasi Manusia dalam laporan penggunaan kekuatan?",
+    "Answer": "Bagian laporan mencakup penilaian dampak terhadap HAM dan langkah mitigasi."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana pelaporan pertanggungjawaban diterjemahkan ke kebijakan publik?",
+    "Answer": "Menjadi bahan pertimbangan DPR dan pemerintah dalam menyusun kebijakan pertahanan."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Apa contoh perubahan kebijakan berdasarkan laporan Panglima?",
+    "Answer": "Revisi doktrin, penyesuaian latihan, atau pembaruan SOP operasi."
+  },
+  {
+    "Context": "(1) Dalam keadaan memaksa untuk menghadapi ancaman militer dan/atau ancaman bersenjata, Presiden dapat langsung mengerahkan kekuatan TNI. (2) Dalam hal pengerahan langsung kekuatan TNI sebagaimana dimaksud pada ayat (1), dalam waktu 2 X 24 jam terhitung sejak dikeluarkannya keputusan pengerahan kekuatan, Presiden harus melaporkan kepada Dewan Perwakilan Rakyat. (3) Dalam hal Dewan Perwakilan Rakyat tidak menyetujui pengerahan sebagaimana dimaksud pada ayat (1) dan ayat (2), Presiden harus menghentikan pengerahan kekuatan TNI tersebut.",
+    "Question": "Bagaimana pasal ini berkontribusi pada reformasi militer?",
+    "Answer": "Memperkuat budaya transparansi dan kontrol sipil dalam militer."
+  }
+]

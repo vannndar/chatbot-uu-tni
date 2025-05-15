@@ -1,0 +1,252 @@
+[
+  {
+    "Context": "1. memimpin TNI;",
+    "Question": "Apa isi pokok tugas Panglima nomor 1?",
+    "Answer": "1. memimpin TNI"
+  },
+  {
+    "Context": "2. melaksanakan kebijakan pertahanan negara;",
+    "Question": "Apa isi pokok tugas Panglima nomor 2?",
+    "Answer": "2. melaksanakan kebijakan pertahanan negara"
+  },
+  {
+    "Context": "3. menyelenggarakan strategi militer dan melaksanakan operasi militer;",
+    "Question": "Apa isi pokok tugas Panglima nomor 3?",
+    "Answer": "3. menyelenggarakan strategi militer dan melaksanakan operasi militer"
+  },
+  {
+    "Context": "4. mengembangkan doktrin TNI;",
+    "Question": "Apa isi pokok tugas Panglima nomor 4?",
+    "Answer": "4. mengembangkan doktrin TNI"
+  },
+  {
+    "Context": "5. menyelenggarakan penggunaan kekuatan TNI bagi kepentingan operasi militer;",
+    "Question": "Apa isi pokok tugas Panglima nomor 5?",
+    "Answer": "5. menyelenggarakan penggunaan kekuatan TNI bagi kepentingan operasi militer"
+  },
+  {
+    "Context": "6. menyelenggarakan pembinaan kekuatan TNI serta memelihara kesiagaan operasional;",
+    "Question": "Apa isi pokok tugas Panglima nomor 6?",
+    "Answer": "6. menyelenggarakan pembinaan kekuatan TNI serta memelihara kesiagaan operasional"
+  },
+  {
+    "Context": "7. memberikan pertimbangan kepada Menteri Pertahanan dalam hal penetapan kebijakan pertahanan negara;",
+    "Question": "Apa isi pokok tugas Panglima nomor 7?",
+    "Answer": "7. memberikan pertimbangan kepada Menteri Pertahanan dalam hal penetapan kebijakan pertahanan negara"
+  },
+  {
+    "Context": "8. memberikan pertimbangan kepada Menteri Pertahanan dalam hal penetapan kebijakan pemenuhan kebutuhan TNI dan komponen pertahanan lainnya;",
+    "Question": "Apa isi pokok tugas Panglima nomor 8?",
+    "Answer": "8. memberikan pertimbangan kepada Menteri Pertahanan dalam hal penetapan kebijakan pemenuhan kebutuhan TNI dan komponen pertahanan lainnya"
+  },
+  {
+    "Context": "9. memberikan pertimbangan kepada Menteri Pertahanan dalam menyusun dan melaksanakan perencanaan strategis pengelolaan sumber daya nasional untuk kepentingan pertahanan negara;",
+    "Question": "Apa isi pokok tugas Panglima nomor 9?",
+    "Answer": "9. memberikan pertimbangan kepada Menteri Pertahanan dalam menyusun dan melaksanakan perencanaan strategis pengelolaan sumber daya nasional untuk kepentingan pertahanan negara"
+  },
+  {
+    "Context": "10. menggunakan komponen cadangan setelah dimobilisasi bagi kepentingan operasi militer;",
+    "Question": "Apa isi pokok tugas Panglima nomor 10?",
+    "Answer": "10. menggunakan komponen cadangan setelah dimobilisasi bagi kepentingan operasi militer"
+  },
+  {
+    "Context": "11. menggunakan komponen pendukung yang telah disiapkan bagi kepentingan operasi militer;",
+    "Question": "Apa isi pokok tugas Panglima nomor 11?",
+    "Answer": "11. menggunakan komponen pendukung yang telah disiapkan bagi kepentingan operasi militer"
+  },
+  {
+    "Context": "12. melaksanakan tugas dan kewajiban lain sesuai dengan peraturan perundang-undangan.",
+    "Question": "Apa isi pokok tugas Panglima nomor 12?",
+    "Answer": "12. melaksanakan tugas dan kewajiban lain sesuai dengan peraturan perundang-undangan."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Berapa jumlah tugas dan kewajiban Panglima menurut Pasal 15?",
+    "Answer": "Ada 12 tugas dan kewajiban."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Apa tugas utama Panglima TNI secara keseluruhan menurut Pasal 15?",
+    "Answer": "Memimpin TNI dan memastikan pelaksanaan kebijakan, strategi, pembinaan, serta penggunaan kekuatan TNI."
+  },
+  {
+    "Context": "1. memimpin TNI;",
+    "Question": "Mengapa kepemimpinan Panglima penting bagi TNI?",
+    "Answer": "Kepemimpinan menentukan arah, disiplin, dan efektivitas seluruh satuan TNI."
+  },
+  {
+    "Context": "2. melaksanakan kebijakan pertahanan negara;",
+    "Question": "Bagaimana Panglima melaksanakan kebijakan pertahanan negara?",
+    "Answer": "Dengan menerjemahkan kebijakan Menhan menjadi rencana dan perintah operasi."
+  },
+  {
+    "Context": "3. menyelenggarakan strategi militer dan melaksanakan operasi militer;",
+    "Question": "Apa yang dimaksud strategi militer?",
+    "Answer": "Rencana besar penggunaan kekuatan militer untuk mencapai tujuan pertahanan."
+  },
+  {
+    "Context": "4. mengembangkan doktrin TNI;",
+    "Question": "Mengapa doktrin TNI perlu dikembangkan?",
+    "Answer": "Agar selaras dengan dinamika ancaman dan teknologi modern."
+  },
+  {
+    "Context": "5. menyelenggarakan penggunaan kekuatan TNI bagi kepentingan operasi militer;",
+    "Question": "Kapan kekuatan TNI digunakan untuk operasi militer?",
+    "Answer": "Saat ada ancaman terhadap kedaulatan atau sesuai keputusan politik negara."
+  },
+  {
+    "Context": "6. menyelenggarakan pembinaan kekuatan TNI serta memelihara kesiagaan operasional;",
+    "Question": "Apa contoh pembinaan kekuatan TNI?",
+    "Answer": "Pelatihan, modernisasi alutsista, dan pemeliharaan kesiapan pasukan."
+  },
+  {
+    "Context": "7. memberikan pertimbangan kepada Menteri Pertahanan dalam hal penetapan kebijakan pertahanan negara;",
+    "Question": "Mengapa Panglima memberi pertimbangan kepada Menhan?",
+    "Answer": "Supaya kebijakan pertahanan didukung perspektif operasional militer."
+  },
+  {
+    "Context": "8. memberikan pertimbangan kepada Menteri Pertahanan dalam hal penetapan kebijakan pemenuhan kebutuhan TNI dan komponen pertahanan lainnya;",
+    "Question": "Apa yang dimaksud pemenuhan kebutuhan TNI?",
+    "Answer": "Pengadaan alutsista, logistik, dan sumber daya manusia."
+  },
+  {
+    "Context": "9. memberikan pertimbangan kepada Menteri Pertahanan dalam menyusun dan melaksanakan perencanaan strategis pengelolaan sumber daya nasional untuk kepentingan pertahanan negara;",
+    "Question": "Bagaimana Panglima terlibat dalam pengelolaan sumber daya nasional?",
+    "Answer": "Memberi masukan perencanaan strategis agar sumber daya siap untuk pertahanan."
+  },
+  {
+    "Context": "10. menggunakan komponen cadangan setelah dimobilisasi bagi kepentingan operasi militer;",
+    "Question": "Apa itu komponen cadangan?",
+    "Answer": "Warga negara yang dilatih dan dimobilisasi untuk memperkuat TNI saat diperlukan."
+  },
+  {
+    "Context": "11. menggunakan komponen pendukung yang telah disiapkan bagi kepentingan operasi militer;",
+    "Question": "Apa contoh komponen pendukung dalam operasi militer?",
+    "Answer": "Industri pertahanan, perusahaan logistik, dan relawan kesehatan."
+  },
+  {
+    "Context": "12. melaksanakan tugas dan kewajiban lain sesuai dengan peraturan perundang-undangan.",
+    "Question": "Berikan contoh tugas lain sesuai peraturan perundang‑undangan!",
+    "Answer": "Misalnya penugasan dalam operasi perdamaian PBB."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana Panglima merespons ancaman siber nasional?",
+    "Answer": "Dengan mengarahkan strategi militer siber, pembinaan satuan siber, dan penggunaan komponen pendukung TI."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Jika terjadi bencana alam besar, tugas Pasal 15 mana yang dijalankan?",
+    "Answer": "Panglima menggunakan kekuatan TNI dan komponen pendukung untuk operasi bantuan kemanusiaan sesuai tugas 5 dan 11."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana proses konsultasi Panglima dengan Menhan terkait alutsista baru?",
+    "Answer": "Panglima memberi pertimbangan kebutuhan operasional sebelum Menhan menetapkan kebijakan pengadaan."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Kapan komponen cadangan dimobilisasi?",
+    "Answer": "Setelah ada keputusan politik negara dan perintah Presiden, Panglima menggunakannya untuk operasi militer."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana Panglima memastikan kesiagaan operasional terpelihara?",
+    "Answer": "Dengan audit kesiapan, latihan gabungan, dan pemeliharaan rutin alutsista."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Apa peran doktrin dalam menyusun strategi militer?",
+    "Answer": "Doktrin menjadi pedoman prinsip untuk perencanaan strategi dan operasi."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana Panglima mengukur keberhasilan strategi militer?",
+    "Answer": "Melalui evaluasi latihan, capaian misi, dan kesiapan satuan."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Contoh koordinasi Panglima dengan Menhan soal sumber daya nasional?",
+    "Answer": "Diskusi rencana cadangan logistik bahan bakar strategis untuk masa krisis."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana penggunaan komponen pendukung meningkatkan efektivitas operasi?",
+    "Answer": "Memberi dukungan spesialis, teknologi, dan logistik yang tidak dimiliki TNI."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Apa yang terjadi jika tugas Panglima bertentangan dengan peraturan perundang‑undangan?",
+    "Answer": "Panglima wajib menyesuaikan tindakan agar sesuai hukum atau menunggu revisi kebijakan."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana Panglima memimpin TNI dalam operasi gabungan tiga matra?",
+    "Answer": "Dengan merumuskan strategi terpadu dan memerintahkan Kogabwilhan."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Mengapa penting Panglima mengembangkan doktrin secara berkelanjutan?",
+    "Answer": "Supaya TNI adaptif terhadap perkembangan ancaman regional dan global."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana tugas 6 terkait kesiapan operasional di masa damai?",
+    "Answer": "Pembinaan dan latihan memastikan pasukan siap digerakkan sewaktu-waktu."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Apa mekanisme evaluasi kebijakan pertahanan oleh Panglima?",
+    "Answer": "Memberi laporan periodik dan rekomendasi perbaikan kepada Menhan."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana tugas 12 memberi fleksibilitas kepada Panglima?",
+    "Answer": "Memungkinkan Panglima menerima penugasan lain yang ditetapkan hukum tanpa perlu revisi UU."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana Panglima menyeimbangkan pembinaan dan operasi?",
+    "Answer": "Dengan menyusun prioritas tahunan antara latihan, modernisasi, dan penugasan operasi."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Siapa yang menyusun doktrin TNI di bawah arahan Panglima?",
+    "Answer": "Pusat Doktrin, Pendidikan, dan Pengembangan TNI bersama staf ahli."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana tugas 5 dijalankan saat operasi perdamaian dunia?",
+    "Answer": "Panglima mengalokasikan kontingen pasukan dan dukungan logistik untuk misi PBB."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Apa peran Panglima dalam penanggulangan terorisme?",
+    "Answer": "Menggunakan strategi militer dan kekuatan TNI bila diperlukan sesuai kebijakan negara."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana Panglima memastikan pemenuhan kebutuhan TNI tepat sasaran?",
+    "Answer": "Dengan sistem perencanaan kekuatan berbasis kapabilitas dan audit pengadaan."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Mengapa komponen pendukung perlu disiapkan jauh hari?",
+    "Answer": "Agar saat operasi militer dimulai, dukungan langsung tersedia tanpa penundaan."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Contoh pengembangan doktrin terkait operasi siber?",
+    "Answer": "Penetapan konsep operasi pertahanan siber terintegrasi di bawah Komando Siber."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Bagaimana Panglima berkoordinasi dengan Kepala Staf Angkatan tentang kesiagaan?",
+    "Answer": "Melalui rapat rutin kesiapan operasional dan laporan status masing‑masing angkatan."
+  },
+  {
+    "Context": "Pasal 15",
+    "Question": "Apa manfaat melibatkan komponen cadangan dalam latihan bersama?",
+    "Answer": "Meningkatkan interoperabilitas dan kesiapan mobilisasi mereka."
+  }
+]
