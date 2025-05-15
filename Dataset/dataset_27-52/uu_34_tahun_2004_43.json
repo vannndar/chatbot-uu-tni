@@ -1,0 +1,102 @@
+[
+  {
+    "Context": "Berdasarkan Pasal 43 ayat (1), kenaikan pangkat untuk Kolonel dan Perwira Tinggi ditetapkan oleh Presiden atas usul Panglima TNI. Ini menunjukkan tingkat strategis pengangkatan perwira senior dalam struktur militer.",
+    "Question": "Apa isi Pasal 43 ayat (1) UU TNI?",
+    "Answer": "Kenaikan pangkat Kolonel dan Perwira Tinggi ditetapkan Presiden atas usul Panglima."
+  },
+  {
+    "Context": "Berdasarkan Pasal 43 ayat (2), kenaikan pangkat selain Kolonel dan Perwira Tinggi (yaitu dari Tamtama hingga Letnan Kolonel) ditetapkan oleh Panglima TNI. Ini menunjukkan desentralisasi wewenang pengangkatan sesuai jenjang kepangkatan.",
+    "Question": "Apa isi Pasal 43 ayat (2) UU TNI?",
+    "Answer": "Kenaikan pangkat di bawah Kolonel ditetapkan oleh Panglima."
+  },
+  {
+    "Context": "Kenaikan pangkat di bawah Kolonel ditetapkan oleh Panglima.",
+    "Question": "Siapa yang berwenang menaikkan pangkat Letnan Kolonel?",
+    "Answer": "Panglima TNI yang menetapkan kenaikan pangkat Letnan Kolonel."
+  },
+  {
+    "Context": "Kenaikan pangkat Kolonel dan Perwira Tinggi ditetapkan Presiden atas usul Panglima.",
+    "Question": "Bagaimana mekanisme kenaikan pangkat Brigadir Jenderal?",
+    "Answer": "Melalui usulan Panglima kepada Presiden untuk ditetapkan."
+  },
+  {
+    "Context": "Berdasarkan Pasal 43 ayat (1) dan (2), pembagian kewenangan didasarkan pada tingkat strategis jabatan, dimana perwira senior (Kolonel ke atas) memerlukan persetujuan Presiden, sementara pangkat lebih rendah diatur Panglima.",
+    "Question": "Apa dasar pembagian kewenangan kenaikan pangkat dalam pasal ini?",
+    "Answer": "Berdasarkan tingkat strategis jabatan dalam struktur militer."
+  },
+  {
+    "Context": "Kenaikan pangkat Kolonel dan Perwira Tinggi ditetapkan Presiden atas usul Panglima.",
+    "Question": "Mengapa kenaikan Perwira Tinggi memerlukan persetujuan Presiden?",
+    "Answer": "Karena posisi strategis Perwira Tinggi dalam struktur pertahanan nasional."
+  },
+  {
+    "Context": "Kenaikan pangkat Kolonel dan Perwira Tinggi ditetapkan Presiden atas usul Panglima.",
+    "Question": "Apa peran Panglima dalam kenaikan pangkat Kolonel?",
+    "Answer": "Sebagai pihak yang mengusulkan kepada Presiden."
+  },
+  {
+    "Context": "Kenaikan pangkat di bawah Kolonel ditetapkan oleh Panglima.",
+    "Question": "Apakah kenaikan pangkat Kapten memerlukan persetujuan Presiden?",
+    "Answer": "Tidak, cukup ditetapkan oleh Panglima."
+  },
+  {
+    "Context": "Berdasarkan Pasal 43, hierarki dibagi menjadi dua level: 1) Kolonel dan Perwira Tinggi (ayat 1); 2) Seluruh pangkat di bawah Kolonel (ayat 2).",
+    "Question": "Bagaimana hierarki kepangkatan dalam pembagian kewenangan ini?",
+    "Answer": "Dibagi menjadi level Kolonel ke atas dan di bawah Kolonel."
+  },
+  {
+    "Context": "Berdasarkan Pasal 43 ayat (1) dan (2), penetapan merupakan keputusan final yang memberikan pengesahan hukum terhadap kenaikan pangkat setelah melalui proses seleksi.",
+    "Question": "Apa makna \"ditetapkan\" dalam konteks kenaikan pangkat?",
+    "Answer": "Keputusan final yang mengesahkan kenaikan pangkat."
+  },
+  {
+    "Context": "Berdasarkan Pasal 43, pembagian kewenangan yang jelas antara Presiden dan Panglima dengan jenjang yang terukur menciptakan sistem checks and balances dalam pengembangan karir prajurit.",
+    "Question": "Bagaimana sistem ini menjamin objektivitas kenaikan pangkat?",
+    "Answer": "Melalui pembagian kewenangan yang jelas dan jenjang terukur."
+  },
+  {
+    "Context": "Berdasarkan Pasal 43, Mayor (ayat 2) ditetapkan Panglima, sedangkan Kolonel (ayat 1) harus melalui usulan Panglima dan penetapan Presiden.",
+    "Question": "Apa perbedaan proses kenaikan Mayor dan Kolonel?",
+    "Answer": "Mayor ditetapkan Panglima, Kolonel usul Panglima dan tetapkan Presiden."
+  },
+  {
+    "Context": "Kenaikan pangkat di bawah Kolonel ditetapkan oleh Panglima.",
+    "Question": "Bagaimana kedudukan Pangkat Pembantu dalam pasal ini?",
+    "Answer": "Termasuk kenaikan pangkat yang ditetapkan Panglima."
+  },
+  {
+    "Context": "Berdasarkan Pasal 43, sistem ini menciptakan gradasi tanggung jawab dimana semakin tinggi pangkat semakin tinggi pula level otoritas yang menetapkannya.",
+    "Question": "Apa implikasi pembagian kewenangan ini terhadap sistem kepangkatan?",
+    "Answer": "Semakin tinggi pangkat semakin tinggi level otoritas penetapannya."
+  },
+  {
+    "Context": "Kenaikan pangkat Kolonel dan Perwira Tinggi ditetapkan Presiden atas usul Panglima.",
+    "Question": "Bagaimana mekanisme pengusulan kenaikan Perwira Tinggi?",
+    "Answer": "Melalui seleksi internal kemudian usulan Panglima ke Presiden."
+  },
+  {
+    "Context": "Kenaikan pangkat di bawah Kolonel ditetapkan oleh Panglima.",
+    "Question": "Apakah kenaikan pangkat Sersan Mayor memerlukan persetujuan Presiden?",
+    "Answer": "Tidak, cukup ditetapkan oleh Panglima."
+  },
+  {
+    "Context": "Berdasarkan Pasal 43, pasal ini merupakan implementasi dari sistem karier bertingkat dimana tanggung jawab besar diberikan kepada perwira senior yang proses pengangkatannya melibatkan otoritas tertinggi.",
+    "Question": "Bagaimana hubungan pasal ini dengan sistem karier prajurit?",
+    "Answer": "Merupakan implementasi sistem karier bertingkat dalam TNI."
+  },
+  {
+    "Context": "Kenaikan pangkat Kolonel dan Perwira Tinggi ditetapkan Presiden atas usul Panglima.",
+    "Question": "Apa dasar pertimbangan Presiden dalam menetapkan kenaikan Perwira Tinggi?",
+    "Answer": "Mengacu pada usulan Panglima yang mempertimbangkan kebutuhan TNI."
+  },
+  {
+    "Context": "Kenaikan pangkat Kolonel dan Perwira Tinggi ditetapkan Presiden atas usul Panglima.",
+    "Question": "Bagaimana posisi Laksamana Pertama dalam mekanisme ini?",
+    "Answer": "Ditetapkan Presiden atas usul Panglima sebagai Perwira Tinggi."
+  },
+  {
+    "Context": "Berdasarkan Pasal 43, fungsi utamanya adalah menjaga keseimbangan komando dimana Panglima mengendalikan pengembangan SDM tingkat menengah, sementara Presiden mengawasi pengangkatan perwira senior.",
+    "Question": "Apa fungsi pembagian kewenangan ini dalam struktur komando?",
+    "Answer": "Menjaga keseimbangan komando dalam pengembangan SDM TNI."
+  }
+]
