@@ -1,0 +1,342 @@
+[
+    {
+        "Context": "Perubahan Pasal 7 memperinci kembali tugas pokok TNI dan menambahkan bentuk operasi militer selain perang agar selaras dengan kebutuhan pertahanan modern.",
+        "Question": "Apa alasan utama Pasal 7 UU 34/2004 diubah?",
+        "Answer": "Perubahan dilakukan untuk memperjelas jenis operasi militer selain perang, menyesuaikan ancaman terkini seperti siber, serta memastikan landasan hukumnya diatur lebih rinci melalui Peraturan Pemerintah atau Peraturan Presiden."
+    },
+    {
+        "Context": "Pasal 7 ayat (1) menegaskan tiga tugas pokok: menegakkan kedaulatan, mempertahankan keutuhan NKRI, dan melindungi segenap bangsa.",
+        "Question": "Sebutkan tiga tugas pokok TNI menurut Pasal 7 hasil perubahan?",
+        "Answer": "Menegakkan kedaulatan negara, mempertahankan keutuhan wilayah NKRI, dan melindungi seluruh bangsa serta tumpah darah Indonesia."
+    },
+    {
+        "Context": "Di ayat (1) disebutkan dasar negara (Pancasila) dan UUD 1945 sebagai fondasi tugas pokok.",
+        "Question": "Mengapa Pancasila dan UUD 1945 disebut dalam Pasal 7 ayat (1)?",
+        "Answer": "Karena kedua dasar tersebut menjadi landasan ideologis dan konstitusional bagi setiap tindakan TNI dalam menjaga keutuhan negara."
+    },
+    {
+        "Context": "Ayat (2) membagi tugas pokok ke dalam dua kategori: operasi militer untuk perang dan operasi militer selain perang (OMSP).",
+        "Question": "Apa perbedaan utama operasi militer untuk perang dan OMSP?",
+        "Answer": "Operasi militer untuk perang bertujuan menghadapi agresi negara lain, sedangkan OMSP difokuskan pada penanggulangan ancaman non‑perang seperti terorisme, bencana, atau keamanan perbatasan."
+    },
+    {
+        "Context": "Ayat (3) menegaskan bahwa operasi militer untuk perang harus berdasarkan kebijakan dan keputusan politik negara.",
+        "Question": "Siapa yang berwenang memutuskan operasi militer untuk perang menurut ayat (3)?",
+        "Answer": "Pemerintah bersama DPR melalui proses keputusan politik negara, sehingga penggunaan kekuatan militer berskala perang tetap berada dalam kendali sipil."
+    },
+    {
+        "Context": "Ayat (4) mengamanatkan pengaturan OMSP lebih lanjut melalui PP atau Perpres.",
+        "Question": "Mengapa OMSP perlu diatur lagi lewat PP atau Perpres?",
+        "Answer": "Agar setiap jenis OMSP memiliki standar operasional yang jelas, selaras dengan hukum internasional dan hak asasi manusia, serta mudah disesuaikan dengan dinamika ancaman."
+    },
+    {
+        "Context": "Ayat (4) pengecualian untuk huruf b angka 10 (bantuan keamanan dan ketertiban masyarakat).",
+        "Question": "Mengapa bantuan TNI ke Polri (angka 10) dikecualikan dari PP atau Perpres?",
+        "Answer": "Karena mekanismenya sudah diatur tersendiri dalam Undang‑Undang Kepolisian, sehingga tidak memerlukan pengaturan baru melalui PP/Perpres."
+    },
+    {
+        "Context": "Perubahan menambah dua tugas baru dalam OMSP: menanggulangi ancaman pertahanan siber (angka 15) dan melindungi WNI di luar negeri (angka 16).",
+        "Question": "Apa dua tugas OMSP baru yang ditambahkan?",
+        "Answer": "Menanggulangi ancaman pertahanan siber dan melindungi serta menyelamatkan warga negara serta kepentingan nasional di luar negeri."
+    },
+    {
+        "Context": "Masuknya ancaman siber menunjukkan perkembangan spektrum ancaman modern.",
+        "Question": "Mengapa pertahanan siber penting dicantumkan dalam tugas TNI?",
+        "Answer": "Karena serangan siber dapat melumpuhkan infrastruktur kritis negara, sehingga TNI perlu memiliki mandat jelas untuk menanganinya."
+    },
+    {
+        "Context": "Tugas melindungi WNI di luar negeri menekankan peran global TNI secara terukur.",
+        "Question": "Bagaimana mekanisme TNI melindungi WNI di luar negeri sesuai Pasal 7?",
+        "Answer": "Melalui koordinasi dengan Kementerian Luar Negeri dan perwakilan RI di luar negeri, serta mengerahkan elemen TNI bila diperlukan sesuai kebijakan politik luar negeri."
+    },
+    {
+        "Context": "Operasi militer untuk perang (OMP) adalah penggunaan kekuatan bersenjata dalam konflik berskala negara.",
+        "Question": "Apa contoh situasi yang memerlukan OMP?",
+        "Answer": "Misalnya jika terjadi agresi militer dari negara lain yang mengancam kedaulatan wilayah Indonesia."
+    },
+    {
+        "Context": "Ayat (3) mengikat OMP pada keputusan politik negara.",
+        "Question": "Mengapa OMP harus mendapat keputusan politik?",
+        "Answer": "Karena OMP berisiko besar bagi rakyat dan anggaran negara, sehingga memerlukan legitimasi politik yang kuat dari pemerintah dan parlemen."
+    },
+    {
+        "Context": "Dalam OMP, TNI bertindak sebagai alat pertahanan utama negara.",
+        "Question": "Apa prinsip utama TNI saat melaksanakan OMP?",
+        "Answer": "Pertahanan aktif, penghormatan hukum perang, dan perlindungan warga sipil."
+    },
+    {
+        "Context": "OMSP angka 1 menugaskan TNI mengatasi gerakan separatis bersenjata.",
+        "Question": "Apa yang dimaksud gerakan separatis bersenjata?",
+        "Answer": "Kelompok bersenjata yang berupaya memisahkan diri dari NKRI melalui kekerasan."
+    },
+    {
+        "Context": "Penanganan separatisme tetap harus memperhatikan hak asasi manusia.",
+        "Question": "Bagaimana TNI memastikan HAM saat operasi anti‑separatisme?",
+        "Answer": "Dengan aturan pelibatan (rules of engagement) ketat, supervisi hukum, dan koordinasi dengan aparat penegak hukum."
+    },
+    {
+        "Context": "OMSP angka 2 memandatkan TNI mengatasi pemberontakan bersenjata.",
+        "Question": "Apa bedanya pemberontakan bersenjata dengan separatisme?",
+        "Answer": "Pemberontakan bersenjata bertujuan menggulingkan pemerintah pusat tanpa memisahkan wilayah, sedangkan separatisme berupaya memisahkan diri."
+    },
+    {
+        "Context": "Operasi anti‑pemberontakan memerlukan keterpaduan intelijen.",
+        "Question": "Mengapa intelijen penting dalam operasi anti‑pemberontakan?",
+        "Answer": "Untuk memetakan jaringan pemberontak, meminimalkan korban, dan memutus logistik pemberontakan."
+    },
+    {
+        "Context": "OMSP angka 3 memberikan tugas TNI mendukung penanganan terorisme.",
+        "Question": "Kapan TNI dilibatkan dalam penanggulangan terorisme?",
+        "Answer": "Saat skala atau kemampuan teroris melampaui kapasitas Polri, berdasarkan permintaan dan keputusan politik negara."
+    },
+    {
+        "Context": "Koordinasi TNI‑Polri menjadi kunci keberhasilan kontra‑terorisme.",
+        "Question": "Bagaimana sinergi TNI dan Polri di lapangan?",
+        "Answer": "TNI fokus kemampuan khusus (kopasus, denjaka), sedangkan Polri memimpin penyelidikan dan proses hukum."
+    },
+    {
+        "Context": "OMSP angka 4 menugaskan TNI menjaga wilayah perbatasan negara.",
+        "Question": "Apa tantangan utama pengamanan perbatasan RI?",
+        "Answer": "Medan sulit, pelanggaran lintas batas, penyelundupan, dan klaim wilayah."
+    },
+    {
+        "Context": "Satgas Pamtas (pengamanan perbatasan) rutin ditempatkan di titik rawan.",
+        "Question": "Apa tugas Satgas Pamtas?",
+        "Answer": "Patroli, pembangunan pos lintas batas, dan membina masyarakat perbatasan."
+    },
+    {
+        "Context": "OMSP angka 5 mengamankan objek vital nasional strategis.",
+        "Question": "Sebutkan contoh objek vital nasional strategis.",
+        "Answer": "PLTN, kilang minyak, bandara internasional, dan pusat data nasional."
+    },
+    {
+        "Context": "Pengamanan objek vital nasional melibatkan penilaian risiko.",
+        "Question": "Mengapa penilaian risiko penting untuk objek vital?",
+        "Answer": "Agar alokasi personel TNI efektif dan potensi gangguan dapat dicegah sejak dini."
+    },
+    {
+        "Context": "OMSP angka 6 menugaskan TNI melaksanakan misi perdamaian dunia.",
+        "Question": "Di bawah bendera apa TNI berpartisipasi dalam misi perdamaian?",
+        "Answer": "Biasanya di bawah Perserikatan Bangsa‑Bangsa (PBB) sesuai kebijakan politik luar negeri."
+    },
+    {
+        "Context": "Partisipasi TNI diakui melalui kontingen Garuda.",
+        "Question": "Apa manfaat bagi Indonesia mengirimkan Kontingen Garuda?",
+        "Answer": "Meningkatkan reputasi internasional, berbagi pengalaman, dan memperkuat diplomasi pertahanan."
+    },
+    {
+        "Context": "OMSP angka 7 memastikan pengamanan Presiden, Wakil Presiden, dan keluarga.",
+        "Question": "Unit TNI mana yang bertanggung jawab langsung atas pengamanan VVIP?",
+        "Answer": "Pasukan Pengamanan Presiden (Paspampres)."
+    },
+    {
+        "Context": "Sinergi Paspampres dan Polri diperlukan dalam pengamanan VVIP.",
+        "Question": "Bagaimana koordinasi Paspampres‑Polri pada acara kenegaraan?",
+        "Answer": "Paspampres fokus ring satu, Polri bertugas ring luar dan pengamanan lalu lintas."
+    },
+    {
+        "Context": "OMSP angka 8 mencakup pemberdayaan wilayah pertahanan dan pendukungnya.",
+        "Question": "Apa contoh pemberdayaan wilayah pertahanan?",
+        "Answer": "Pelatihan Bela Negara, pembentukan Komponen Cadangan, dan pendirian sentra logistik pertahanan."
+    },
+    {
+        "Context": "Sistem pertahanan semesta melibatkan seluruh warga.",
+        "Question": "Mengapa pendayagunaan komponen cadangan penting?",
+        "Answer": "Untuk menambah kekuatan pertahanan secara dini tanpa membebani anggaran rutin TNI."
+    },
+    {
+        "Context": "OMSP angka 9 memerinci bantuan TNI bagi pemerintah daerah.",
+        "Question": "Bentuk bantuan apa yang sering diberikan TNI di daerah?",
+        "Answer": "Karya bakti TNI, layanan kesehatan gratis, dan pembangunan infrastruktur desa."
+    },
+    {
+        "Context": "Sinergi TNI‑Pemda mempercepat pembangunan terpadu.",
+        "Question": "Bagaimana mekanisme TNI terlibat dalam proyek daerah?",
+        "Answer": "Melalui nota kesepahaman antara Kemhan/TNI dan pemda dengan supervisi Kementerian Dalam Negeri."
+    },
+    {
+        "Context": "OMSP angka 10 mengatur bantuan TNI kepada Polri dalam keamanan dan ketertiban.",
+        "Question": "Apa dasar hukum teknis bantuan TNI ke Polri?",
+        "Answer": "Peraturan presiden tentang perbantuan TNI kepada Polri serta UU No. 2 Tahun 2002."
+    },
+    {
+        "Context": "Perubahan ayat (4) mengecualikan angka 10 dari aturan PP/Perpres tambahan.",
+        "Question": "Mengapa angka 10 dikecualikan dari ayat (4)?",
+        "Answer": "Karena skema perbantuan sudah diatur rinci dalam UU Polri, sehingga pengaturan tambahan dianggap cukup."
+    },
+    {
+        "Context": "OMSP angka 11 menugaskan TNI membantu mengamankan tamu negara setingkat kepala negara.",
+        "Question": "Selain pengamanan, apa dukungan TNI untuk tamu negara?",
+        "Answer": "Pengawalan udara, sea‑landing, dan protokol militer saat penyambutan."
+    },
+    {
+        "Context": "Koordinasi pengamanan tamu negara melibatkan Kementerian Luar Negeri.",
+        "Question": "Siapa memimpin protokol tamu negara?",
+        "Answer": "Kementerian Luar Negeri, dengan dukungan Paspampres dan unit TNI terkait."
+    },
+    {
+        "Context": "OMSP angka 12 menugaskan TNI menanggulangi bencana, pengungsian, dan bantuan kemanusiaan.",
+        "Question": "Apa keunggulan TNI dalam penanggulangan bencana?",
+        "Answer": "Mobilitas tinggi, logistik terintegrasi, dan personel terlatih di kondisi darurat."
+    },
+    {
+        "Context": "TNI sering mengoperasikan rumah sakit lapangan pasca‑bencana.",
+        "Question": "Apa manfaat rumah sakit lapangan TNI?",
+        "Answer": "Memberikan layanan medis segera di lokasi bencana sebelum fasilitas permanen pulih."
+    },
+    {
+        "Context": "OMSP angka 13 memuat tugas TNI dalam pencarian dan pertolongan kecelakaan.",
+        "Question": "Apa hubungan TNI dengan Basarnas?",
+        "Answer": "TNI memperkuat Basarnas dengan kapal, helikopter, dan penyelam militer saat operasi SAR."
+    },
+    {
+        "Context": "Operasi SAR TNI mengikuti standar internasional IAMSAR.",
+        "Question": "Mengapa standar IAMSAR diterapkan?",
+        "Answer": "Agar koordinasi SAR lintas negara berjalan efektif dan sesuai protokol keselamatan global."
+    },
+    {
+        "Context": "OMSP angka 14 menugaskan TNI membantu pengamanan pelayaran dan penerbangan.",
+        "Question": "Apa bentuk dukungan TNI di laut?",
+        "Answer": "Patroli KRI, pengawalan konvoi, dan intelijen maritim untuk mencegah perompakan."
+    },
+    {
+        "Context": "Di udara, TNI AU siap mencegat pelanggaran wilayah.",
+        "Question": "Kapan TNI AU melakukan scramble pesawat tempur?",
+        "Answer": "Jika terdeteksi pesawat asing memasuki wilayah Indonesia tanpa izin."
+    },
+    {
+        "Context": "OMSP angka 15 adalah tugas baru: menanggulangi ancaman pertahanan siber.",
+        "Question": "Unit apa di TNI yang fokus pada pertahanan siber?",
+        "Answer": "Dinas Informasi dan Pengolahan Data TNI (Dinas‑Telematika) dan Satuan Siber masing‑masing matra."
+    },
+    {
+        "Context": "Ancaman siber dapat menyerang jaringan listrik, komunikasi, dan data rahasia.",
+        "Question": "Bagaimana TNI mencegah serangan siber ke infrastruktur kritis?",
+        "Answer": "Dengan memantau jaringan 24/7, membangun cyber range latihan, dan berkolaborasi dengan BSSN."
+    },
+    {
+        "Context": "OMSP angka 16 menugaskan TNI melindungi WNI di luar negeri.",
+        "Question": "Contoh situasi yang memerlukan evakuasi WNI?",
+        "Answer": "Konflik bersenjata, kerusuhan politik, dan bencana besar di negara setempat."
+    },
+    {
+        "Context": "Operasi evakuasi non‑tempur (NEO) biasanya dikerahkan oleh TNI AL dan TNI AU.",
+        "Question": "Apa tahapan operasi evakuasi WNI oleh TNI?",
+        "Answer": "Pemetaan lokasi WNI, koordinasi dengan KBRI, pengiriman KRI atau pesawat angkut, dan pemindahan ke tempat aman."
+    },
+    {
+        "Context": "Penambahan ayat detail meningkatkan akuntabilitas TNI.",
+        "Question": "Bagaimana Pasal 7 baru berdampak pada transparansi operasi TNI?",
+        "Answer": "Dengan mengharuskan aturan turunannya (PP/Perpres), publik dapat menilai prosedur setiap OMSP secara jelas."
+    },
+    {
+        "Context": "Pasal 7 baru selaras dengan tren ancaman multidimensi.",
+        "Question": "Apa arti ancaman multidimensi dalam konteks pertahanan?",
+        "Answer": "Ancaman datang dari darat, laut, udara, siber, dan bahkan ruang luar angkasa, sehingga tugas TNI harus adaptif."
+    },
+    {
+        "Context": "Sinkronisasi Pasal 7 dan UU Polri menegaskan pembagian peran.",
+        "Question": "Apakah perubahan Pasal 7 mengurangi peran Polri?",
+        "Answer": "Tidak, Polri tetap memimpin keamanan dalam negeri; TNI hanya membantu sesuai permintaan dan ketentuan hukum."
+    },
+    {
+        "Context": "Pasal 7 baru menekankan prinsip supremasi sipil.",
+        "Question": "Bagaimana supremasi sipil tercermin dalam Pasal 7?",
+        "Answer": "Dengan mensyaratkan semua operasi besar TNI didasarkan pada kebijakan dan keputusan politik pemerintah terpilih."
+    },
+    {
+        "Context": "Perubahan pasal mendorong modernisasi dan profesionalisme TNI.",
+        "Question": "Bagaimana modernisasi TNI terkait Pasal 7?",
+        "Answer": "TNI harus melengkapi diri dengan teknologi siber, SAR udara‑laut mutakhir, dan sistem komando terintegrasi."
+    },
+    {
+        "Context": "Keterlibatan TNI di ranah siber membuka peluang kolaborasi sipil‑militer.",
+        "Question": "Siapa mitra potensial TNI dalam pertahanan siber?",
+        "Answer": "BSSN, Kominfo, perguruan tinggi, dan perusahaan teknologi nasional."
+    },
+    {
+        "Context": "Perubahan pasal mengharuskan revisi doktrin, latihan, dan rencana anggaran.",
+        "Question": "Apa langkah awal TNI setelah pasal diubah?",
+        "Answer": "Menyusun peta jalan implementasi, memperbarui doktrin OMSP, dan memprioritaskan anggaran untuk tugas baru."
+    },
+    {
+        "Context": "Dengan tugas baru, TNI perlu menambah kompetensi personel.",
+        "Question": "Bagaimana TNI meningkatkan kompetensi personel sibernya?",
+        "Answer": "Melalui pendidikan spesialis siber, sertifikasi internasional, dan latihan bersama mitra luar negeri."
+    },
+    {
+        "Context": "Pasal 7 baru tetap menjaga keseimbangan regional.",
+        "Question": "Apakah tugas tambahan TNI akan meningkatkan ketegangan regional?",
+        "Answer": "Tidak, karena setiap operasi luar negeri harus sesuai kebijakan politik luar negeri yang mengutamakan perdamaian."
+    },
+    {
+        "Context": "Perubahan pasal menegaskan komitmen Indonesia pada operasi kemanusiaan.",
+        "Question": "Apa keuntungan diplomasi dari OMSP kemanusiaan?",
+        "Answer": "Meningkatkan citra Indonesia sebagai negara yang peduli solidaritas dan mampu memberi bantuan cepat."
+    },
+    {
+        "Context": "Penjabaran rinci OMSP membantu satuan TNI merancang latihan khusus.",
+        "Question": "Latihan apa yang relevan untuk OMSP angka 15 (siber)?",
+        "Answer": "Simulasi wargaming siber, pertahanan infrastruktur kritis, dan latihan tanggap insiden digital."
+    },
+    {
+        "Context": "Prajurit TNI kini dituntut memiliki literasi teknologi.",
+        "Question": "Mengapa literasi teknologi penting bagi prajurit?",
+        "Answer": "Supaya mampu mengoperasikan peralatan modern dan memahami ancaman siber yang terus berkembang."
+    },
+    {
+        "Context": "Pasal 7 hasil revisi memberikan dasar hukum kuat bagi operasi non‑perang.",
+        "Question": "Bagaimana dasar hukum ini melindungi prajurit di lapangan?",
+        "Answer": "Memberi kepastian legal atas tindakan mereka, sehingga prajurit dapat fokus pada misi tanpa khawatir melanggar ketentuan."
+    },
+    {
+        "Context": "OMSP memberikan fleksibilitas TNI menghadapi bencana alam.",
+        "Question": "Bagaimana TNI mendukung mitigasi bencana sebelum terjadi?",
+        "Answer": "Dengan patroli udara‑laut, edukasi masyarakat, dan pemetaan risiko bencana di daerah rawan."
+    },
+    {
+        "Context": "Kerja sama ASEAN menjadi penting dalam tugas perdamaian dan SAR.",
+        "Question": "Program regional apa yang mendukung OMSP TNI?",
+        "Answer": "ASEAN Defence Ministers’ Meeting‑Plus (ADMM‑Plus) Exercise on HADR & MM (Humanitarian Assistance, Disaster Relief & Military Medicine)."
+    },
+    {
+        "Context": "Pengamanan objek vital nasional berkaitan dengan investasi asing.",
+        "Question": "Bagaimana TNI berkontribusi pada iklim investasi melalui OMSP?",
+        "Answer": "Dengan menjaga stabilitas keamanan di area industri strategis, sehingga investor merasa aman menanam modal."
+    },
+    {
+        "Context": "Pasal 7 baru mendorong interoperabilitas antarmatra.",
+        "Question": "Apa itu interoperabilitas antarmatra?",
+        "Answer": "Kemampuan TNI AD, AL, dan AU bekerja terpadu dalam satu operasi melalui sistem komando terintegrasi."
+    },
+    {
+        "Context": "Keterlibatan TNI dalam SAR laut membutuhkan kapal modern.",
+        "Question": "Alutsista apa yang mendukung SAR laut TNI AL?",
+        "Answer": "KRI jenis rumah sakit (BRS) dan kapal cepat dengan helipad untuk evakuasi korban."
+    },
+    {
+        "Context": "Evakuasi WNI di luar negeri sering melibatkan pesawat angkut Hercules.",
+        "Question": "Mengapa Hercules dipilih untuk evakuasi?",
+        "Answer": "Karena daya angkut besar, mampu mendarat di landasan pendek, dan peralatan kargo fleksibel."
+    },
+    {
+        "Context": "Program Komcad (Komponen Cadangan) mendukung OMSP angka 8.",
+        "Question": "Siapa saja yang dapat menjadi Komcad?",
+        "Answer": "Warga negara usia 18‑35 tahun yang lulus seleksi kesehatan, kesamaptaan, dan psikologi."
+    },
+    {
+        "Context": "Operasi militansi siber bersifat lintas batas negara.",
+        "Question": "Bagaimana TNI menghindari eskalasi saat merespons serangan siber asing?",
+        "Answer": "Dengan pendekatan defensif, koordinasi diplomatik, dan hanya melakukan kontra‑serangan setelah mendapat mandat politik."
+    },
+    {
+        "Context": "Capaian TNI di misi PBB sering mendapat penghargaan.",
+        "Question": "Apa dampak penghargaan PBB pada moral prajurit?",
+        "Answer": "Meningkatkan kebanggaan, motivasi tugas, dan citra profesionalisme di mata internasional."
+    },
+    {
+        "Context": "Penjelasan rinci OMSP meningkatkan literasi publik.",
+        "Question": "Bagaimana cara warga memperoleh informasi resmi tentang operasi TNI?",
+        "Answer": "Melalui rilis resmi Puspen TNI dan situs Kemhan yang memuat laporan kegiatan."
+    }
+]

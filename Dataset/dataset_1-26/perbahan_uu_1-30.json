@@ -1,0 +1,52 @@
+[
+    {
+        "Context": "Pasal 3 ayat (2) sebelum perubahan menyatakan: \"Dalam kebijakan dan strategi pertahanan serta dukungan administrasi, TNI di bawah koordinasi Departemen Pertahanan.\"",
+        "Question": "Apa inti pengaturan Pasal 3 ayat (2) sebelum diubah?",
+        "Answer": "Intinya, semua urusan kebijakan, strategi pertahanan, dan dukungan administrasi TNI dikoordinasikan langsung oleh Departemen Pertahanan."
+    },
+    {
+        "Context": "Pasal 3 ayat (2) sebelum perubahan menempatkan TNI di bawah koordinasi Departemen Pertahanan.",
+        "Question": "Bagaimana hubungan koordinatif TNI dengan Departemen Pertahanan menurut aturan lama?",
+        "Answer": "TNI wajib menyelaraskan kebijakan dan administrasinya melalui Departemen Pertahanan sebagai pemegang koordinasi."
+    },
+    {
+        "Context": "Istilah yang digunakan dalam ketentuan lama adalah \"Departemen Pertahanan\".",
+        "Question": "Mengapa istilah \"Departemen Pertahanan\" penting dicatat pada versi lama UU?",
+        "Answer": "Karena pada masa itu nomenklatur resmi lembaga pemerintah yang menangani pertahanan masih berbentuk departemen, belum kementerian."
+    },
+    {
+        "Context": "Pada periode sebelum perubahan, fokus koordinasi lebih umum tanpa penyebutan aspek perencanaan strategis TNI.",
+        "Question": "Adakah penekanan khusus terkait perencanaan strategis TNI dalam versi lama?",
+        "Answer": "Tidak ada; versi lama bersifat lebih umum dan belum menyoroti aspek perencanaan strategis secara tersendiri."
+    },
+    {
+        "Context": "Ketentuan lama belum menyinggung secara eksplisit batasan ruang lingkup koordinasi.",
+        "Question": "Apakah ruang lingkup koordinasi Departemen Pertahanan dengan TNI dijabarkan rinci dalam aturan lama?",
+        "Answer": "Belum, sehingga interpretasinya bisa sangat luas dan kurang spesifik."
+    },
+    {
+        "Context": "Perubahan Pasal 3 ayat (2) kini berbunyi: \"Kebijakan dan strategi pertahanan serta dukungan administrasi yang berkaitan dengan aspek perencanaan strategis TNI, berada di dalam koordinasi Kementerian Pertahanan.\"",
+        "Question": "Apa perbedaan utama redaksi baru dibandingkan redaksi lama?",
+        "Answer": "Redaksi baru mengganti nomenklatur menjadi Kementerian Pertahanan dan menambahkan frasa khusus mengenai aspek perencanaan strategis TNI."
+    },
+    {
+        "Context": "Redaksi baru menggunakan istilah \"Kementerian Pertahanan\".",
+        "Question": "Mengapa istilah \"Kementerian Pertahanan\" menggantikan \"Departemen Pertahanan\"?",
+        "Answer": "Karena setelah reformasi birokrasi, seluruh departemen berubah menjadi kementerian; istilah ini menyesuaikan struktur pemerintahan terkini."
+    },
+    {
+        "Context": "Penambahan frasa \"yang berkaitan dengan aspek perencanaan strategis TNI\" memperjelas fokus koordinasi.",
+        "Question": "Apa tujuan memasukkan frasa tentang perencanaan strategis dalam pasal yang diperbarui?",
+        "Answer": "Untuk menegaskan bahwa koordinasi Kementerian Pertahanan dengan TNI berfokus pada perencanaan strategis, bukan pada urusan operasional harian."
+    },
+    {
+        "Context": "Perubahan menekankan sinergi TNI–Kementerian Pertahanan dalam perumusan strategi jangka panjang.",
+        "Question": "Bagaimana dampak perubahan ini terhadap proses perencanaan pertahanan?",
+        "Answer": "Perencanaan menjadi lebih terpadu karena disusun bersama Kementerian Pertahanan, memastikan konsistensi dengan kebijakan nasional."
+    },
+    {
+        "Context": "Koordinasi administrasi tetap disebut, tetapi kini dibatasi pada hal-hal yang mendukung perencanaan strategis.",
+        "Question": "Apakah dukungan administrasi masih berada di bawah koordinasi Kementerian Pertahanan?",
+        "Answer": "Ya, namun terbatas pada dukungan yang mendukung perencanaan strategis, sehingga administrasi internal TNI yang bersifat teknis tetap dikelola TNI."
+    }
+]

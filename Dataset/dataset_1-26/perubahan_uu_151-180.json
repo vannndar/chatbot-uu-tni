@@ -1,0 +1,152 @@
+[
+    {
+        "Context": "Pasal 10 hasil perubahan menetapkan empat tugas utama Angkatan Udara (AU) dan menambahkan ayat (2) yang mengamanatkan pengaturan rinci melalui Peraturan Pemerintah.",
+        "Question": "Apa saja empat tugas pokok AU menurut Pasal 10 versi terbaru?",
+        "Answer": "a) Melaksanakan tugas TNI matra udara di bidang pertahanan; b) menegakkan hukum dan menjaga keamanan di ruang udara; c) membangun dan mengembangkan kekuatan matra udara; serta d) memberdayakan wilayah pertahanan udara."
+    },
+    {
+        "Context": "Huruf a tidak berubah dari versi lama: AU bertugas melaksanakan pertahanan matra udara.",
+        "Question": "Apa yang dimaksud \"tugas TNI matra udara di bidang pertahanan\"?",
+        "Answer": "Segala upaya militer AU untuk menjaga kedaulatan ruang udara Indonesia, termasuk pencegatan pesawat asing dan perlindungan instalasi strategis."
+    },
+    {
+        "Context": "Huruf b pada pasal lama menyebut \"wilayah udara yurisdiksi nasional\"; redaksi baru diganti menjadi \"ruang udara\".",
+        "Question": "Mengapa redaksi \"ruang udara\" dipilih pada versi baru Pasal 10?",
+        "Answer": "Istilah ini menegaskan cakupan penuh kedaulatan udara Indonesia tanpa terpaku istilah yurisdiksi, sekaligus mengikuti standar hukum udara internasional."
+    },
+    {
+        "Context": "Penegakan hukum di ruang udara wajib sejalan dengan hukum nasional dan internasional.",
+        "Question": "Sebutkan contoh aturan internasional yang menjadi acuan AU dalam penegakan hukum udara.",
+        "Answer": "Konvensi Chicago 1944 tentang Penerbangan Sipil Internasional dan perjanjian ICAO yang telah diratifikasi Indonesia."
+    },
+    {
+        "Context": "AU mengoperasikan radar jaringan nasional untuk pengawasan udara.",
+        "Question": "Apa fungsi utama Satuan Radar (Satrad) bagi AU?",
+        "Answer": "Mendeteksi, melacak, dan mengidentifikasi obyek udara sebagai peringatan dini bagi komando pertahanan."
+    },
+    {
+        "Context": "Huruf c mengatur pembangunan dan pengembangan kekuatan matra udara.",
+        "Question": "Apa prioritas modernisasi AU saat ini?",
+        "Answer": "Pengadaan pesawat tempur generasi 4.5/5, pesawat tanker, dan sistem pertahanan udara berbasis rudal jarak menengah."
+    },
+    {
+        "Context": "Pengembangan kekuatan juga meliputi peningkatan sumber daya manusia.",
+        "Question": "Bagaimana AU meningkatkan kompetensi penerbang tempurnya?",
+        "Answer": "Melalui program latihan instrument rating, simulasi tempur canggih, dan kerja sama latihan internasional seperti Pitch Black."
+    },
+    {
+        "Context": "Huruf d tentang pemberdayaan wilayah pertahanan udara menitikberatkan sinergi militer–sipil.",
+        "Question": "Apa contoh pemberdayaan wilayah pertahanan udara?",
+        "Answer": "Pemasangan sirene peringatan dini, edukasi keselamatan penerbangan di sekitar pangkalan, dan latihan evakuasi darurat."
+    },
+    {
+        "Context": "Ayat (2) baru menugaskan pemerintah mengatur detail tugas AU lewat PP.",
+        "Question": "Mengapa PP diperlukan dalam pelaksanaan tugas AU?",
+        "Answer": "Agar aturan teknis bisa segera diperbarui sesuai perkembangan teknologi dirgantara dan ancaman keamanan."
+    },
+    {
+        "Context": "Redaksi baru meneguhkan perbedaan antara pertahanan udara dan keamanan penerbangan sipil.",
+        "Question": "Siapa bertanggung jawab utama atas keamanan penerbangan sipil?",
+        "Answer": "Direktorat Jenderal Perhubungan Udara dan AirNav Indonesia, dengan dukungan AU untuk aspek pertahanan."
+    },
+    {
+        "Context": "AU menegakkan hukum udara melalui prosedur identifikasi visual (VID).",
+        "Question": "Kapan AU menerapkan prosedur VID?",
+        "Answer": "Ketika radar mendeteksi pesawat asing tanpa izin, AU mengirim jet tempur untuk identifikasi dan pengusiran."
+    },
+    {
+        "Context": "AU memiliki Komando Operasi Udara (Koopsud).",
+        "Question": "Sebutkan tiga Koopsud utama AU.",
+        "Answer": "Koopsud I (Barat), Koopsud II (Tengah), dan Koopsud III (Timur)."
+    },
+    {
+        "Context": "Pembangunan kekuatan matra udara mencakup jaringan satelit pengawasan.",
+        "Question": "Apa manfaat satelit pengawasan bagi pertahanan udara?",
+        "Answer": "Memberi citra real‑time wilayah udara, membantu peringatan dini, dan meningkatkan akurasi intelijen."
+    },
+    {
+        "Context": "AU turut menjalankan diplomasi udara lewat fly‑past pada acara kenegaraan.",
+        "Question": "Apa tujuan diplomasi udara semacam fly‑past?",
+        "Answer": "Menunjukkan profesionalisme AU, menghormati tamu negara, serta membangun citra positif Indonesia di mata internasional."
+    },
+    {
+        "Context": "Penegakan hukum udara mencakup pengendalian drone sipil.",
+        "Question": "Bagaimana AU menangani pelanggaran penggunaan drone?",
+        "Answer": "Dengan koordinasi Kemenhub dan Polri, termasuk tindakan penyitaan atau penjatuhan jika mengancam keselamatan penerbangan."
+    },
+    {
+        "Context": "Program \"Langit Biru\" mendukung pemberdayaan wilayah pertahanan udara.",
+        "Question": "Apa sasaran program \"Langit Biru\"?",
+        "Answer": "Mengajak komunitas aeromodeling dan pilot drone hobi mematuhi zona larangan terbang demi keamanan bangsa."
+    },
+    {
+        "Context": "PP turunan akan mengatur integrasi komando pertahanan siber‑ruang udara.",
+        "Question": "Mengapa integrasi siber dan udara penting?",
+        "Answer": "Sistem pertahanan udara modern tergantung jaringan digital yang rawan serangan siber."
+    },
+    {
+        "Context": "AU memiliki Skuadron Udara VIP/VVIP untuk Presiden.",
+        "Question": "Apa pesawat utama Skuadron Udara 17?",
+        "Answer": "Pesawat Boeing 737‑800 BBJ dan sejumlah pesawat angkut jarak menengah."
+    },
+    {
+        "Context": "Anggaran pertahanan udara harus akuntabel.",
+        "Question": "Bagaimana transparansi anggaran AU dijaga?",
+        "Answer": "Melalui audit BPK, laporan ke DPR, dan sistem e‑procurement di Kemhan."
+    },
+    {
+        "Context": "AU berperan dalam operasi pencarian dan penyelamatan (SAR) udara.",
+        "Question": "Helikopter apa yang biasa digunakan AU untuk SAR?",
+        "Answer": "Helikopter Super Puma NAS332 dan EC725 Caracal."
+    },
+    {
+        "Context": "Pemberdayaan wilayah pertahanan udara juga berarti partisipasi perguruan tinggi.",
+        "Question": "Bagaimana kampus kedirgantaraan mendukung AU?",
+        "Answer": "Riset avionik, pengembangan drone, dan penyediaan sumber daya manusia teknik."
+    },
+    {
+        "Context": "Redaksi baru Pasal 10 menghapus kata \"yurisdiksi\" agar penegakan hukum udara lebih fleksibel.",
+        "Question": "Apakah AU dapat menindak pelanggaran di wilayah FIR yang belum dikelola Indonesia?",
+        "Answer": "Tindakan terbatas pada koordinasi diplomatik sampai pengalihan FIR disepakati; AU tetap siap menjaga keamanan."
+    },
+    {
+        "Context": "Modernisasi AU mencakup pesawat tanker udara‑udara.",
+        "Question": "Mengapa pesawat tanker penting?",
+        "Answer": "Memperluas jangkauan tempur jet AU tanpa harus mendarat untuk mengisi bahan bakar."
+    },
+    {
+        "Context": "PP memungkinkan revisi struktur satuan UAV AU.",
+        "Question": "Apa peran Skuadron UAV?",
+        "Answer": "Mengawasi perbatasan, memetakan kebakaran hutan, dan memberi intelijen real‑time."
+    },
+    {
+        "Context": "Penegakan hukum udara melibatkan konsep Air Defense Identification Zone (ADIZ).",
+        "Question": "Apa itu ADIZ?",
+        "Answer": "Zona di mana pesawat asing wajib melaporkan identitas sebelum memasuki wilayah udara suatu negara."
+    },
+    {
+        "Context": "AU melaksanakan latihan Tangkisan untuk kesiapsiagaan.",
+        "Question": "Apa fokus latihan Tangkisan?",
+        "Answer": "Pencegatan cepat terhadap pesawat musuh dan skenario tempur udara malam hari."
+    },
+    {
+        "Context": "Pemberdayaan wilayah pertahanan udara mencakup pemanfaatan bandara sipil saat darurat.",
+        "Question": "Bagaimana bandara sipil mendukung operasi AU?",
+        "Answer": "Bandara sipil dapat dijadikan pangkalan aju untuk pengisian bahan bakar dan pergerakan pasukan."
+    },
+    {
+        "Context": "AU mendukung misi kemanusiaan udara internasional.",
+        "Question": "Contoh misi kemanusiaan yang melibatkan AU?",
+        "Answer": "Pengiriman bantuan udara ke negara terdampak gempa bumi atau badai tropis di kawasan Pasifik."
+    },
+    {
+        "Context": "Penambahan ayat (2) memastikan fleksibilitas regulasi.",
+        "Question": "Bagaimana proses revisi PP jika ancaman udara berkembang?",
+        "Answer": "Kemhan bersama AU menyusun draft revisi, konsultasi publik, lalu disahkan Presiden tanpa harus mengubah UU."
+    },
+    {
+        "Context": "Perubahan Pasal 10 menegaskan sinergi tri‑matra dalam operasi gabungan.",
+        "Question": "Mengapa operasi gabungan penting untuk pertahanan udara?",
+        "Answer": "Serangan udara sering diiringi ancaman darat dan laut, sehingga koordinasi tri‑matra diperlukan demi pertahanan menyeluruh."
+    }
+]

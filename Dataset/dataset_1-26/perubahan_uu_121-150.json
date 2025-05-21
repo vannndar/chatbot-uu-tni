@@ -1,0 +1,147 @@
+[
+    {
+        "Context": "Pasal 9 hasil perubahan menetapkan lima tugas utama Angkatan Laut (AL) dan menambahkan ayat (2) tentang pengaturan rinci melalui Peraturan Pemerintah.",
+        "Question": "Apa saja lima tugas utama AL menurut Pasal 9 yang baru?",
+        "Answer": "a) Melaksanakan tugas TNI matra laut di bidang pertahanan; b) menegakkan hukum dan menjaga keamanan di wilayah laut; c) menjalankan diplomasi Angkatan Laut; d) membangun dan mengembangkan kekuatan matra laut; serta e) memberdayakan wilayah pertahanan laut."
+    },
+    {
+        "Context": "Huruf a tidak berubah: AL bertugas melaksanakan pertahanan matra laut.",
+        "Question": "Apa yang dimaksud \"tugas TNI matra laut di bidang pertahanan\"?",
+        "Answer": "Segala operasi militer di laut untuk melindungi kedaulatan wilayah perairan Indonesia dari ancaman negara lain."
+    },
+    {
+        "Context": "Huruf b memuat frasa baru \"Wilayah laut\" menggantikan \"wilayah laut yurisdiksi nasional\".",
+        "Question": "Apa perbedaan istilah \"Wilayah laut\" dengan \"wilayah laut yurisdiksi nasional\"?",
+        "Answer": "\"Wilayah laut\" mencakup seluruh perairan yang diakui kedaulatannya oleh Indonesia, sementara frasa lama menitikberatkan pada yurisdiksi. Redaksi baru menegaskan cakupan penuh tanpa mengurangi kewajiban patuh pada hukum internasional."
+    },
+    {
+        "Context": "Huruf b menekankan penegakan hukum sesuai hukum nasional dan internasional.",
+        "Question": "Contoh hukum internasional apa yang menjadi rujukan AL dalam penegakan hukum laut?",
+        "Answer": "Konvensi PBB tentang Hukum Laut 1982 (UNCLOS) yang telah diratifikasi Indonesia."
+    },
+    {
+        "Context": "AL bekerja sama dengan Bakamla dan Polair untuk patroli bersama.",
+        "Question": "Bagaimana koordinasi AL dengan Bakamla?",
+        "Answer": "AL memimpin operasi militer, sedangkan Bakamla berfokus patroli keamanan; keduanya saling bertukar data maritim dan melaksanakan latihan bersama."
+    },
+    {
+        "Context": "Huruf c menegaskan tugas diplomasi AL mendukung kebijakan luar negeri pemerintah.",
+        "Question": "Apa bentuk konkrit diplomasi AL?",
+        "Answer": "Port visit kapal perang ke negara sahabat, latihan bersama, dan partisipasi dalam misi maritim PBB."
+    },
+    {
+        "Context": "Diplomasi AL meningkatkan kerja sama keamanan maritim regional.",
+        "Question": "Mengapa kerja sama maritim ASEAN penting bagi Indonesia?",
+        "Answer": "Untuk menjaga stabilitas Selat Malaka, mencegah perompakan, dan menegakkan kebebasan navigasi."
+    },
+    {
+        "Context": "Huruf d mengatur pembangunan dan pengembangan kekuatan matra laut.",
+        "Question": "Apa prioritas modernisasi AL saat ini?",
+        "Answer": "Pengadaan kapal selam, fregat multiperan, dan sistem rudal anti‑kapal jarak jauh."
+    },
+    {
+        "Context": "Pengembangan kekuatan juga mencakup peningkatan sumber daya manusia.",
+        "Question": "Bagaimana AL meningkatkan kompetensi prajuritnya?",
+        "Answer": "Melalui pendidikan di Akademi Angkatan Laut, kursus spesialis, dan latihan internasional."
+    },
+    {
+        "Context": "Huruf e menyebut pemberdayaan wilayah pertahanan laut.",
+        "Question": "Apa yang dimaksud pemberdayaan wilayah pertahanan laut?",
+        "Answer": "Mengajak masyarakat pesisir menjaga keamanan, mengembangkan pangkalan pertahanan, dan mengoptimalkan potensi maritim untuk pertahanan."
+    },
+    {
+        "Context": "Program Sea Toll mendukung pemberdayaan wilayah pertahanan laut.",
+        "Question": "Bagaimana program Sea Toll berhubungan dengan pertahanan laut?",
+        "Answer": "Dengan meningkatkan konektivitas antarpulau, AL dapat lebih mudah memproyeksikan kekuatan dan logistik."
+    },
+    {
+        "Context": "Ayat (2) baru mengamanatkan Peraturan Pemerintah (PP) untuk detail tugas AL.",
+        "Question": "Mengapa PP penting bagi pelaksanaan tugas AL?",
+        "Answer": "PP memberikan panduan teknis yang cepat disesuaikan dengan dinamika ancaman maritim."
+    },
+    {
+        "Context": "PP dapat mengatur zonasi tanggung jawab patroli.",
+        "Question": "Apa manfaat zonasi patroli laut?",
+        "Answer": "Menghindari duplikasi tugas, meningkatkan efektivitas pengawasan, dan memudahkan evaluasi kinerja."
+    },
+    {
+        "Context": "Penegakan hukum laut melibatkan operasi penindakan illegal fishing.",
+        "Question": "Bagaimana AL menangani kapal asing yang melakukan illegal fishing?",
+        "Answer": "Dengan prosedur panggilan radio, pengejaran, penangkapan, dan penyerahan kepada penyidik berwenang."
+    },
+    {
+        "Context": "AL memiliki Komando Lintas Laut Militer (Kolinlamil).",
+        "Question": "Apa fungsi Kolinlamil?",
+        "Answer": "Mengatur angkutan laut militer untuk mobilisasi pasukan dan logistik ke seluruh wilayah Indonesia."
+    },
+    {
+        "Context": "Tugas diplomasi AL mendukung soft power Indonesia.",
+        "Question": "Contoh soft power melalui diplomasi AL?",
+        "Answer": "Mengirim kapal rumah sakit KRI dr Soeharso untuk bantuan kemanusiaan di negara lain."
+    },
+    {
+        "Context": "Redaksi baru huruf b meniadakan kata \"jurisdiksi nasional\" agar tidak membatasi proyeksi AL.",
+        "Question": "Apakah AL boleh beroperasi di perairan internasional?",
+        "Answer": "Ya, selama mematuhi hukum laut internasional dan kebijakan politik luar negeri."
+    },
+    {
+        "Context": "Pembangunan kekuatan termasuk sistem pertahanan pantai.",
+        "Question": "Apa tujuan sistem rudal pertahanan pantai?",
+        "Answer": "Untuk menahan kapal permukaan musuh yang mendekati garis pantai strategis."
+    },
+    {
+        "Context": "AL berperan dalam operasi evakuasi non‑tempur (NEO).",
+        "Question": "Kapal apa yang sering digunakan AL untuk NEO?",
+        "Answer": "Kapal perang tipe LPD (Landing Platform Dock) seperti KRI Banjarmasin."
+    },
+    {
+        "Context": "Kurator budaya maritim juga bagian dari pemberdayaan wilayah laut.",
+        "Question": "Mengapa budaya maritim penting bagi pertahanan?",
+        "Answer": "Masyarakat yang memahami laut akan lebih peduli dan bersinergi menjaga kedaulatan."
+    },
+    {
+        "Context": "AL memimpin operasi keamanan di choke point strategis.",
+        "Question": "Apa contoh choke point Indonesia?",
+        "Answer": "Selat Malaka, Selat Lombok, dan Selat Makassar."
+    },
+    {
+        "Context": "PP turunan bisa menetapkan struktur Komando Armada.",
+        "Question": "Sebutkan tiga Komando Armada utama AL saat ini?",
+        "Answer": "Koarmada I (Barat), Koarmada II (Timur), dan Koarmada III (Papua)."
+    },
+    {
+        "Context": "Penegakan hukum laut juga mencakup pelanggaran lingkungan.",
+        "Question": "Bagaimana AL menindak tumpahan minyak ilegal?",
+        "Answer": "Dengan mengamankan kapal pelaku, mengumpulkan bukti, dan menyerahkan pada pengadilan perikanan/lingkungan."
+    },
+    {
+        "Context": "AL mengembangkan Pusat Informasi Maritim (PIM).",
+        "Question": "Apa fungsi PIM?",
+        "Answer": "Memusatkan data AIS, radar, dan citra satelit untuk deteksi dini ancaman."
+    },
+    {
+        "Context": "Diplomasi AL mendukung Freedom of Navigation Operation (FONOP) bersahabat.",
+        "Question": "Apa tujuan FONOP bagi Indonesia?",
+        "Answer": "Menunjukkan komitmen pada hukum laut internasional dan menjamin jalur perdagangan tetap terbuka."
+    },
+    {
+        "Context": "Pengembangan kekuatan melibatkan industri pertahanan dalam negeri.",
+        "Question": "Contoh kerja sama AL dengan industri dalam negeri?",
+        "Answer": "Pembangunan kapal patroli cepat (KPC) oleh PT PAL Indonesia."
+    },
+    {
+        "Context": "Pemberdayaan wilayah pertahanan laut mengutamakan Blue Economy.",
+        "Question": "Bagaimana Blue Economy selaras dengan pertahanan?",
+        "Answer": "Dengan meningkatkan kesejahteraan nelayan, basis sosial pertahanan laut menjadi lebih kuat."
+    },
+    {
+        "Context": "Ayat (2) memungkinkan pembaruan terus‑menerus.",
+        "Question": "Bagaimana mekanisme revisi PP jika ancaman baru muncul?",
+        "Answer": "Pemerintah dapat merevisi PP melalui proses perundang‑undangan tanpa menunggu perubahan UU."
+    },
+    {
+        "Context": "Revisi Pasal 9 menegaskan sinergi antarmatra dalam operasi gabungan.",
+        "Question": "Mengapa operasi gabungan penting di era modern?",
+        "Answer": "Ancaman hibrida menuntut koordinasi darat, laut, udara, dan siber agar pertahanan negara solid."
+    }
+]
