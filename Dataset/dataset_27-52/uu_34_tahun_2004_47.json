@@ -5,29 +5,9 @@
     "Answer": "Prajurit hanya boleh pegang jabatan sipil setelah pensiun/mengundurkan diri dari dinas aktif."
   },
   {
-    "Context": "Berdasarkan Pasal 47 ayat (1) RUU 2025, prajurit dapat menduduki jabatan pada 14 bidang strategis (seperti siber, terorisme, keamanan laut) tanpa harus pensiun, berbeda dengan UU 2004 yang membatasi secara ketat.",
-    "Question": "Apa isi Pasal 47 ayat (1) RUU TNI 2025?",
-    "Answer": "Prajurit boleh pegang jabatan di 14 bidang strategis tanpa pensiun."
-  },
-  {
-    "Context": "UU 2004 melarang total jabatan sipil bagi prajurit aktif, sedangkan RUU 2025 mengizinkan di 14 bidang strategis. RUU juga memisahkan aturan jabatan sipil pasca-dinas di ayat (2).",
-    "Question": "Apa perbedaan Pasal 47 ayat (1) UU 2004 dan RUU 2025?",
-    "Answer": "RUU 2025 memperluas cakupan lembaga strategis dan memisahkan aturan jabatan pasca-dinas."
-  },
-  {
     "Context": "Berdasarkan Pasal 47 ayat (2) UU 2004, prajurit aktif boleh menduduki jabatan di 10 instansi strategis seperti Intelijen, Lemhannas, dan MA, kecuali jabatan politis (Penjelasan ayat).",
     "Question": "Apa isi Pasal 47 ayat (2) UU TNI 2004?",
     "Answer": "Prajurit aktif boleh jabatan di 10 instansi strategis, kecuali jabatan politis."
-  },
-  {
-    "Context": "Berdasarkan Pasal 47 ayat (2) RUU 2025, aturan jabatan sipil pasca-dinas dipisahkan secara eksplisit, berbeda dengan UU 2004 yang menggabungkannya dalam ayat (1).",
-    "Question": "Apa isi Pasal 47 ayat (2) RUU TNI 2025?",
-    "Answer": "Aturan jabatan sipil pasca-dinas diatur terpisah dalam ayat khusus."
-  },
-  {
-    "Context": "RUU 2025 menambah 6 bidang baru: Siber/Sandi, Pengelola Perbatasan, Penanggulangan Bencana, Terorisme, Keamanan Laut, dan Kejaksaan (bidang pidana militer).",
-    "Question": "Instansi apa saja yang ditambahkan dalam Pasal 47 ayat (1) RUU 2025?",
-    "Answer": "Ditambah 6 bidang termasuk siber, terorisme, dan keamanan laut."
   },
   {
     "Context": "Berdasarkan Pasal 47 ayat (3) UU 2004, penugasan prajurit harus atas permintaan pimpinan lembaga dan tunduk pada aturan administrasi lembaga sipil tersebut.",
@@ -35,19 +15,9 @@
     "Answer": "Penugasan harus atas permintaan pimpinan lembaga dan ikuti aturan administrasi sipil."
   },
   {
-    "Context": "UU 2004 menggunakan frasa \"departemen/lembaga\", sedangkan RUU 2025 menyederhanakan menjadi \"kementerian/lembaga\" sesuai struktur pemerintahan terkini.",
-    "Question": "Apa perbedaan Pasal 47 ayat (3) UU 2004 dan RUU 2025?",
-    "Answer": "Perubahan terminologi dari \"departemen\" ke \"kementerian/lembaga\"."
-  },
-  {
     "Context": "Berdasarkan Pasal 47 ayat (4) UU 2004, pengangkatan/pemberhentian prajurit di lembaga strategis disesuaikan dengan kebutuhan organisasi lembaga terkait.",
     "Question": "Apa isi Pasal 47 ayat (4) UU TNI 2004?",
     "Answer": "Pengangkatan/pemberhentian berdasarkan kebutuhan organisasi lembaga."
-  },
-  {
-    "Context": "RUU 2025 menambahkan frasa \"jabatan tertentu\" untuk lebih spesifik dibanding UU 2004 yang hanya menyebut \"jabatan\".",
-    "Question": "Apa perbedaan Pasal 47 ayat (4) UU 2004 dan RUU 2025?",
-    "Answer": "RUU lebih spesifik dengan istilah \"jabatan tertentu\"."
   },
   {
     "Context": "Berdasarkan Pasal 47 ayat (5) UU 2004, pembinaan karier prajurit di lembaga sipil dilakukan Panglima bekerja sama dengan pimpinan lembaga terkait.",
@@ -55,48 +25,158 @@
     "Answer": "Pembinaan karier oleh Panglima bersama pimpinan lembaga."
   },
   {
-    "Context": "RUU 2025 mengubah frasa \"bekerja sama\" menjadi \"melalui koordinasi\", menunjukkan mekanisme lebih formal dibanding UU 2004.",
-    "Question": "Apa perbedaan Pasal 47 ayat (5) UU 2004 dan RUU 2025?",
-    "Answer": "RUU menegaskan mekanisme koordinasi formal."
-  },
-  {
     "Context": "Berdasarkan Pasal 47 ayat (6) UU 2004, teknis penugasan prajurit di lembaga strategis diatur lebih lanjut melalui Peraturan Pemerintah.",
     "Question": "Apa isi Pasal 47 ayat (6) UU TNI 2004?",
     "Answer": "Detail teknis diatur dalam Peraturan Pemerintah."
   },
   {
-    "Context": "RUU 2025 menyederhanakan redaksi tanpa mengubah substansi, tetap mengamanatkan PP untuk teknis implementasi.",
-    "Question": "Apa perbedaan Pasal 47 ayat (6) UU 2004 dan RUU 2025?",
-    "Answer": "Tidak ada perubahan substantif, hanya penyederhanaan redaksional."
+    "Context": "Berdasarkan Pasal 47 ayat (1), prajurit hanya dapat menduduki jabatan sipil setelah tidak lagi aktif dinas militer.",
+    "Question": "Kapan prajurit boleh menduduki jabatan sipil menurut Pasal 47 ayat (1)?",
+    "Answer": "Setelah mengundurkan diri atau pensiun dari dinas aktif keprajuritan."
   },
   {
-    "Context": "Berdasarkan Penjelasan RUU, Kejaksaan RI dimasukkan khusus untuk penanganan pidana militer, bukan semua bidang di Kejaksaan.",
-    "Question": "Mengapa Kejaksaan dimasukkan dalam Pasal 47 ayat (1) RUU 2025?",
-    "Answer": "Khusus untuk jabatan di bidang pidana militer."
+    "Context": "Pasal 47 ayat (2) mengecualikan beberapa instansi tertentu dimana prajurit aktif boleh menduduki jabatan.",
+    "Question": "Apa saja instansi yang boleh diduduki prajurit aktif menurut Pasal 47 ayat (2)?",
+    "Answer": "Kantor bidang Politik dan Keamanan Negara, Pertahanan Negara, Sekretaris Militer Presiden, Intelijen Negara, Sandi Negara, Lembaga Ketahanan Nasional, Dewan Pertahanan Nasional, SAR Nasional, Narkotika Nasional, dan Mahkamah Agung."
   },
   {
-    "Context": "Berdasarkan Penjelasan Pasal 47 ayat (2) UU 2004, jabatan Menteri termasuk \"jabatan politis\" yang dikecualikan. RUU 2025 juga tidak mencantumkannya.",
-    "Question": "Apakah prajurit aktif bisa menjadi Menteri Pertahanan berdasarkan Pasal 47?",
-    "Answer": "Tidak, karena termasuk jabatan politis yang dilarang."
+    "Context": "Pasal 47 ayat (3) mengatur bahwa penugasan prajurit di instansi tertentu harus berdasarkan permintaan pimpinan instansi terkait.",
+    "Question": "Apa syarat penugasan prajurit di instansi khusus menurut Pasal 47 ayat (3)?",
+    "Answer": "Berdasarkan permintaan pimpinan departemen/lembaga pemerintah nondepartemen dan tunduk pada ketentuan administrasi yang berlaku."
   },
   {
-    "Context": "Berdasarkan Pasal 47 ayat (3)-(4) UU 2004, mekanismenya meliputi: 1) Permintaan pimpinan lembaga, 2) Sesuai kebutuhan organisasi, dan 3) Tunduk pada aturan administrasi lembaga.",
-    "Question": "Bagaimana mekanisme pengangkatan prajurit di lembaga sipil menurut UU TNI?",
-    "Answer": "Melalui permintaan pimpinan lembaga, sesuai kebutuhan organisasi, dan ikuti aturan administrasi."
+    "Context": "Pasal 47 ayat (4) mengatur mekanisme pengangkatan dan pemberhentian prajurit di instansi tertentu.",
+    "Question": "Bagaimana mekanisme pengangkatan/pemberhentian prajurit di instansi khusus menurut Pasal 47 ayat (4)?",
+    "Answer": "Dilakukan sesuai kebutuhan organisasi departemen/lembaga pemerintah nondepartemen terkait."
   },
   {
-    "Context": "Meski tidak diatur sanksi eksplisit, pelanggaran dapat dikenai sanksi disiplin militer berdasarkan UU No. 34/2004 dan peraturan turunannya.",
-    "Question": "Apa konsekuensi hukum jika prajurit aktif pegang jabatan sipil diluar ketentuan Pasal 47?",
-    "Answer": "Dapat dikenai sanksi disiplin militer."
+    "Context": "Pasal 47 ayat (5) menjelaskan tentang pembinaan karier prajurit yang bertugas di instansi tertentu.",
+    "Question": "Siapa yang bertanggung jawab atas pembinaan karier prajurit di instansi khusus?",
+    "Answer": "Panglima bekerja sama dengan pimpinan departemen/lembaga pemerintah nondepartemen terkait."
   },
   {
-    "Context": "Berdasarkan Pasal 47 ayat (5), pembinaan dilakukan secara kolaboratif oleh Panglima dan pimpinan lembaga sipil, dengan model kemitraan setara.",
-    "Question": "Bagaimana status pembinaan karier prajurit di lembaga sipil?",
-    "Answer": "Dibina bersama oleh Panglima dan pimpinan lembaga dengan prinsip koordinasi."
+    "Context": "Pasal 47 ayat (6) mengamanatkan pengaturan lebih lanjut melalui Peraturan Pemerintah.",
+    "Question": "Apa dasar hukum pengaturan lebih lanjut tentang penugasan prajurit di instansi khusus?",
+    "Answer": "Diatur dengan Peraturan Pemerintah."
   },
   {
-    "Context": "Berdasarkan Pasal 47 ayat (6), PP dibutuhkan untuk mengatur teknis operasional seperti prosedur permintaan, kriteria jabatan, dan pembagian kewenangan.",
-    "Question": "Mengapa perlu Peraturan Pemerintah untuk implementasi Pasal 47?",
-    "Answer": "Untuk aturan teknis penugasan prajurit di lembaga sipil yang melibatkan multi-stakeholder."
+    "Context": "Pasal 47 ayat (1) melarang prajurit aktif menduduki jabatan sipil umum.",
+    "Question": "Apakah prajurit aktif boleh menjadi pegawai di kementerian pendidikan?",
+    "Answer": "Tidak, kecuali sudah mengundurkan diri atau pensiun."
+  },
+  {
+    "Context": "Pasal 47 ayat (2) memperbolehkan prajurit aktif bertugas di lembaga intelijen negara.",
+    "Question": "Apakah prajurit aktif boleh bekerja di BIN?",
+    "Answer": "Ya, sesuai ketentuan Pasal 47 ayat (2)."
+  },
+  {
+    "Context": "Pasal 47 ayat (3) menyebutkan prajurit di instansi khusus tunduk pada aturan administrasi instansi tersebut.",
+    "Question": "Apakah prajurit di Mahkamah Agung tunduk pada aturan MA?",
+    "Answer": "Ya, tunduk pada ketentuan administrasi MA."
+  },
+  {
+    "Context": "Pasal 47 ayat (4) mengatur bahwa penugasan prajurit bersifat dinamis sesuai kebutuhan organisasi.",
+    "Question": "Apa dasar pemberhentian prajurit dari jabatan di instansi khusus?",
+    "Answer": "Kebutuhan organisasi departemen/lembaga terkait."
+  },
+  {
+    "Context": "Pasal 47 ayat (5) menunjukkan adanya pembinaan karier ganda untuk prajurit di instansi khusus.",
+    "Question": "Bagaimana sistem pembinaan karier prajurit di Dewan Pertahanan Nasional?",
+    "Answer": "Dilaksanakan Panglima bersama pimpinan DPN."
+  },
+  {
+    "Context": "Pasal 47 ayat (6) menunjukkan bahwa ketentuan teknis diatur tersendiri.",
+    "Question": "Apakah ada aturan turunan dari Pasal 47 ayat (2)-(4)?",
+    "Answer": "Ya, diatur dengan Peraturan Pemerintah."
+  },
+  {
+    "Context": "Pasal 47 ayat (1) membatasi ruang gerak prajurit aktif di bidang sipil.",
+    "Question": "Apakah prajurit aktif boleh menjadi kepala daerah?",
+    "Answer": "Tidak, kecuali sudah mengundurkan diri atau pensiun."
+  },
+  {
+    "Context": "Pasal 47 ayat (2) mencantumkan SAR Nasional sebagai instansi khusus.",
+    "Question": "Apakah prajurit aktif boleh bertugas di BASARNAS?",
+    "Answer": "Ya, sesuai ketentuan Pasal 47 ayat (2)."
+  },
+  {
+    "Context": "Pasal 47 ayat (3) mensyaratkan adanya permintaan resmi dari pimpinan instansi.",
+    "Question": "Siapa yang bisa mengajukan permintaan penugasan prajurit di lembaga khusus?",
+    "Answer": "Pimpinan departemen/lembaga pemerintah nondepartemen terkait."
+  },
+  {
+    "Context": "Pasal 47 ayat (4) memberikan fleksibilitas penugasan berdasarkan kebutuhan.",
+    "Question": "Apakah penugasan prajurit di BNN bersifat permanen?",
+    "Answer": "Tidak, sesuai kebutuhan organisasi BNN."
+  },
+  {
+    "Context": "Pasal 47 ayat (5) menunjukkan kolaborasi TNI dan instansi sipil dalam pembinaan karier.",
+    "Question": "Siapa yang membina karier prajurit di Sekretariat Militer Presiden?",
+    "Answer": "Panglima bekerja sama dengan pimpinan Sekretariat Militer Presiden."
+  },
+  {
+    "Context": "Pasal 47 ayat (6) memastikan adanya payung hukum turunan.",
+    "Question": "Apa bentuk regulasi turunan untuk implementasi Pasal 47?",
+    "Answer": "Peraturan Pemerintah."
+  },
+  {
+    "Context": "Pasal 47 ayat (1) membedakan status prajurit aktif dan non-aktif untuk jabatan sipil.",
+    "Question": "Apakah pensiunan TNI boleh menduduki jabatan sipil?",
+    "Answer": "Ya, sesuai Pasal 47 ayat (1)."
+  },
+  {
+    "Context": "Pasal 47 ayat (2) mencantumkan Lembaga Ketahanan Nasional sebagai instansi khusus.",
+    "Question": "Apakah prajurit aktif boleh mengajar di Lemhannas?",
+    "Answer": "Ya, sesuai ketentuan Pasal 47 ayat (2)."
+  },
+  {
+    "Context": "Pasal 47 ayat (3) mengatur tentang ketaatan pada aturan administrasi instansi.",
+    "Question": "Apakah prajurit di Sandi Negara tunduk pada aturan TNI atau Sandi Negara?",
+    "Answer": "Tunduk pada ketentuan administrasi Sandi Negara."
+  },
+  {
+    "Context": "Pasal 47 ayat (4) memberikan kewenangan pada instansi penerima untuk mengatur penugasan.",
+    "Question": "Siapa yang menentukan masa tugas prajurit di BIN?",
+    "Answer": "Berdasarkan kebutuhan organisasi BIN."
+  },
+  {
+    "Context": "Pasal 47 ayat (5) mengatur tentang pembinaan karir terpadu.",
+    "Question": "Bagaimana pembinaan prajurit yang bertugas di Dewan Pertahanan Nasional?",
+    "Answer": "Oleh Panglima bersama pimpinan DPN."
+  },
+  {
+    "Context": "Pasal 47 ayat (6) mengamanatkan pengaturan teknis lebih lanjut.",
+    "Question": "Apa dasar hukum detail penugasan prajurit di instansi khusus?",
+    "Answer": "Peraturan Pemerintah."
+  },
+  {
+    "Context": "Pasal 47 ayat (1) melarang rangkap jabatan sipil bagi prajurit aktif.",
+    "Question": "Apakah prajurit aktif boleh menjadi direktur BUMN?",
+    "Answer": "Tidak, kecuali sudah mengundurkan diri atau pensiun."
+  },
+  {
+    "Context": "Pasal 47 ayat (2) memperbolehkan prajurit aktif di bidang pertahanan negara.",
+    "Question": "Apakah prajurit aktif boleh bekerja di Kementerian Pertahanan?",
+    "Answer": "Ya, sesuai ketentuan Pasal 47 ayat (2)."
+  },
+  {
+    "Context": "Pasal 47 ayat (3) mensyaratkan penugasan berdasarkan permintaan resmi.",
+    "Question": "Apakah TNI bisa menugaskan prajurit ke MA tanpa permintaan?",
+    "Answer": "Tidak, harus ada permintaan dari pimpinan MA."
+  },
+  {
+    "Context": "Pasal 47 ayat (4) memberikan fleksibilitas pengelolaan SDM.",
+    "Question": "Apakah instansi sipil bisa memulangkan prajurit sebelum masa tugas selesai?",
+    "Answer": "Ya, sesuai kebutuhan organisasi instansi terkait."
+  },
+  {
+    "Context": "Pasal 47 ayat (5) mengatur mekanisme pembinaan karir terkoordinasi.",
+    "Question": "Bagaimana pembinaan prajurit di Badan SAR Nasional?",
+    "Answer": "Oleh Panglima bersama pimpinan BASARNAS."
+  },
+  {
+    "Context": "Pasal 47 ayat (6) menjamin kepastian hukum implementasi pasal ini.",
+    "Question": "Apa dasar hukum teknis penugasan prajurit di instansi khusus?",
+    "Answer": "Diatur dalam Peraturan Pemerintah."
   }
-]
+] 
