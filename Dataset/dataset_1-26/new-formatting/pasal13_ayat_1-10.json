@@ -1,0 +1,102 @@
+[
+  {
+    "Context": "Pasal 13 ayat (1): TNI dipimpin oleh seorang Panglima.",
+    "Question": "Siapa pemimpin tertinggi TNI menurut UU No. 34/2004?",
+    "Answer": "Pemimpin tertinggi TNI adalah Panglima, yang memegang komando atas seluruh matra TNI."
+  },
+  {
+    "Context": "Pasal 13 ayat (1): TNI dipimpin oleh seorang Panglima.",
+    "Question": "Apa tugas utama Panglima TNI?",
+    "Answer": "Panglima TNI bertanggung jawab memimpin, mengoordinasi, dan mengendalikan seluruh operasi dan kebijakan TNI."
+  },
+  {
+    "Context": "Pasal 13 ayat (2): Panglima diangkat dan diberhentikan oleh Presiden setelah mendapat persetujuan DPR.",
+    "Question": "Siapa yang mengangkat Panglima TNI?",
+    "Answer": "Panglima TNI diangkat dan diberhentikan oleh Presiden setelah Dewan Perwakilan Rakyat memberikan persetujuan."
+  },
+  {
+    "Context": "Pasal 13 ayat (2): Panglima diangkat dan diberhentikan oleh Presiden setelah mendapat persetujuan DPR.",
+    "Question": "Mengapa DPR harus menyetujui pengangkatan Panglima?",
+    "Answer": "Agar mekanisme kontrol sipil terjaga dan calon Panglima dievaluasi secara terbuka oleh perwakilan rakyat."
+  },
+  {
+    "Context": "Pasal 13 ayat (3): Pengangkatan dan pemberhentian Panglima berdasarkan kepentingan organisasi TNI.",
+    "Question": "Apa dasar pengangkatan Panglima menurut Pasal 13 ayat (3)?",
+    "Answer": "Pengangkatan dan pemberhentian Panglima dilakukan demi kepentingan organisasi TNI agar tetap efektif dan profesional."
+  },
+  {
+    "Context": "Pasal 13 ayat (3): Pengangkatan dan pemberhentian Panglima berdasarkan kepentingan organisasi TNI.",
+    "Question": "Apa yang dimaksud ‘kepentingan organisasi TNI’?",
+    "Answer": "Kepentingan organisasi TNI mencakup stabilitas komando, kesinambungan strategi, dan kebutuhan operasional TNI."
+  },
+  {
+    "Context": "Pasal 13 ayat (4): Jabatan Panglima dapat diisi oleh Perwira Tinggi aktif dari tiap Angkatan yang sedang atau pernah menjadi Kepala Staf Angkatan.",
+    "Question": "Siapa saja yang berhak menjabat Panglima TNI?",
+    "Answer": "Perwira Tinggi aktif dari Angkatan Darat, Laut, atau Udara yang sedang atau pernah menjabat Kepala Staf Angkatan."
+  },
+  {
+    "Context": "Pasal 13 ayat (4): Jabatan Panglima dapat diisi oleh Perwira Tinggi aktif dari tiap Angkatan yang sedang atau pernah menjadi Kepala Staf Angkatan.",
+    "Question": "Mengapa calon Panglima harus pernah menjadi Kepala Staf Angkatan?",
+    "Answer": "Agar calon Panglima memiliki pengalaman komando tinggi dan pengetahuan lintas matra TNI."
+  },
+  {
+    "Context": "Pasal 13 ayat (5): Presiden mengusulkan satu calon Panglima untuk mendapat persetujuan DPR.",
+    "Question": "Bagaimana proses awal pengangkatan Panglima dimulai?",
+    "Answer": "Presiden mengusulkan satu orang calon Panglima kepada DPR untuk memperoleh persetujuan."
+  },
+  {
+    "Context": "Pasal 13 ayat (5): Presiden mengusulkan satu calon Panglima untuk mendapat persetujuan DPR.",
+    "Question": "Apa kriteria calon Panglima yang diusulkan Presiden?",
+    "Answer": "Calon harus memenuhi persyaratan jabatan tinggi TNI, berintegritas, dan sesuai kepentingan organisasi."
+  },
+  {
+    "Context": "Pasal 13 ayat (6): DPR harus menyetujui calon Panglima paling lambat 20 hari setelah permohonan diterima.",
+    "Question": "Berapa lama DPR memiliki waktu untuk memberi persetujuan calon Panglima?",
+    "Answer": "DPR wajib menyampaikan persetujuan paling lambat 20 hari kerja sejak permohonan diterima."
+  },
+  {
+    "Context": "Pasal 13 ayat (6): DPR harus menyetujui calon Panglima paling lambat 20 hari setelah permohonan diterima.",
+    "Question": "Apa yang terjadi jika DPR tidak memberikan keputusan dalam 20 hari?",
+    "Answer": "Jika DPR tidak memberi jawaban dalam batas waktu, dianggap menyetujui dan Presiden dapat mengangkat calon itu."
+  },
+  {
+    "Context": "Pasal 13 ayat (7): Jika DPR menolak calon pertama, Presiden mengusulkan calon lain.",
+    "Question": "Apa langkah Presiden bila DPR menolak calon Panglima pertama?",
+    "Answer": "Presiden wajib mengusulkan satu calon baru sebagai pengganti kepada DPR."
+  },
+  {
+    "Context": "Pasal 13 ayat (7): Jika DPR menolak calon pertama, Presiden mengusulkan calon lain.",
+    "Question": "Berapa kali Presiden dapat mengusulkan calon Panglima baru?",
+    "Answer": "Presiden dapat mengusulkan ulang satu calon baru setiap kali DPR menolak usulan sebelumnya."
+  },
+  {
+    "Context": "Pasal 13 ayat (8): Jika DPR menolak usulan, DPR wajib menyampaikan alasan tertulis.",
+    "Question": "Apa yang harus disampaikan DPR apabila menolak calon Panglima?",
+    "Answer": "DPR harus memberikan alasan tertulis yang menjelaskan pertimbangan penolakan."
+  },
+  {
+    "Context": "Pasal 13 ayat (8): Jika DPR menolak usulan, DPR wajib menyampaikan alasan tertulis.",
+    "Question": "Mengapa alasan penolakan harus disampaikan secara tertulis?",
+    "Answer": "Agar transparansi terjaga dan publik memahami dasar pertimbangan DPR."
+  },
+  {
+    "Context": "Pasal 13 ayat (9): Jika DPR tidak membalas usulan, dianggap menyetujui.",
+    "Question": "Apa konsekuensi jika DPR tidak merespon usulan calon Panglima?",
+    "Answer": "DPR dianggap menyetujui dan Presiden dapat melanjutkan pengangkatan Panglima."
+  },
+  {
+    "Context": "Pasal 13 ayat (9): Jika DPR tidak membalas usulan, dianggap menyetujui.",
+    "Question": "Mengapa mekanisme ini penting bagi proses pengangkatan Panglima?",
+    "Answer": "Agar tidak terjadi kebuntuan administratif dan jabatan Panglima segera terisi."
+  },
+  {
+    "Context": "Pasal 13 ayat (10): Tata cara pengangkatan dan pemberhentian Panglima diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana detail teknis pengangkatan Panglima diatur?",
+    "Answer": "Detailnya diatur dalam Keputusan Presiden yang memuat syarat, prosedur, dan wewenang."
+  },
+  {
+    "Context": "Pasal 13 ayat (10): Tata cara pengangkatan dan pemberhentian Panglima diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Di mana masyarakat dapat menemukan Keputusan Presiden tersebut?",
+    "Answer": "Keputusan Presiden dapat diakses melalui situs resmi Sekretariat Negara atau Lembaran Negara."
+  }
+]

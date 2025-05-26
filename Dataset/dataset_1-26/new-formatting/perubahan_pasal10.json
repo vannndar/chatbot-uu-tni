@@ -1,0 +1,192 @@
+[
+  {
+    "Context": "Pasal 10 ayat (1) huruf a (baru): Angkatan Udara bertugas melaksanakan tugas TNI matra udara di bidang pertahanan.",
+    "Question": "Apa tugas pokok Angkatan Udara menurut huruf a baru?",
+    "Answer": "Angkatan Udara mengelola dan menyiapkan seluruh kemampuan udara untuk mempertahankan kedaulatan dan wilayah udara Indonesia."
+  },
+  {
+    "Context": "Pasal 10 (sebelum perubahan) huruf a: melaksanakan tugas TNI matra udara di bidang pertahanan;",
+    "Question": "Apakah bunyi huruf a berubah setelah revisi?",
+    "Answer": "Tidak, makna dan bunyinya tetap sama sebelum dan sesudah perubahan."
+  },
+  {
+    "Context": "Pasal 10 ayat (1) huruf b (baru): menegakkan hukum dan menjaga keamanan di ruang udara sesuai dengan ketentuan hukum nasional dan hukum internasional yang telah disahkan;",
+    "Question": "Apa arti istilah \"ruang udara\" pada huruf b baru?",
+    "Answer": "Ruang udara mencakup seluruh lapisan udara di atas wilayah kedaulatan Indonesia, bukan hanya permukaan."
+  },
+  {
+    "Context": "Pasal 10 (sebelum) huruf b: menegakkan hukum dan menjaga keamanan di wilayah udara yurisdiksi nasional sesuai dengan ketentuan hukum nasional dan hukum internasional yang telah diratifikasi;",
+    "Question": "Apa perbedaan \"yurisdiksi nasional\" dengan \"ruang udara\"?",
+    "Answer": "Yurisdiksi nasional menekankan batas hukum wilayah; ruang udara lebih luas, mencakup lapisan udara di atasnya."
+  },
+  {
+    "Context": "Pasal 10 huruf b berubah kata \"diratifikasi\" menjadi \"disahkan\";",
+    "Question": "Mengapa istilah \"diratifikasi\" diganti menjadi \"disahkan\"?",
+    "Answer": "Untuk menegaskan bahwa perjanjian internasional telah diundangkan dalam hukum nasional."
+  },
+  {
+    "Context": "Pasal 10 ayat (1) huruf b (baru) tanpa istilah \"yurisdiksi nasional\";",
+    "Question": "Apa implikasi dihilangkannya frase \"yurisdiksi nasional\"?",
+    "Answer": "Tugas AL menjadi lebih fleksibel dan tak terbatas pada kategori yurisdiksi saja."
+  },
+  {
+    "Context": "Pasal 10 ayat (1) huruf b (baru): kewenangan berdasarkan hukum nasional dan internasional yang disahkan;",
+    "Question": "Bagaimana AL memastikan kepatuhan hukum internasional?",
+    "Answer": "Dengan menerapkan perjanjian yang telah disahkan ke dalam prosedur operasi udara."
+  },
+  {
+    "Context": "Pasal 10 (sebelum) huruf b: menegakkan hukum dan menjaga keamanan di wilayah udara yurisdiksi nasional;",
+    "Question": "Apa tantangan menjaga keamanan udara yurisdiksi nasional sebelumnya?",
+    "Answer": "Koordinasi antarinstansi dan penanganan pelanggaran di zona ZEE."
+  },
+  {
+    "Context": "Pasal 10 ayat (1) huruf b: \"sesuai ketentuan hukum nasional dan internasional\";",
+    "Question": "Apa tugas AL dalam hal traktat maritim?",
+    "Answer": "Menindak pelanggaran, patroli, dan melaporkan ke Kemenlu dan BSSN."
+  },
+  {
+    "Context": "Pasal 10 ayat (1) huruf c (baru): melaksanakan tugas TNI dalam pembangunan dan pengembangan kekuatan matra udara;",
+    "Question": "Apa fokus utama pembangunan kekuatan matra udara?",
+    "Answer": "Pengadaan pesawat, pelatihan awak, dan modernisasi sistem radar."
+  },
+  {
+    "Context": "Pasal 10 (sebelum) huruf c: melaksanakan tugas TNI dalam pembangunan dan pengembangan kekuatan matra udara;",
+    "Question": "Apakah makna huruf c berubah setelah revisi?",
+    "Answer": "Tidak, tetap menekankan pengembangan kemampuan udara."
+  },
+  {
+    "Context": "Pasal 10 ayat (1) huruf d (baru): melaksanakan pemberdayaan Wilayah pertahanan udara;",
+    "Question": "Apa arti pemberdayaan wilayah pertahanan udara?",
+    "Answer": "Meningkatkan peran pos udara, radar sipil, dan masyarakat dalam sistem deteksi dini."
+  },
+  {
+    "Context": "Pasal 10 (sebelum) huruf d: melaksanakan pemberdayaan wilayah pertahanan udara;",
+    "Question": "Apakah huruf d direvisi?",
+    "Answer": "Tidak, bunyi dan maknanya sama sebelum dan sesudah perubahan."
+  },
+  {
+    "Context": "Pasal 10 ayat (2) (baru): ketentuan lebih lanjut tentang tugas AU diatur dengan Peraturan Pemerintah.",
+    "Question": "Apa fungsi ayat (2) baru?",
+    "Answer": "Menyerahkan detail teknis dan prosedur pelaksanaan tugas AU ke level PP."
+  },
+  {
+    "Context": "Pasal 10 sebelum tidak memiliki ayat (2);",
+    "Question": "Apakah sebelum revisi ada pengaturan teknis di UU?",
+    "Answer": "Tidak, sebelumnya prosedur diatur secara internal oleh TNI AU."
+  },
+  {
+    "Context": "Pasal 10 menambahkan ayat (2) tentang PP;",
+    "Question": "Mengapa perlu PP untuk tugas AU?",
+    "Answer": "Agar tata cara operasional mudah diperbarui tanpa mengubah UU."
+  },
+  {
+    "Context": "Perubahan Pasal 10 huruf b dan penambahan ayat (2);",
+    "Question": "Huruf mana saja yang diubah?",
+    "Answer": "Hanya huruf b yang direvisi dan ditambah ayat (2)."
+  },
+  {
+    "Context": "Pasal 10 ayat (1) huruf a–d (baru);",
+    "Question": "Sebutkan empat tugas pokok AU setelah revisi!",
+    "Answer": "Matra udara pertahanan, penegakan hukum udara, pembangunan kekuatan, dan pemberdayaan pertahanan udara."
+  },
+  {
+    "Context": "Pasal 10 huruf a (baru): tugas matra udara di bidang pertahanan;",
+    "Question": "Bagaimana AU mempertahankan kedaulatan udara?",
+    "Answer": "Dengan patroli rutin, intersepsi target asing, dan latihan bersama."
+  },
+  {
+    "Context": "Pasal 10 huruf b (baru): menegakkan hukum di ruang udara;",
+    "Question": "Apa contoh pelanggaran hukum udara?",
+    "Answer": "Intrusi pesawat non-komersial, pelanggaran ZEE, dan boikot sinyal radio."
+  },
+  {
+    "Context": "Pasal 10 huruf b (lama): keamanan di wilayah udara yurisdiksi nasional;",
+    "Question": "Apa batasan yurisdiksi nasional sebelumnya?",
+    "Answer": "Hanya hingga ketinggian tertentu sesuai UNCLOS, tanpa detil lapisan."
+  },
+  {
+    "Context": "Pasal 10 huruf c (baru): pembangunan kekuatan matra udara;",
+    "Question": "Mengapa pembangunan kekuatan penting?",
+    "Answer": "Menjamin kesiapsiagaan teknis dan taktis menghadapi ancaman udara."
+  },
+  {
+    "Context": "Pasal 10 huruf d (baru): pemberdayaan pertahanan udara;",
+    "Question": "Siapa yang dilibatkan dalam pemberdayaan pertahanan udara?",
+    "Answer": "Komunitas bandara, lembaga riset, darat AU, dan tim radar sipil."
+  },
+  {
+    "Context": "Pasal 10 ayat (2): PP mengatur rincian tugas AU;",
+    "Question": "Apa contoh materi PP untuk tugas AU?",
+    "Answer": "Standar SOP penyelamatan, prosedur intersepsi, dan kriteria latihan unit."
+  },
+  {
+    "Context": "Perubahan Pasal 10 hanya di huruf b dan ayat (2);",
+    "Question": "Bagaimana proses intersepsi pesawat asing?",
+    "Answer": "Perintah Panglima, peringatan radio, dan pengawalan protokol keamanan."
+  },
+  {
+    "Context": "Pasal 10 huruf a–d (baru);",
+    "Question": "Bagaimana AU berkoordinasi dengan TNI AL dan AD?",
+    "Answer": "Lewat Komando Gabungan TNI di bawah Panglima."
+  },
+  {
+    "Context": "Pasal 10 huruf b (baru) menyebut hukum internasional yang disahkan;",
+    "Question": "Bagaimana penerapan hukum internasional di udara?",
+    "Answer": "Dengan mematuhi konvensi ICAO dan perjanjian bilateral."
+  },
+  {
+    "Context": "Pasal 10 huruf b (lama) menyebut diratifikasi;",
+    "Question": "Apa arti ratifikasi perjanjian udara?",
+    "Answer": "Proses persetujuan parlemen agar perjanjian berlaku domestik."
+  },
+  {
+    "Context": "Pasal 10 huruf c (baru): pembangunan kekuatan;",
+    "Question": "Apa tantangan modernisasi pesawat tempur?",
+    "Answer": "Biaya tinggi, transfer teknologi, dan pelatihan sumber daya."
+  },
+  {
+    "Context": "Pasal 10 huruf d (baru): pemberdayaan wilayah pertahanan udara;",
+    "Question": "Apa metode deteksi dini ancaman udara?",
+    "Answer": "Radar pantai, UAV pengintai, dan satelit pengukuran cuaca."
+  },
+  {
+    "Context": "Pasal 10 ayat (2) baru;",
+    "Question": "Bagaimana mekanisme evaluasi PP tugas AU?",
+    "Answer": "Komisi Pertahanan mengevaluasi setiap tahun hasil implementasi PP."
+  },
+  {
+    "Context": "Pasal 10 huruf b (baru);",
+    "Question": "Siapa penanggung jawab penegakan hukum udara?",
+    "Answer": "Komandan Wing Udara dan Koordinator Hukum Kemenhan."
+  },
+  {
+    "Context": "Pasal 10 huruf b (baru);",
+    "Question": "Bagaimana peran detasemen keamanan udara sipil?",
+    "Answer": "Mendukung patroli AU dengan personel terlatih di bandara utama."
+  },
+  {
+    "Context": "Pasal 10 keseluruhan (baru);",
+    "Question": "Apa intisari perubahan UU Pasal 10?",
+    "Answer": "Penyempurnaan terminologi ruang udara dan mekanisme PP teknis."
+  },
+  {
+    "Context": "Pasal 10(a–d) dan ayat (2) (baru);",
+    "Question": "Mengapa revisi hanya fokus huruf b dan PP?",
+    "Answer": "Untuk meningkatkan cakupan hukum udara dan fleksibilitas operasional."
+  },
+  {
+    "Context": "Perubahan UU Pasal 10;",
+    "Question": "Bagaimana masyarakat mengetahui PP tugas AU?",
+    "Answer": "Melalui publikasi resmi di Lembaran Negara dan situs Kemenhan."
+  },
+  {
+    "Context": "Pasal 10(b) baru menyebut \"sesuai ketentuan nasional dan internasional\";",
+    "Question": "Apa relevansi hukum internasional dalam tugas AU?",
+    "Answer": "Menjamin pengakuan hak udara dan keselamatan penerbangan sipil."
+  },
+  {
+    "Context": "Pasal 10(c & d) tidak berubah;",
+    "Question": "Apakah ada rencana revisi huruf c atau d selanjutnya?",
+    "Answer": "Kemungkinan di PP jika dibutuhkan detail teknis tambahan."
+  }
+]

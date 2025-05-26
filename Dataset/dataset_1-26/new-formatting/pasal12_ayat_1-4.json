@@ -1,0 +1,97 @@
+[
+  {
+    "Context": "Pasal 12 ayat (1): Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan Markas Besar TNI Angkatan Darat, Markas Besar TNI Angkatan Laut, dan Markas Besar TNI Angkatan Udara.",
+    "Question": "Apa yang dimaksud dengan Markas Besar TNI menurut Pasal 12 ayat (1)?",
+    "Answer": "Markas Besar TNI adalah pusat komando tingkat tertinggi TNI yang mengoordinasikan ketiga matra: Darat, Laut, dan Udara."
+  },
+  {
+    "Context": "Pasal 12 ayat (1): Organisasi TNI terdiri atas Markas Besar TNI yang membawahkan MB TNI AD, MB TNI AL, dan MB TNI AU.",
+    "Question": "Mengapa TNI memiliki tiga Markas Besar matra berbeda?",
+    "Answer": "Setiap matra memiliki tugas, doktrin, dan kebutuhan logistik khusus sehingga dibutuhkan markas besar tersendiri untuk pengelolaan efektif."
+  },
+  {
+    "Context": "Pasal 12 ayat (1): Organisasi TNI terdiri atas Markas Besar TNI yg membawahkan MB TNI AD, MB TNI AL, dan MB TNI AU.",
+    "Question": "Bagaimana hubungan Markas Besar TNI dengan Markas Besar setiap matra?",
+    "Answer": "Markas Besar TNI memimpin dan mengkoordinasi kebijakan serta operasi, sedangkan Markas Besar matra melaksanakan fungsi operasional sesuai bidangnya."
+  },
+  {
+    "Context": "Pasal 12 ayat (1): Organisasi TNI terdiri atas MB TNI dan MB TNI Angkatan Darat, Laut, Udara.",
+    "Question": "Siapa pemimpin tertinggi di Markas Besar TNI?",
+    "Answer": "Pemimpin tertinggi adalah Panglima TNI, yang bertanggung jawab langsung kepada Presiden."
+  },
+  {
+    "Context": "Pasal 12 ayat (1): Organisasi TNI terdiri atas MB TNI dan MB TNI Angkatan Darat, Laut, Udara.",
+    "Question": "Apa peran Markas Besar TNI Angkatan Darat?",
+    "Answer": "Memimpin, merencanakan, dan mengendalikan operasi serta pembinaan satuan matra Darat."
+  },
+  {
+    "Context": "Pasal 12 ayat (2): Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi.",
+    "Question": "Apa saja unsur yang membentuk Markas Besar TNI menurut ayat (2)?",
+    "Answer": "Terdiri dari unsur pimpinan, pembantu pimpinan, pelayanan, badan pelaksana pusat, dan Komando Utama Operasi."
+  },
+  {
+    "Context": "Pasal 12 ayat (2): Markas Besar TNI terdiri atas unsur pimpinan, pembantu pimpinan, pelayanan, badan pelaksana pusat, dan Komando Utama Operasi.",
+    "Question": "Apa fungsi unsur pembantu pimpinan di Markas Besar TNI?",
+    "Answer": "Memberi dukungan perencanaan, intelijen, dan kebijakan agar pimpinan dapat mengambil keputusan strategis secara tepat."
+  },
+  {
+    "Context": "Pasal 12 ayat (2): Markas Besar TNI terdiri atas unsur pimpinan, pembantu pimpinan, pelayanan, badan pelaksana pusat, dan Komando Utama Operasi.",
+    "Question": "Apa tugas badan pelaksana pusat di Markas Besar TNI?",
+    "Answer": "Melaksanakan program dan kebijakan strategis, seperti pendidikan prajurit, riset pertahanan, dan koordinasi logistik nasional."
+  },
+  {
+    "Context": "Pasal 12 ayat (2): Markas Besar TNI terdiri atas unsur pimpinan, pembantu pimpinan, pelayanan, badan pelaksana pusat, dan Komando Utama Operasi.",
+    "Question": "Apa yang dimaksud Komando Utama Operasi di Markas Besar TNI?",
+    "Answer": "Komando Utama Operasi adalah kekuatan TNI yang terpusat di bawah komando Panglima TNI untuk merencanakan dan melaksanakan operasi gabungan."
+  },
+  {
+    "Context": "Pasal 12 ayat (2): Markas Besar TNI terdiri atas unsur pimpinan, unsur pembantu pimpinan, unsur pelayanan, badan pelaksana pusat, dan Komando Utama Operasi.",
+    "Question": "Mengapa Komando Utama Operasi penting dalam struktur Markas Besar TNI?",
+    "Answer": "Agar operasi lintas matra dapat direncanakan, dikoordinasikan, dan diintegrasikan secara menyeluruh dari satu pusat komando."
+  },
+  {
+    "Context": "Pasal 12 ayat (3): Markas Besar Angkatan terdiri atas unsur pimpinan, pembantu pimpinan, pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan.",
+    "Question": "Apa perbedaan Komando Utama Pembinaan dengan Komando Utama Operasi?",
+    "Answer": "Komando Utama Pembinaan memfokuskan pada pengembangan dan pembinaan kekuatan matra di bawah Kepala Staf Angkatan, bukan operasi langsung."
+  },
+  {
+    "Context": "Pasal 12 ayat (3): MB Angkatan terdiri atas unsur pimpinan, pembantu pimpinan, pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan.",
+    "Question": "Apa tugas Komando Utama Pembinaan di Markas Besar Angkatan?",
+    "Answer": "Menyusun doktrin, melatih prajurit, dan mengembangkan alutsista sesuai kebutuhan matra."
+  },
+  {
+    "Context": "Pasal 12 ayat (3): MB Angkatan terdiri atas unsur pimpinan, pembantu pimpinan, pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan.",
+    "Question": "Siapa yang memimpin Komando Utama Pembinaan Angkatan Darat?",
+    "Answer": "Dipimpin Kepala Staf Angkatan Darat beserta jajarannya di Markas Besar Angkatan Darat."
+  },
+  {
+    "Context": "Pasal 12 ayat (3): MB Angkatan terdiri atas unsur pimpinan, pembantu pimpinan, pelayanan, badan pelaksana pusat, dan Komando Utama Pembinaan.",
+    "Question": "Bagaimana Komando Utama Pembinaan mendukung kesiapan matra laut dan udara?",
+    "Answer": "Dengan menetapkan standar pelatihan, program pendidikan, dan evaluasi kemampuan prajurit setiap matra."
+  },
+  {
+    "Context": "Pasal 12 ayat (4): Susunan organisasi TNI diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Apa arti ayat (4) terkait Keputusan Presiden?",
+    "Answer": "Detail struktur, tugas tiap unsur, dan tata kerja organisasi TNI ditetapkan melalui Keppres agar dapat disesuaikan perkembangan kebutuhan."
+  },
+  {
+    "Context": "Pasal 12 ayat (4): Susunan organisasi TNI diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Mengapa Keputusan Presiden diperlukan untuk mengatur susunan organisasi TNI?",
+    "Answer": "Agar perubahan struktur resmi memiliki kekuatan hukum tetap dan dapat diadaptasi sesuai dinamika pertahanan negara."
+  },
+  {
+    "Context": "Pasal 12 ayat (4): Susunan organisasi TNI diatur lebih lanjut dengan Keputusan Presiden.",
+    "Question": "Bagaimana masyarakat dapat mengakses Keputusan Presiden tentang organisasi TNI?",
+    "Answer": "Keppres dapat diunduh di situs resmi Sekretariat Negara atau diterbitkan di Lembaran Negara."
+  },
+  {
+    "Context": "Pasal 12 secara keseluruhan mengatur organisasi TNI.",
+    "Question": "Bagaimana struktur organisasi TNI mendukung efektivitas pertahanan?",
+    "Answer": "Dengan adanya pembagian fungsi jelas antar markas besar, suplai bantuan teknis, dan pusat komando operasi yang terintegrasi."
+  },
+  {
+    "Context": "Pasal 12 secara keseluruhan mengatur organisasi TNI.",
+    "Question": "Apa manfaat pembagian antara unsur pelayanan dan badan pelaksana pusat?",
+    "Answer": "Unsur pelayanan menangani administrasi dan logistik, sedangkan badan pelaksana pusat mengimplementasikan program operasional."
+  }
+]
