@@ -1,0 +1,612 @@
+[
+  {
+    "Context": "Pasal 1 ayat 1: Negara adalah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan UUD 1945.",
+    "Question": "Apa yang dimaksud dengan istilah “Negara” dalam konteks Undang-Undang ini?",
+    "Answer": "Istilah “Negara” merujuk pada NKRI yang berlandaskan Pancasila dan Undang-Undang Dasar 1945, artinya seluruh wilayah dan rakyatnya tunduk pada dasar negara tersebut."
+  },
+  {
+    "Context": "Pasal 1 ayat 1: Negara adalah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan UUD 1945.",
+    "Question": "Mengapa Pancasila dan UUD 1945 menjadi dasar Negara Indonesia?",
+    "Answer": "Karena Pancasila dan UUD 1945 merupakan kesepakatan dasar bersama yang mempersatukan keberagaman, serta menjadi landasan hukum dan ideologi negara."
+  },
+  {
+    "Context": "Pasal 1 ayat 1: Negara adalah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan UUD 1945.",
+    "Question": "Bagaimana peran Undang-Undang Dasar 1945 dalam menegakkan kedaulatan Negara?",
+    "Answer": "UUD 1945 menjadi konstitusi tertinggi yang mengatur sistem ketatanegaraan, sehingga menjadi rujukan bagi seluruh perundang-undangan untuk menegakkan kedaulatan negara."
+  },
+  {
+    "Context": "Pasal 1 ayat 1: Negara adalah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan UUD 1945.",
+    "Question": "Sebutkan dua unsur pokok yang membentuk pengertian Negara menurut Pasal 1 ayat 1!",
+    "Answer": "Dua unsur pokoknya adalah: (1) Negara Kesatuan Republik Indonesia, (2) berlandaskan Pancasila dan UUD 1945."
+  },
+  {
+    "Context": "Pasal 1 ayat 1: Negara adalah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan UUD 1945.",
+    "Question": "Bagaimana hubungan antara NKRI dan visi persatuan dalam Pancasila?",
+    "Answer": "NKRI menjamin persatuan dan keutuhan wilayah, sesuai nilai sila Ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sosial dalam Pancasila."
+  },
+  {
+    "Context": "Pasal 1 ayat 2: Warga Negara adalah warga negara Republik Indonesia.",
+    "Question": "Apa kriteria seseorang disebut sebagai Warga Negara menurut Undang-Undang ini?",
+    "Answer": "Seseorang disebut Warga Negara apabila memiliki kewarganegaraan Indonesia sesuai ketentuan perundang-undangan."
+  },
+  {
+    "Context": "Pasal 1 ayat 2: Warga Negara adalah warga negara Republik Indonesia.",
+    "Question": "Bisakah seseorang memiliki kewarganegaraan ganda menurut Pasal ini?",
+    "Answer": "Pasal ini hanya mendefinisikan WNI; kebijakan kewarganegaraan ganda diatur terpisah dalam undang-undang kewarganegaraan."
+  },
+  {
+    "Context": "Pasal 1 ayat 2: Warga Negara adalah warga negara Republik Indonesia.",
+    "Question": "Mengapa penting mendefinisikan Warga Negara dalam konteks pertahanan?",
+    "Answer": "Karena hak dan kewajiban pertahanan (misal wajib militer) berlaku pada mereka yang secara sah berstatus WNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 2: Warga Negara adalah warga negara Republik Indonesia.",
+    "Question": "Bagaimana Anda dapat membuktikan status Warga Negara Republik Indonesia?",
+    "Answer": "Dengan dokumen resmi seperti KTP elektronik, paspor, atau akta kelahiran sesuai persyaratan hukum."
+  },
+  {
+    "Context": "Pasal 1 ayat 2: Warga Negara adalah warga negara Republik Indonesia.",
+    "Question": "Apa konsekuensi hukum bagi non-WNI terkait Pasal ini?",
+    "Answer": "Non-WNI tidak memiliki hak dan kewajiban khusus pertahanan negara yang diatur bagi WNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 3: Pemerintah adalah pemerintah Republik Indonesia.",
+    "Question": "Siapa yang termasuk dalam definisi “Pemerintah” menurut Pasal ini?",
+    "Answer": "Yang dimaksud adalah lembaga eksekutif: Presiden, Kementerian, dan lembaga negara lainnya yang menjalankan fungsi pemerintahan."
+  },
+  {
+    "Context": "Pasal 1 ayat 3: Pemerintah adalah pemerintah Republik Indonesia.",
+    "Question": "Apa peran Pemerintah dalam sistem pertahanan negara?",
+    "Answer": "Pemerintah merumuskan kebijakan, mengalokasikan anggaran, dan menyelenggarakan program pertahanan negara."
+  },
+  {
+    "Context": "Pasal 1 ayat 3: Pemerintah adalah pemerintah Republik Indonesia.",
+    "Question": "Bagaimana mekanisme akuntabilitas Pemerintah dalam pertahanan?",
+    "Answer": "Melalui laporan kinerja ke DPR, audit BPK, dan transparansi anggaran pertahanan."
+  },
+  {
+    "Context": "Pasal 1 ayat 3: Pemerintah adalah pemerintah Republik Indonesia.",
+    "Question": "Mengapa definisi Pemerintah penting dalam konteks Undang-Undang ini?",
+    "Answer": "Karena semua kewajiban penyelenggaraan pertahanan menjadi tanggung jawab lembaga-lembaga pemerintah."
+  },
+  {
+    "Context": "Pasal 1 ayat 3: Pemerintah adalah pemerintah Republik Indonesia.",
+    "Question": "Bagaimana Pemerintah berkoordinasi dengan TNI?",
+    "Answer": "Melalui Kementerian Pertahanan, Panglima TNI, dan peraturan pelaksana yang disusun bersama."
+  },
+  {
+    "Context": "Pasal 1 ayat 4: Wilayah adalah seluruh wilayah NKRI berdasarkan peraturan perundang-undangan.",
+    "Question": "Apa cakupan istilah “Wilayah” menurut Pasal ini?",
+    "Answer": "Mencakup daratan, perairan, ruang udara, dan wilayah yuridiksi laut sesuai peraturan."
+  },
+  {
+    "Context": "Pasal 1 ayat 4: Wilayah adalah seluruh wilayah NKRI berdasarkan peraturan perundang-undangan.",
+    "Question": "Mengapa batas wilayah perlu dijelaskan dalam Undang-Undang pertahanan?",
+    "Answer": "Agar jelas zona pertahanan dan yurisdiksi pihak berwenang melindungi kedaulatan negara."
+  },
+  {
+    "Context": "Pasal 1 ayat 4: Wilayah adalah seluruh wilayah NKRI berdasarkan peraturan perundang-undangan.",
+    "Question": "Bagaimana penentuan wilayah laut diatur?",
+    "Answer": "Ditentukan berdasarkan UU Pelayaran dan Konvensi Hukum Laut UNCLOS."
+  },
+  {
+    "Context": "Pasal 1 ayat 4: Wilayah adalah seluruh wilayah NKRI berdasarkan peraturan perundang-undangan.",
+    "Question": "Apa tantangan pengamanan wilayah kepulauan?",
+    "Answer": "Kondisi geografis ribuan pulau memerlukan pos pertahanan terpadu dan patroli rutin."
+  },
+  {
+    "Context": "Pasal 1 ayat 4: Wilayah adalah seluruh wilayah NKRI berdasarkan peraturan perundang-undangan.",
+    "Question": "Sebutkan tiga elemen yang termasuk dalam Wilayah NKRI!",
+    "Answer": "Daratan, perairan (laut dan sungai), ruang udara."
+  },
+  {
+    "Context": "Pasal 1 ayat 5: Pertahanan Negara adalah usaha menegakkan kedaulatan, mempertahankan keutuhan wilayah, dan melindungi keselamatan bangsa.",
+    "Question": "Apa tujuan utama Pertahanan Negara?",
+    "Answer": "Menjaga kedaulatan negara, keutuhan wilayah, dan keselamatan seluruh bangsa dari ancaman."
+  },
+  {
+    "Context": "Pasal 1 ayat 5: Pertahanan Negara adalah usaha menegakkan kedaulatan, mempertahankan keutuhan wilayah, dan melindungi keselamatan bangsa.",
+    "Question": "Sebutkan tiga pilar dalam definisi Pertahanan Negara!",
+    "Answer": "Menegakkan kedaulatan, mempertahankan wilayah, melindungi keselamatan bangsa."
+  },
+  {
+    "Context": "Pasal 1 ayat 5: Pertahanan Negara adalah usaha menegakkan kedaulatan, mempertahankan keutuhan wilayah, dan melindungi keselamatan bangsa.",
+    "Question": "Bagaimana kondisi geografis memengaruhi strategi pertahanan?",
+    "Answer": "Negara kepulauan menuntut sistem pertahanan terpadu untuk mengamankan jalur laut dan pulau terluar."
+  },
+  {
+    "Context": "Pasal 1 ayat 5: Pertahanan Negara adalah usaha menegakkan kedaulatan, mempertahankan keutuhan wilayah, dan melindungi keselamatan bangsa.",
+    "Question": "Mengapa unsur keselamatan bangsa penting dalam pertahanan?",
+    "Answer": "Karena perlindungan warga sipil dan aset nasional merupakan bagian integral dari kekuatan pertahanan."
+  },
+  {
+    "Context": "Pasal 1 ayat 5: Pertahanan Negara adalah usaha menegakkan kedaulatan, mempertahankan keutuhan wilayah, dan melindungi keselamatan bangsa.",
+    "Question": "Apa contoh nyata kegiatan Pertahanan Negara sehari-hari?",
+    "Answer": "Patroli laut, latihan militer terpadu, pengamanan pulau terluar."
+  },
+  {
+    "Context": "Pasal 1 ayat 6: Sistem Pertahanan Negara adalah sistem semesta yang melibatkan seluruh warga negara, wilayah, dan sumber daya.",
+    "Question": "Apa arti “sistem semesta” dalam konteks pertahanan?",
+    "Answer": "Mengikutsertakan seluruh elemen bangsa (negara, pemerintah, warga) secara terpadu dan berkelanjutan."
+  },
+  {
+    "Context": "Pasal 1 ayat 6: Sistem Pertahanan Negara adalah sistem semesta yang melibatkan seluruh warga negara, wilayah, dan sumber daya.",
+    "Question": "Bagaimana peran rakyat dalam Sistem Pertahanan Negara?",
+    "Answer": "Mendukung secara fisik maupun non-fisik, seperti wajib lapor pertahanan dan edukasi bela negara."
+  },
+  {
+    "Context": "Pasal 1 ayat 6: Sistem Pertahanan Negara adalah sistem semesta yang melibatkan seluruh warga negara, wilayah, dan sumber daya.",
+    "Question": "Mengapa persiapan dini menjadi bagian penting?",
+    "Answer": "Agar negara selalu siap menghadapi ancaman kapan saja tanpa penanganan terkejut."
+  },
+  {
+    "Context": "Pasal 1 ayat 6: Sistem Pertahanan Negara adalah sistem semesta yang melibatkan seluruh warga negara, wilayah, dan sumber daya.",
+    "Question": "Sebutkan empat karakteristik Sistem Pertahanan Negara!",
+    "Answer": "Total, terpadu, terarah, berkelanjutan."
+  },
+  {
+    "Context": "Pasal 1 ayat 6: Sistem Pertahanan Negara adalah sistem semesta yang melibatkan seluruh warga negara, wilayah, dan sumber daya.",
+    "Question": "Bagaimana sinergi antara pemerintah dan masyarakat dalam sistem semesta?",
+    "Answer": "Pemerintah memimpin kebijakan, masyarakat melaksanakan dukungan di tingkat lokal."
+  },
+  {
+    "Context": "Pasal 1 ayat 7: TNI adalah Tentara Nasional Indonesia.",
+    "Question": "Apa kepanjangan dari TNI?",
+    "Answer": "TNI singkatan dari Tentara Nasional Indonesia."
+  },
+  {
+    "Context": "Pasal 1 ayat 7: TNI adalah Tentara Nasional Indonesia.",
+    "Question": "Apa tugas utama TNI sesuai UU ini?",
+    "Answer": "Membantu pemerintah menegakkan kedaulatan dan menjaga keutuhan wilayah."
+  },
+  {
+    "Context": "Pasal 1 ayat 7: TNI adalah Tentara Nasional Indonesia.",
+    "Question": "Bagaimana struktur komando TNI secara umum?",
+    "Answer": "Dipimpin Panglima TNI, di bawah Menhan, dibagi tiga matra (AD, AL, AU)."
+  },
+  {
+    "Context": "Pasal 1 ayat 7: TNI adalah Tentara Nasional Indonesia.",
+    "Question": "Apa perbedaan tugas TNI dan Polri?",
+    "Answer": "TNI fokus pertahanan eksternal, Polri tugas keamanan dalam negeri."
+  },
+  {
+    "Context": "Pasal 1 ayat 7: TNI adalah Tentara Nasional Indonesia.",
+    "Question": "Mengapa TNI termasuk elemen penting dalam pertahanan negara?",
+    "Answer": "Karena memiliki alat utama dan sumber daya manusia terlatih untuk menghadapi ancaman."
+  },
+  {
+    "Context": "Pasal 1 ayat 8: Departemen Pertahanan adalah pelaksana fungsi pemerintah di bidang pertahanan negara.",
+    "Question": "Apa fungsi Departemen Pertahanan menurut Pasal ini?",
+    "Answer": "Merumuskan kebijakan, perencanaan, dan pengawasan pelaksanaan pertahanan."
+  },
+  {
+    "Context": "Pasal 1 ayat 8: Departemen Pertahanan adalah pelaksana fungsi pemerintah di bidang pertahanan negara.",
+    "Question": "Siapa yang memimpin Departemen Pertahanan?",
+    "Answer": "Menteri Pertahanan yang ditunjuk Presiden."
+  },
+  {
+    "Context": "Pasal 1 ayat 8: Departemen Pertahanan adalah pelaksana fungsi pemerintah di bidang pertahanan negara.",
+    "Question": "Bagaimana koordinasi Departemen Pertahanan dengan TNI?",
+    "Answer": "Melalui penyusunan kebijakan operasional yang dilaksanakan Panglima TNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 8: Departemen Pertahanan adalah pelaksana fungsi pemerintah di bidang pertahanan negara.",
+    "Question": "Mengapa pemisahan fungsi kebijakan dan operasi penting?",
+    "Answer": "Agar pengambilan keputusan strategis terpusat dan pelaksanaan di tangan profesional militer."
+  },
+  {
+    "Context": "Pasal 1 ayat 8: Departemen Pertahanan adalah pelaksana fungsi pemerintah di bidang pertahanan negara.",
+    "Question": "Apa tantangan utama Departemen Pertahanan saat ini?",
+    "Answer": "Menjaga keseimbangan modernisasi alutsista dan peningkatan SDM di tengah keterbatasan anggaran."
+  },
+  {
+    "Context": "Pasal 1 ayat 9: Menteri Pertahanan adalah menteri yang bertanggung jawab di bidang pertahanan negara.",
+    "Question": "Apa wewenang Menteri Pertahanan?",
+    "Answer": "Menyusun kebijakan, mengajukan anggaran, dan mengawasi pelaksanaan pertahanan negara."
+  },
+  {
+    "Context": "Pasal 1 ayat 9: Menteri Pertahanan adalah menteri yang bertanggung jawab di bidang pertahanan negara.",
+    "Question": "Bagaimana mekanisme pertanggungjawaban Menteri Pertahanan?",
+    "Answer": "Melalui sidang DPR dan laporan pertanggungjawaban di setiap tahun anggaran."
+  },
+  {
+    "Context": "Pasal 1 ayat 9: Menteri Pertahanan adalah menteri yang bertanggung jawab di bidang pertahanan negara.",
+    "Question": "Apa peran Menteri Pertahanan dalam rapat kabinet?",
+    "Answer": "Memberi masukan kebijakan pertahanan dan keamanan nasional."
+  },
+  {
+    "Context": "Pasal 1 ayat 9: Menteri Pertahanan adalah menteri yang bertanggung jawab di bidang pertahanan negara.",
+    "Question": "Mengapa sosok Menteri Pertahanan perlu memiliki latar belakang militer atau sipil?",
+    "Answer": "Agar memahami aspek strategis dan administratif dalam pertahanan."
+  },
+  {
+    "Context": "Pasal 1 ayat 10: Panglima TNI adalah perwira tinggi militer yang memimpin TNI.",
+    "Question": "Siapa Panglima TNI menurut Undang-Undang ini?",
+    "Answer": "Perwira tinggi yang ditunjuk Presiden sebagai komandan tertinggi TNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 10: Panglima TNI adalah perwira tinggi militer yang memimpin TNI.",
+    "Question": "Apa tugas utama Panglima TNI?",
+    "Answer": "Memimpin operasi, strategi, dan kesiapan satuan TNI di seluruh matra."
+  },
+  {
+    "Context": "Pasal 1 ayat 10: Panglima TNI adalah perwira tinggi militer yang memimpin TNI.",
+    "Question": "Bagaimana mekanisme pelantikan Panglima TNI?",
+    "Answer": "Ditetapkan Presiden setelah melalui pertimbangan DPR."
+  },
+  {
+    "Context": "Pasal 1 ayat 10: Panglima TNI adalah perwira tinggi militer yang memimpin TNI.",
+    "Question": "Mengapa jabatan Panglima TNI bersifat sentral dalam pertahanan?",
+    "Answer": "Karena ia mengoordinasikan seluruh matra dan operasi militer untuk menegakkan kedaulatan."
+  },
+  {
+    "Context": "Pasal 1 ayat 10: Panglima TNI adalah perwira tinggi militer yang memimpin TNI.",
+    "Question": "Apa tantangan kepemimpinan Panglima TNI saat ini?",
+    "Answer": "Menghadapi ancaman siber, terorisme, dan dinamika geopolitik di kawasan."
+  },
+    {
+    "Context": "Pasal 1 ayat 11: Angkatan adalah Angkatan Darat, Angkatan Laut, dan Angkatan Udara.",
+    "Question": "Apa pengertian ‘Angkatan’ menurut UU No. 34/2004?",
+    "Answer": "‘Angkatan’ merujuk pada tiga matra TNI, yaitu Angkatan Darat, Angkatan Laut, dan Angkatan Udara."
+  },
+  {
+    "Context": "Pasal 1 ayat 11: Angkatan adalah Angkatan Darat, Angkatan Laut, dan Angkatan Udara.",
+    "Question": "Mengapa pembagian menjadi tiga Angkatan penting dalam pertahanan?",
+    "Answer": "Karena tiap matra memiliki tugas khusus—daratan, kelautan, dan udara—sehingga koordinasi pertahanan lebih terarah."
+  },
+  {
+    "Context": "Pasal 1 ayat 11: Angkatan adalah Angkatan Darat, Angkatan Laut, dan Angkatan Udara.",
+    "Question": "Bagaimana ketiga Angkatan berkolaborasi saat operasi bersama?",
+    "Answer": "Mereka menyatukan rencana taktis dan berbagi intelijen melalui Komando Gabungan untuk efektivitas operasi."
+  },
+  {
+    "Context": "Pasal 1 ayat 11: Angkatan adalah Angkatan Darat, Angkatan Laut, dan Angkatan Udara.",
+    "Question": "Apa contoh tugas Angkatan Laut dalam konteks pertahanan negara?",
+    "Answer": "Melakukan patroli perairan, pengamanan jalur laut, dan evakuasi warga saat bencana di wilayah perairan."
+  },
+  {
+    "Context": "Pasal 1 ayat 11: Angkatan adalah Angkatan Darat, Angkatan Laut, dan Angkatan Udara.",
+    "Question": "Bagaimana Angkatan Udara mendukung Angkatan Darat di medan tempur?",
+    "Answer": "Dengan serangan udara terarah, pengintaian udara, serta pengiriman logistik dan evakuasi darurat."
+  },
+  {
+    "Context": "Pasal 1 ayat 12: Kepala Staf Angkatan adalah Kepala Staf Angkatan Darat, Kepala Staf Angkatan Laut, dan Kepala Staf Angkatan Udara.",
+    "Question": "Siapa yang dimaksud Kepala Staf Angkatan menurut UU ini?",
+    "Answer": "Mereka adalah pejabat tertinggi staf militer di masing-masing matra: Darat, Laut, dan Udara."
+  },
+  {
+    "Context": "Pasal 1 ayat 12: Kepala Staf Angkatan adalah Kepala Staf Angkatan Darat, Kepala Staf Angkatan Laut, dan Kepala Staf Angkatan Udara.",
+    "Question": "Apa peran Kepala Staf Angkatan Darat?",
+    "Answer": "Merumuskan kebijakan dan memimpin personel serta operasional di Angkatan Darat."
+  },
+  {
+    "Context": "Pasal 1 ayat 12: Kepala Staf Angkatan adalah Kepala Staf Angkatan Darat, Kepala Staf Angkatan Laut, dan Kepala Staf Angkatan Udara.",
+    "Question": "Bagaimana koordinasi antara ketiga Kepala Staf Angkatan?",
+    "Answer": "Mereka berkomunikasi melalui rapat Tingkat Staf Gabungan dan Komite Strategic Defense."
+  },
+  {
+    "Context": "Pasal 1 ayat 12: Kepala Staf Angkatan adalah Kepala Staf Angkatan Darat, Kepala Staf Angkatan Laut, dan Kepala Staf Angkatan Udara.",
+    "Question": "Siapa yang menetapkan Kepala Staf Angkatan?",
+    "Answer": "Presiden Republik Indonesia atas usulan Menteri Pertahanan dan pertimbangan DPR."
+  },
+  {
+    "Context": "Pasal 1 ayat 12: Kepala Staf Angkatan adalah Kepala Staf Angkatan Darat, Kepala Staf Angkatan Laut, dan Kepala Staf Angkatan Udara.",
+    "Question": "Mengapa jabatan ini penting bagi kesiapan pertahanan?",
+    "Answer": "Karena mereka mengatur strategi matra, memimpin latihan, dan menjamin kesiagaan pasukan."
+  },
+  {
+    "Context": "Pasal 1 ayat 13: Prajurit adalah anggota TNI.",
+    "Question": "Apa definisi ‘Prajurit’ menurut UU No. 34/2004?",
+    "Answer": "‘Prajurit’ adalah setiap warga negara yang resmi terdaftar dan bergabung sebagai anggota TNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 13: Prajurit adalah anggota TNI.",
+    "Question": "Bagaimana cara menjadi Prajurit TNI?",
+    "Answer": "Melalui seleksi penerimaan, pendidikan dasar keprajuritan, dan pengangkatan berdasarkan ketentuan."
+  },
+  {
+    "Context": "Pasal 1 ayat 13: Prajurit adalah anggota TNI.",
+    "Question": "Apa kewajiban utama seorang Prajurit?",
+    "Answer": "Menjaga kedaulatan negara, mematuhi komando, dan melaksanakan tugas sesuai fungsi matra."
+  },
+  {
+    "Context": "Pasal 1 ayat 13: Prajurit adalah anggota TNI.",
+    "Question": "Apa hak-hak Prajurit selama dinas keprajuritan?",
+    "Answer": "Mendapatkan tunjangan, asuransi, pendidikan lanjutan, dan perlindungan hukum."
+  },
+  {
+    "Context": "Pasal 1 ayat 13: Prajurit adalah anggota TNI.",
+    "Question": "Bagaimana status Prajurit setelah pensiun?",
+    "Answer": "Mereka menjadi Persit/Korpri dengan hak pensiun dan tunjangan sesuai peraturan."
+  },
+  {
+    "Context": "Pasal 1 ayat 14: Dinas Keprajuritan adalah pengabdian seorang warga negara sebagai prajurit TNI.",
+    "Question": "Apa arti ‘Dinas Keprajuritan’?",
+    "Answer": "Pengabdian resmi warga negara yang menjalani tugas sebagai prajurit di bawah komando TNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 14: Dinas Keprajuritan adalah pengabdian seorang warga negara sebagai prajurit TNI.",
+    "Question": "Apa saja bentuk kegiatan Dinas Keprajuritan?",
+    "Answer": "Latihan militer, operasi kemanusiaan, dan pengamanan nasional."
+  },
+  {
+    "Context": "Pasal 1 ayat 14: Dinas Keprajuritan adalah pengabdian seorang warga negara sebagai prajurit TNI.",
+    "Question": "Apakah Dinas Keprajuritan bersifat sukarela atau wajib?",
+    "Answer": "Tergantung status: Prajurit Sukarela atas kemauan, Prajurit Wajib berdasarkan undang-undang."
+  },
+  {
+    "Context": "Pasal 1 ayat 14: Dinas Keprajuritan adalah pengabdian seorang warga negara sebagai prajurit TNI.",
+    "Question": "Siapa yang menetapkan durasi Dinas Keprajuritan?",
+    "Answer": "Peraturan pemerintah dan keputusan pimpinan TNI sesuai kebutuhan nasional."
+  },
+  {
+    "Context": "Pasal 1 ayat 14: Dinas Keprajuritan adalah pengabdian seorang warga negara sebagai prajurit TNI.",
+    "Question": "Bagaimana mekanisme pengunduran diri dari Dinas Keprajuritan?",
+    "Answer": "Melalui prosedur resmi, rekomendasi atasan, dan persetujuan Kementerian Pertahanan."
+  },
+  {
+    "Context": "Pasal 1 ayat 15: Prajurit Sukarela adalah warga negara yang atas kemauan sendiri mengabdikan diri dalam dinas keprajuritan.",
+    "Question": "Apa yang dimaksud Prajurit Sukarela?",
+    "Answer": "Warga negara yang memilih secara sukarela untuk bergabung dan mengabdi di TNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 15: Prajurit Sukarela adalah warga negara yang atas kemauan sendiri mengabdikan diri dalam dinas keprajuritan.",
+    "Question": "Apa syarat menjadi Prajurit Sukarela?",
+    "Answer": "Memenuhi kriteria fisik, psikologis, akademis, dan mengikuti seleksi penerimaan TNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 15: Prajurit Sukarela adalah warga negara yang atas kemauan sendiri mengabdikan diri dalam dinas keprajuritan.",
+    "Question": "Apa keuntungan memilih status Sukarela?",
+    "Answer": "Adanya insentif, pilihan karier jelas, dan hak pensiun sama seperti Prajurit Wajib."
+  },
+  {
+    "Context": "Pasal 1 ayat 15: Prajurit Sukarela adalah warga negara yang atas kemauan sendiri mengabdikan diri dalam dinas keprajuritan.",
+    "Question": "Bolehkah Prajurit Sukarela mundur sewaktu-waktu?",
+    "Answer": "Ada prosedur pengunduran diri, tetapi perlu izin dan pertimbangan moral dari atasan."
+  },
+  {
+    "Context": "Pasal 1 ayat 15: Prajurit Sukarela adalah warga negara yang atas kemauan sendiri mengabdikan diri dalam dinas keprajuritan.",
+    "Question": "Bagaimana status Prajurit Sukarela setelah masa dinas selesai?",
+    "Answer": "Dapat kembali ke kehidupan sipil dengan hak pensiun atau perpanjangan masa dinas."
+  },
+  {
+    "Context": "Pasal 1 ayat 16: Prajurit Wajib adalah warga negara yang mengabdikan diri dalam dinas keprajuritan karena diwajibkan berdasarkan peraturan perundang-undangan.",
+    "Question": "Apa beda Prajurit Wajib dengan Sukarela?",
+    "Answer": "Prajurit Wajib mengikuti kewajiban berdasarkan undang-undang, bukan pilihan pribadi."
+  },
+  {
+    "Context": "Pasal 1 ayat 16: Prajurit Wajib adalah warga negara yang mengabdikan diri dalam dinas keprajuritan karena diwajibkan berdasarkan peraturan perundang-undangan.",
+    "Question": "Contoh Prajurit Wajib dalam UU pertahanan?",
+    "Answer": "Warga negara terpilih untuk wajib militer saat darurat nasional atau berdasarkan undang-undang wajib militer."
+  },
+  {
+    "Context": "Pasal 1 ayat 16: Prajurit Wajib adalah warga negara yang mengabdikan diri dalam dinas keprajuritan karena diwajibkan berdasarkan peraturan perundang-undangan.",
+    "Question": "Apakah Prajurit Wajib menerima hak yang sama?",
+    "Answer": "Ya, mereka berhak atas tunjangan, asuransi, dan pendidikan sama seperti Sukarela."
+  },
+  {
+    "Context": "Pasal 1 ayat 16: Prajurit Wajib adalah warga negara yang mengabdikan diri dalam dinas keprajuritan karena diwajibkan berdasarkan peraturan perundang-undangan.",
+    "Question": "Bagaimana proses pemanggilan Prajurit Wajib?",
+    "Answer": "Berdasarkan Surat Perintah Wajib Militer yang diterbitkan oleh instansi berwenang."
+  },
+  {
+    "Context": "Pasal 1 ayat 16: Prajurit Wajib adalah warga negara yang mengabdikan diri dalam dinas keprajuritan karena diwajibkan berdasarkan peraturan perundang-undangan.",
+    "Question": "Berapa lama durasi masa dinas bagi Prajurit Wajib?",
+    "Answer": "Tergantung peraturan pelaksana; biasanya diatur pada Peraturan Pemerintah terkait wajib militer."
+  },
+  {
+    "Context": "Pasal 1 ayat 17: Prajurit Siswa adalah warga negara yang sedang menjalani pendidikan pertama untuk menjadi prajurit.",
+    "Question": "Siapa yang disebut Prajurit Siswa?",
+    "Answer": "Warga negara peserta pendidikan dasar keprajuritan yang belum resmi diangkat sebagai Prajurit."
+  },
+  {
+    "Context": "Pasal 1 ayat 17: Prajurit Siswa adalah warga negara yang sedang menjalani pendidikan pertama untuk menjadi prajurit.",
+    "Question": "Apa tujuan pendidikan pertama bagi Prajurit Siswa?",
+    "Answer": "Membentuk karakter, fisik, dan keterampilan dasar untuk menjadi anggota TNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 17: Prajurit Siswa adalah warga negara yang sedang menjalani pendidikan pertama untuk menjadi prajurit.",
+    "Question": "Apa perbedaan Prajurit Siswa dan Prajurit penuh?",
+    "Answer": "Siswa masih dalam pendidikan; Prajurit penuh sudah lulus dan diangkat resmi."
+  },
+  {
+    "Context": "Pasal 1 ayat 17: Prajurit Siswa adalah warga negara yang sedang menjalani pendidikan pertama untuk menjadi prajurit.",
+    "Question": "Bagaimana evaluasi kelulusan Prajurit Siswa?",
+    "Answer": "Melalui ujian fisik, mental, dan akademis yang disusun satuan pendidikan."
+  },
+  {
+    "Context": "Pasal 1 ayat 17: Prajurit Siswa adalah warga negara yang sedang menjalani pendidikan pertama untuk menjadi prajurit.",
+    "Question": "Hak apa saja yang diterima Prajurit Siswa?",
+    "Answer": "Tunjangan latihan, akomodasi, dan perlindungan sesuai standar satuan pendidikan."
+  },
+  {
+    "Context": "Pasal 1 ayat 18: Pendidikan Pertama adalah pendidikan untuk membentuk Prajurit Siswa menjadi anggota TNI yang ditempuh melalui pendidikan dasar keprajuritan.",
+    "Question": "Apa itu Pendidikan Pertama?",
+    "Answer": "Pendidikan dasar keprajuritan yang menjadikan Siswa layak diangkat menjadi Prajurit."
+  },
+  {
+    "Context": "Pasal 1 ayat 18: Pendidikan Pertama adalah pendidikan untuk membentuk Prajurit Siswa menjadi anggota TNI yang ditempuh melalui pendidikan dasar keprajuritan.",
+    "Question": "Berapa lama durasi Pendidikan Pertama?",
+    "Answer": "Diatur dalam peraturan satuan pendidikan TNI; biasanya beberapa bulan sesuai matra."
+  },
+  {
+    "Context": "Pasal 1 ayat 18: Pendidikan Pertama adalah pendidikan untuk membentuk Prajurit Siswa menjadi anggota TNI yang ditempuh melalui pendidikan dasar keprajuritan.",
+    "Question": "Materi apa saja dalam Pendidikan Pertama?",
+    "Answer": "Disiplin militer, bela negara, taktik dasar, serta fisik dan senjata ringan."
+  },
+  {
+    "Context": "Pasal 1 ayat 18: Pendidikan Pertama adalah pendidikan untuk membentuk Prajurit Siswa menjadi anggota TNI yang ditempuh melalui pendidikan dasar keprajuritan.",
+    "Question": "Siapa penyelenggara Pendidikan Pertama?",
+    "Answer": "Pusat Pendidikan dan Latihan TNI yang di bawah koordinasi Kementerian Pertahanan."
+  },
+  {
+    "Context": "Pasal 1 ayat 18: Pendidikan Pertama adalah pendidikan untuk membentuk Prajurit Siswa menjadi anggota TNI yang ditempuh melalui pendidikan dasar keprajuritan.",
+    "Question": "Apa indikator keberhasilan Pendidikan Pertama?",
+    "Answer": "Kelulusan dari ujian, sikap disiplin, dan kesiapan operasional dasar."
+  },
+  {
+    "Context": "Pasal 1 ayat 19: Pendidikan Pembentukan adalah pendidikan untuk membentuk tamtama menjadi bintara atau bintara menjadi perwira yang ditempuh melalui pendidikan dasar golongan pangkat.",
+    "Question": "Apa tujuan Pendidikan Pembentukan?",
+    "Answer": "Meningkatkan pangkat tamtama ke bintara atau bintara ke perwira melalui pelatihan khusus."
+  },
+  {
+    "Context": "Pasal 1 ayat 19: Pendidikan Pembentukan adalah pendidikan untuk membentuk tamtama menjadi bintara atau bintara menjadi perwira yang ditempuh melalui pendidikan dasar golongan pangkat.",
+    "Question": "Siapa peserta Pendidikan Pembentukan?",
+    "Answer": "Tamtama atau bintara terpilih yang memenuhi syarat pangkat dan kualifikasi."
+  },
+  {
+    "Context": "Pasal 1 ayat 19: Pendidikan Pembentukan adalah pendidikan untuk membentuk tamtama menjadi bintara atau bintara menjadi perwira yang ditempuh melalui pendidikan dasar golongan pangkat.",
+    "Question": "Berapa lama program ini biasanya berlangsung?",
+    "Answer": "Tergantung golongan pangkat dan matra, biasanya beberapa bulan hingga setahun."
+  },
+  {
+    "Context": "Pasal 1 ayat 19: Pendidikan Pembentukan adalah pendidikan untuk membentuk tamtama menjadi bintara atau bintara menjadi perwira yang ditempuh melalui pendidikan dasar golongan pangkat.",
+    "Question": "Materi apa yang diberikan pada Pendidikan Pembentukan?",
+    "Answer": "Kepemimpinan, taktik lanjutan, administrasi militer, dan manajemen personel."
+  },
+  {
+    "Context": "Pasal 1 ayat 19: Pendidikan Pembentukan adalah pendidikan untuk membentuk tamtama menjadi bintara atau bintara menjadi perwira yang ditempuh melalui pendidikan dasar golongan pangkat.",
+    "Question": "Bagaimana kelulusan Pendidikan Pembentukan dinilai?",
+    "Answer": "Melalui ujian teori, praktik komando, dan penilaian kepemimpinan."
+  },
+  {
+    "Context": "Pasal 1 ayat 20: Militer adalah kekuatan angkatan perang dari suatu negara yang diatur berdasarkan peraturan perundang-undangan.",
+    "Question": "Apa arti ‘Militer’ dalam UU No. 34/2004?",
+    "Answer": "Kekuatan angkatan perang yang tersusun menurut hukum dan peraturan nasional."
+  },
+  {
+    "Context": "Pasal 1 ayat 20: Militer adalah kekuatan angkatan perang dari suatu negara yang diatur berdasarkan peraturan perundang-undangan.",
+    "Question": "Bagaimana Militer di Indonesia diatur secara hukum?",
+    "Answer": "Melalui UU, PP, dan Peraturan Menhan yang menjabarkan struktur serta tugas angkatan perang."
+  },
+  {
+    "Context": "Pasal 1 ayat 20: Militer adalah kekuatan angkatan perang dari suatu negara yang diatur berdasarkan peraturan perundang-undangan.",
+    "Question": "Apa hubungan antara Militer dan pertahanan negara?",
+    "Answer": "Militer merupakan alat utama pelaksanaan pertahanan untuk menegakkan kedaulatan."
+  },
+  {
+    "Context": "Pasal 1 ayat 20: Militer adalah kekuatan angkatan perang dari suatu negara yang diatur berdasarkan peraturan perundang-undangan.",
+    "Question": "Siapa pemegang wewenang tertinggi atas Militer di Indonesia?",
+    "Answer": "Presiden sebagai Panglima Tertinggi TNI berdasarkan UUD 1945."
+  },
+  {
+    "Context": "Pasal 1 ayat 20: Militer adalah kekuatan angkatan perang dari suatu negara yang diatur berdasarkan peraturan perundang-undangan.",
+    "Question": "Mengapa Militer harus diatur dalam undang-undang?",
+    "Answer": "Agar operasi dan kewenangan militer jelas, terkontrol, serta sesuai prinsip demokrasi dan HAM."
+  },
+    {
+    "Context": "Pasal 1 ayat 21: Tentara adalah warga negara yang dipersiapkan dan dipersenjatai untuk tugas-tugas pertahanan negara guna menghadapi ancaman militer maupun ancaman bersenjata.",
+    "Question": "Apa definisi “Tentara” menurut Pasal 1 ayat 21?",
+    "Answer": "“Tentara” adalah warga negara terlatih dan dipersenjatai secara resmi untuk melaksanakan tugas pertahanan menghadapi berbagai ancaman."
+  },
+  {
+    "Context": "Pasal 1 ayat 21: Tentara adalah warga negara yang dipersiapkan dan dipersenjatai untuk tugas-tugas pertahanan negara guna menghadapi ancaman militer maupun ancaman bersenjata.",
+    "Question": "Mengapa persiapan dan persenjataan Tentara penting dalam pertahanan?",
+    "Answer": "Agar Tentara selalu siap dan memiliki kemampuan memadai untuk menjaga kedaulatan dari segala bentuk ancaman."
+  },
+  {
+    "Context": "Pasal 1 ayat 21: Tentara adalah warga negara yang dipersiapkan dan dipersenjatai untuk tugas-tugas pertahanan negara guna menghadapi ancaman militer maupun ancaman bersenjata.",
+    "Question": "Bagaimana status hukum Tentara dibanding warga sipil?",
+    "Answer": "Tentara tunduk pada aturan militer khusus, berbeda dengan warga sipil yang mengikuti hukum sipil."
+  },
+  {
+    "Context": "Pasal 1 ayat 21: Tentara adalah warga negara yang dipersiapkan dan dipersenjatai untuk tugas-tugas pertahanan negara guna menghadapi ancaman militer maupun ancaman bersenjata.",
+    "Question": "Siapa yang menetapkan standar persenjataan Tentara?",
+    "Answer": "Standar ditetapkan melalui peraturan Menhan dan dilaksanakan oleh satuan materiil TNI."
+  },
+  {
+    "Context": "Pasal 1 ayat 21: Tentara adalah warga negara yang dipersiapkan dan dipersenjatai untuk tugas-tugas pertahanan negara guna menghadapi ancaman militer maupun ancaman bersenjata.",
+    "Question": "Apa perbedaan ancaman militer dan ancaman bersenjata yang dihadapi Tentara?",
+    "Answer": "Ancaman militer datang dari kekuatan militer negara lain, sedangkan ancaman bersenjata bisa dari kelompok non-negara."
+  },
+  {
+    "Context": "Pasal 1 ayat 22: Ancaman adalah setiap upaya dan kegiatan, baik dari dalam negeri maupun luar negeri yang dinilai mengancam atau membahayakan kedaulatan negara, keutuhan wilayah negara, dan keselamatan segenap bangsa.",
+    "Question": "Apa yang dimaksud dengan “Ancaman” dalam Pasal 1 ayat 22?",
+    "Answer": "“Ancaman” adalah segala tindakan atau rencana, di dalam maupun luar negeri, yang berpotensi merusak kedaulatan, wilayah, atau keselamatan bangsa."
+  },
+  {
+    "Context": "Pasal 1 ayat 22: Ancaman adalah setiap upaya dan kegiatan, baik dari dalam negeri maupun luar negeri yang dinilai mengancam atau membahayakan kedaulatan negara, keutuhan wilayah negara, dan keselamatan segenap bangsa.",
+    "Question": "Sebutkan tiga aspek yang dilindungi dari ancaman!",
+    "Answer": "Kedaulatan negara, keutuhan wilayah, dan keselamatan segenap bangsa."
+  },
+  {
+    "Context": "Pasal 1 ayat 22: Ancaman adalah setiap upaya dan kegiatan, baik dari dalam negeri maupun luar negeri yang dinilai mengancam atau membahayakan kedaulatan negara, keutuhan wilayah negara, dan keselamatan segenap bangsa.",
+    "Question": "Berikan contoh ancaman dari dalam negeri!",
+    "Answer": "Gerakan separatis atau terorisme di wilayah NKRI."
+  },
+  {
+    "Context": "Pasal 1 ayat 22: Ancaman adalah setiap upaya dan kegiatan, baik dari dalam negeri maupun luar negeri yang dinilai mengancam atau membahayakan kedaulatan negara, keutuhan wilayah negara, dan keselamatan segenap bangsa.",
+    "Question": "Bagaimana langkah antisipasi ancaman lintas batas?",
+    "Answer": "Melalui kerjasama intelijen, peningkatan patroli perbatasan, dan diplomasi pertahanan."
+  },
+  {
+    "Context": "Pasal 1 ayat 22: Ancaman adalah setiap upaya dan kegiatan, baik dari dalam negeri maupun luar negeri yang dinilai mengancam atau membahayakan kedaulatan negara, keutuhan wilayah negara, dan keselamatan segenap bangsa.",
+    "Question": "Mengapa penting mengkaji ancaman secara berkala?",
+    "Answer": "Agar kebijakan pertahanan selalu relevan dan responsif terhadap dinamika situasi."
+  },
+  {
+    "Context": "Pasal 1 ayat 23: Ancaman Militer adalah ancaman yang dilakukan oleh militer suatu negara kepada negara lain.",
+    "Question": "Apa yang dimaksud “Ancaman Militer”?",
+    "Answer": "Ancaman Militer adalah aksi atau persiapan militer negara asing yang menargetkan kedaulatan atau keamanan NKRI."
+  },
+  {
+    "Context": "Pasal 1 ayat 23: Ancaman Militer adalah ancaman yang dilakukan oleh militer suatu negara kepada negara lain.",
+    "Question": "Bagaimana cara mendeteksi ancaman militer?",
+    "Answer": "Lewat pemantauan radar, sinyal intelijen, dan patroli udara maupun laut."
+  },
+  {
+    "Context": "Pasal 1 ayat 23: Ancaman Militer adalah ancaman yang dilakukan oleh militer suatu negara kepada negara lain.",
+    "Question": "Apa contoh skenario Ancaman Militer?",
+    "Answer": "Penempatan pasukan asing di Zona Ekonomi Eksklusif tanpa pemberitahuan."
+  },
+  {
+    "Context": "Pasal 1 ayat 23: Ancaman Militer adalah ancaman yang dilakukan oleh militer suatu negara kepada negara lain.",
+    "Question": "Apa peran TNI dalam menghadapi ancaman militer?",
+    "Answer": "Menjaga kesiapsiagaan operasional dan melakukan deteren militer."
+  },
+  {
+    "Context": "Pasal 1 ayat 24: Ancaman Bersenjata adalah ancaman yang datangnya dari gerakan kekuatan bersenjata.",
+    "Question": "Definisikan “Ancaman Bersenjata” menurut Pasal ini.",
+    "Answer": "Segala bentuk ancaman yang dilakukan kelompok bersenjata non-negara, seperti pemberontakan bersenjata."
+  },
+  {
+    "Context": "Pasal 1 ayat 24: Ancaman Bersenjata adalah ancaman yang datangnya dari gerakan kekuatan bersenjata.",
+    "Question": "Bagaimana TNI menanggapinya?",
+    "Answer": "Dengan operasi penegakan hukum militer dan kerjasama Polri untuk pemberantasan kelompok bersenjata."
+  },
+  {
+    "Context": "Pasal 1 ayat 24: Ancaman Bersenjata adalah ancaman yang datangnya dari gerakan kekuatan bersenjata.",
+    "Question": "Apa perbedaan Ancaman Militer dan Ancaman Bersenjata?",
+    "Answer": "Militer berasal dari negara lain, sedangkan bersenjata dari kelompok non-negara dalam negeri."
+  },
+  {
+    "Context": "Pasal 1 ayat 24: Ancaman Bersenjata adalah ancaman yang datangnya dari gerakan kekuatan bersenjata.",
+    "Question": "Sebutkan satu contoh kelompok bersenjata di Indonesia!",
+    "Answer": "Gerakan separatis di wilayah timur Indonesia."
+  },
+  {
+    "Context": "Pasal 1 ayat 25: Gerakan Bersenjata adalah gerakan sekelompok warga negara suatu negara yang bertindak melawan pemerintahan yang sah dengan melakukan perlawanan bersenjata.",
+    "Question": "Apa arti “Gerakan Bersenjata”?",
+    "Answer": "Pergerakan warga negara yang menggunakan kekuatan senjata untuk melawan pemerintahan resmi."
+  },
+  {
+    "Context": "Pasal 1 ayat 25: Gerakan Bersenjata adalah gerakan sekelompok warga negara suatu negara yang bertindak melawan pemerintahan yang sah dengan melakukan perlawanan bersenjata.",
+    "Question": "Bagaimana hukum menanggapi Gerakan Bersenjata?",
+    "Answer": "Kelompok tersebut dipidana sesuai KUHP dan undang-undang terorisme atau makar."
+  },
+  {
+    "Context": "Pasal 1 ayat 25: Gerakan Bersenjata adalah gerakan sekelompok warga negara suatu negara yang bertindak melawan pemerintahan yang sah dengan melakukan perlawanan bersenjata.",
+    "Question": "Apa upaya pencegahan Gerakan Bersenjata?",
+    "Answer": "Meningkatkan kesejahteraan daerah, dialog politik, dan penegakan hukum tegas."
+  },
+  {
+    "Context": "Pasal 1 ayat 25: Gerakan Bersenjata adalah gerakan sekelompok warga negara suatu negara yang bertindak melawan pemerintahan yang sah dengan melakukan perlawanan bersenjata.",
+    "Question": "Mengapa dialog politik penting meredam Gerakan Bersenjata?",
+    "Answer": "Karena penyelesaian non-militer dapat mengurangi dukungan dan konflik bersenjata."
+  },
+  {
+    "Context": "Pasal 1 ayat 25: Gerakan Bersenjata adalah gerakan sekelompok warga negara suatu negara yang bertindak melawan pemerintahan yang sah dengan melakukan perlawanan bersenjata.",
+    "Question": "Bagaimana koordinasi TNI dengan Polri dalam menanggulangi Gerakan Bersenjata?",
+    "Answer": "Melalui operasi gabungan TNI-Polri dan pertukaran intelijen lapangan."
+  }
+]
