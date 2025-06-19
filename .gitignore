@@ -1,3 +1,22 @@
 .env
 *.txt
 main.py
+
+# --- Virtual Environment ---
+# Folder ini berisi library Python yang di-install lokal, ukurannya besar
+# dan spesifik untuk sistem operasi Anda. Tidak boleh di-upload.
+venv/
+.venv/
+env/
+.env/
+
+# --- Cache Python ---
+# File-file sementara yang dibuat oleh Python.
+__pycache__/
+*.pyc
+
+# --- File IDE & Sistem Operasi ---
+# File konfigurasi spesifik untuk editor kode atau OS.
+.idea/
+.vscode/
+.DS_Store
