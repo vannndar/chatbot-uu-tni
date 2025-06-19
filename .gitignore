@@ -1,5 +1,4 @@
 .env
-*.txt
 main.py
 
 # --- Virtual Environment ---
