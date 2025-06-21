@@ -1,130 +1,117 @@
-import os
+# File: app.py
+
 import streamlit as st
-from dotenv import load_dotenv
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.runnables import RunnableLambda, RunnablePassthrough
-from langchain_community.vectorstores import FAISS
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_huggingface import HuggingFaceEmbeddings
+from rag_handler import load_retriever, get_context
+from api_client import get_answer_from_api
 
-# Muat environment variable dari file .env
-load_dotenv()
+LOGO_PATH = "assets/logo_its.png"
+USER_AVATAR_PATH = "assets/user_icon.png"
+BOT_AVATAR_PATH = "assets/law_icon.png"
 
-# Path ke vector store yang sudah ada
-DB_FAISS_PATH = "vectorstore/db_faiss"
+def display_sources(documents):
+    with st.expander("Lihat Konteks Dokumen yang Digunakan untuk Analisis"):
+        if documents:
+            for i, doc in enumerate(documents):
+                source_text = f"""
+                **Konteks {i+1}:**
+                > {doc.page_content}
+                """
+                st.markdown(source_text, unsafe_allow_html=True)
+                st.divider()
+        else:
+            st.write("Tidak ada dokumen relevan yang ditemukan untuk pertanyaan ini.")
 
-# Template prompt Anda sudah sangat baik, tidak perlu diubah.
-custom_prompt_template = """
-### Peran:
-Anda adalah seorang Ahli Hukum Strategis Indonesia yang sangat teliti dan objektif. Tugas Anda adalah menganalisis pertanyaan berdasarkan konteks hukum yang disediakan dari Undang-Undang.
+def setup_sidebar():
+    with st.sidebar:
+        col1, col2 = st.columns([1, 3])
+        with col1:
+            st.image(LOGO_PATH, width=50)
+        with col2:
+            st.markdown("<h4 style='margin-top: 15px;'>Text Mining Project</h4>", unsafe_allow_html=True)
+        
+        st.header("Tentang LawBot")
+        st.info(
+            "LawBot ini dirancang untuk menjawab pertanyaan spesifik mengenai "
+            "UU TNI No. 34 Tahun 2004."
+        )
+        
+        st.divider()
+        st.header("Contoh Pertanyaan")
+        
+        example_questions = [
+            "Apakah TNI bisa menjabat sebagai walikota?",
+            "Apa saja tugas TNI dalam operasi militer selain perang?",
+            "Bagaimana proses pengangkatan Panglima TNI?"
+        ]
+        
+        clicked_question = None
+        for q in example_questions:
+            if st.button(q, use_container_width=True):
+                clicked_question = q
+        
+        st.divider()
 
-### Struktur Jawaban:
-1.  **Inti Jawaban:**
-    -   Berikan jawaban langsung dan ringkas terhadap pertanyaan pengguna.
-    -   Sebutkan satu atau dua implikasi praktis utama dari jawaban tersebut.
-2.  **Rincian Analisis:**
-    a.  **Isu Pokok:** Identifikasi dan nyatakan kembali pertanyaan hukum spesifik yang diajukan.
-    b.  **Aturan & Unsur:** Uraikan aturan hukum yang relevan dari konteks yang diberikan. **Wajib menyertakan kutipan langsung dan menyebutkan nomor Pasal dan Ayat** yang menjadi dasar analisis.
-    c.  **Penerapan:** Analisis secara logis bagaimana aturan hukum tersebut berlaku untuk menjawab isu pokok.
-3.  **Disclaimer:**
-    -   Sertakan disclaimer bahwa jawaban ini bersifat informasional berdasarkan dokumen yang diberikan dan bukan merupakan nasihat hukum yang mengikat.
+        if st.button("Bersihkan Riwayat Chat", use_container_width=True, type="primary"):
+            if "messages" in st.session_state:
+                st.session_state.messages = []
+            st.rerun()
+        
+        st.divider()
+        st.markdown(
+        """
+        **Dikembangkan oleh:**
+        * Thariq Ivan - 5025221013
+        * Lucky Santoso - 5025221050
+        * Naufal Khairul R - 5025221127
+        """
+        )
+            
+        return clicked_question
 
-### Konteks:
-{context}
+def main():
+    st.set_page_config(page_title="LawBot UU TNI", page_icon=LOGO_PATH, layout="wide")
 
-### Pertanyaan:
-{question}
-
-### Jawaban:
-"""
-
-def load_llm():
-    """Memuat model LLM dari Google Gemini."""
-    api_key = os.getenv("GOOGLE_API_KEY")
-    if not api_key:
-        st.error("Error: GOOGLE_API_KEY tidak ditemukan. Pastikan file .env Anda sudah benar.")
+    retriever = load_retriever()
+    if retriever is None:
+        st.error("Gagal memuat komponen RAG. Aplikasi tidak dapat berjalan.")
         st.stop()
-    return ChatGoogleGenerativeAI(
-        model="gemini-2.0-flash",
-        google_api_key=api_key,
-        temperature=0.1,
-        convert_system_message_to_human=True
-    )
+    
+    example_question = setup_sidebar()
+    
+    st.title("LawBot UU TNI No. 34 Tahun 2004")
+    st.caption("Didukung oleh Model AI Fine-tuned & RAG")
 
-# --- PERUBAHAN UTAMA DI FUNGSI INI ---
-def create_rag_chain(retriever, llm, prompt):
-    """
-    Membuat RAG chain yang mengembalikan dictionary berisi jawaban dan konteks.
-    Ini menghindari pencarian ganda.
-    """
-    def format_docs(docs):
-        # Menggabungkan konten dokumen menjadi satu string untuk dimasukkan ke prompt
-        return "\n\n".join(doc.page_content for doc in docs)
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
 
-    rag_chain = (
-        # Langkah 1: Ambil pertanyaan dan ambil dokumen yang relevan.
-        # Kita menggunakan RunnablePassthrough untuk membawa dokumen asli ke langkah akhir.
-        RunnablePassthrough.assign(
-            context=(RunnableLambda(lambda x: x['question']) | retriever)
-        )
-        # Langkah 2: Buat dictionary baru untuk jawaban.
-        # 'answer' akan berisi hasil dari LLM.
-        # 'context' akan berisi dokumen yang kita bawa dari langkah sebelumnya.
-        | RunnablePassthrough.assign(
-            answer=(
-                RunnablePassthrough.assign(
-                    context=(lambda x: format_docs(x['context']))
-                )
-                | prompt
-                | llm
-                | StrOutputParser()
-            )
-        )
-    )
-    return rag_chain
+    for message in st.session_state.messages:
+        avatar = USER_AVATAR_PATH if message["role"] == "user" else BOT_AVATAR_PATH
+        with st.chat_message(message["role"], avatar=avatar):
+            st.markdown(message["content"])
+            if "sources" in message and message["sources"]:
+                display_sources(message["sources"])
 
-# --- UI Streamlit ---
-st.title("⚖️ LawBot UU TNI No. 34 Tahun 2004")
-st.write("Ajukan pertanyaan spesifik mengenai isi UU No. 34 Tahun 2004 tentang Tentara Nasional Indonesia.")
-
-try:
-    # Model embedding yang digunakan harus SAMA PERSIS dengan di setup_vectorstore.py
-    # Ganti 'paraphrase-multilingual-MiniLM-L12-v2' jika Anda menggunakan model lain saat setup
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-        model_kwargs={'device': 'cpu'}
-    )
-    db = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
-    retriever = db.as_retriever(search_kwargs={'k': 4})
-
-    llm = load_llm()
-    prompt = ChatPromptTemplate.from_template(custom_prompt_template)
-    qa_chain = create_rag_chain(retriever, llm, prompt)
-
-    user_question = st.text_input("Ajukan pertanyaan Anda:", placeholder="Contoh: Apa saja tugas TNI dalam Operasi Militer Selain Perang?")
+    user_question = st.chat_input("Ajukan pertanyaan Anda di sini...")
+    if example_question:
+        user_question = example_question
 
     if user_question:
-        st.markdown("---")
-        with st.spinner("Menganalisis dokumen dan menyusun jawaban..."):
-            # --- PERUBAHAN PADA CARA MEMANGGIL CHAIN ---
-            # Input sekarang harus berupa dictionary agar chain tahu mana 'question'
-            input_dict = {"question": user_question}
-            
-            # Melakukan pencarian SATU KALI SAJA
-            result = qa_chain.invoke(input_dict)
-            
-            # Menampilkan jawaban dari dictionary hasil
-            st.markdown(result['answer'])
+        st.session_state.messages.append({"role": "user", "content": user_question, "sources": []})
+        with st.chat_message("user", avatar=USER_AVATAR_PATH):
+            st.markdown(user_question)
 
-            # Menampilkan konteks dari dictionary hasil
-            with st.expander("Lihat Konteks Dokumen yang Digunakan untuk Analisis"):
-                for i, doc in enumerate(result['context']):
-                    st.write(f"**Konteks {i+1} (Sumber: {doc.metadata.get('source', 'N/A')}, Hal: {doc.metadata.get('page', 'N/A')})**")
-                    st.caption(doc.page_content)
-                    st.write("---")
+        with st.chat_message("assistant", avatar=BOT_AVATAR_PATH):
+            with st.spinner("Memproses pertanyaan..."):
+                context_text, relevant_docs = get_context(retriever, user_question)
+                answer = get_answer_from_api(user_question, context_text)
+                
+                st.markdown(answer)
+                display_sources(relevant_docs)
+        
+        st.session_state.messages.append({"role": "assistant", "content": answer, "sources": relevant_docs})
+        
+        if example_question:
+            st.stop()
 
-except FileNotFoundError:
-    st.error("Vector Store tidak ditemukan. Harap jalankan `python setup_vectorstore.py` terlebih dahulu.")
-except Exception as e:
-    st.error(f"Terjadi kesalahan saat menjalankan aplikasi: {e}")
+if __name__ == "__main__":
+    main()
