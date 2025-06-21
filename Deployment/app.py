@@ -3,10 +3,11 @@
 import streamlit as st
 from rag_handler import load_retriever, get_context
 from api_client import get_answer_from_api
+import os
 
-LOGO_PATH = "assets/logo_its.png"
-USER_AVATAR_PATH = "assets/user_icon.png"
-BOT_AVATAR_PATH = "assets/law_icon.png"
+LOGO_PATH = os.path.join(os.path.dirname(__file__), "assets", "logo_its.png")
+USER_AVATAR_PATH = os.path.join(os.path.dirname(__file__), "assets", "user_icon.png")
+BOT_AVATAR_PATH = os.path.join(os.path.dirname(__file__), "assets", "law_icon.png")
 
 def display_sources(documents):
     with st.expander("Lihat Konteks Dokumen yang Digunakan untuk Analisis"):
