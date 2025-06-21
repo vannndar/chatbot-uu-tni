@@ -3,7 +3,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-VECTORSTORE_PATH = os.path.join("vectorstore", "db_faiss")
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+VECTORSTORE_PATH = os.path.join(CURRENT_DIR, "vectorstore", "db_faiss")
 
 EMBEDDING_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 RETRIEVER_SEARCH_K = 2
