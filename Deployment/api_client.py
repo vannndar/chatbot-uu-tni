@@ -1,24 +1,26 @@
 # File: api_client.py
+
 import requests
 import streamlit as st
-from config import FLASK_API_URL  
 
-def get_answer_from_api(question: str, context: str):
+def get_answer_from_api(question: str, context: str, api_url: str):
     """
-    Mengirim pertanyaan dan konteks mentah ke Flask API.
+    Mengirim pertanyaan dan konteks ke API model yang dipilih.
 
     Args:
         question (str): Pertanyaan mentah dari pengguna.
         context (str): String konteks yang sudah diformat dari RAG.
+        api_url (str): URL endpoint dari model yang dipilih.
 
     Returns:
         str: Jawaban dari model atau pesan error.
     """
-    if not FLASK_API_URL:
-        st.error("FLASK_API_URL tidak ditemukan di file .env atau config.py.")
+    if not api_url:
+        st.error("URL API untuk model yang dipilih tidak valid atau tidak tersedia.")
         return "Error: Konfigurasi API tidak ditemukan."
 
-    full_url = f"{FLASK_API_URL}/predict"
+    # Asumsi endpoint predict selalu '/predict'
+    full_url = f"{api_url.rstrip('/')}/predict"
     headers = {"Content-Type": "application/json"}
     
     payload = {
@@ -32,8 +34,9 @@ def get_answer_from_api(question: str, context: str):
         result = response.json()
         return result.get("answer", "Error: Kunci 'answer' tidak ditemukan dalam respons API.")
     except requests.exceptions.RequestException as e:
-        st.error(f"Koneksi Gagal: Tidak dapat menghubungi API. Detail: {e}")
-        return "Gagal terhubung ke server model."
+        error_message = f"Koneksi Gagal: Tidak dapat menghubungi API di {full_url}. Detail: {e}"
+        st.error(error_message)
+        return error_message
     except Exception as e:
         st.error(f"Terjadi kesalahan saat memproses respons: {e}")
-        return "Terjadi kesalahan pada sisi klien."
+        # return "Terjadi kesalahan pada sisi klien."
